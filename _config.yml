@@ -1,0 +1,16 @@
+#  Site wide configuration
+
+title: "NATO Architecture Framework v. 4"
+description: ""
+locale: en_UK
+
+# Jekyll configuration
+
+exclude:
+  - Gemfile
+  - LICENSE
+  - README.md
+  - .asset-cache
+  - .sass-cache
+
+# Collection

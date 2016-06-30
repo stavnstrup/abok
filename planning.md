@@ -48,7 +48,7 @@ where several of the work packages can be implemented more or less independently
 of each other.
 
 * Transforming the existing documents from Word to Github flavored markdown - can be done with Pandoc.
-   * Organisation of pages
+   * Organization of pages
 * Deciding of a palette for images
 * Recreating the images - preferable using SVG
 * Defining layout templates for the site and different document types
@@ -60,9 +60,9 @@ of each other.
 
 ## Outstanding issues
 
-* Nafdocs? Github organisation, nafdocs.org Ownership
+* Nafdocs? GitHub organization, nafdocs.org Ownership
 * What to do with the material on the existing site
-
+* Github flavoured markdown
 
 # Governance
 
@@ -71,8 +71,9 @@ of each other.
 * Decision
 * Delegation of responsibility
 * Who - Arch CaT
+* Mapping of governance roles to GitHub organisational roles.
 
-Github flavoured markdown
+
 
 
 # References
@@ -81,3 +82,6 @@ Github flavoured markdown
 * Jekyll Screencasts (34 videos) -  https://youtu.be/oiNVQ9Zjy4o?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-
 * Git Large File Storage (LFS) - https://git-lfs.github.com/
 * Jekyll documentation - http://www.jekyllrb.com
+* GitHub Guides - https://guides.github.com/
+* Github Help - https://help.github.com/
+* Github Organisational Accounts -https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/

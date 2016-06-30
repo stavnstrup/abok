@@ -16,19 +16,20 @@ and potentially it can also contain material such as
 * description of the NAF4 exchange format
 * a test suite for the exchange format
 * Proposals for new features in NAF4
-* data on the standard (Keith's material) an potential other material, which can be processed and presented i various ways including graphical.
+* data on the standard (Keith's material) an potential other material, which can be processed and presented in various ways including graphical.
 * a reference of open source NAF tools available, for presentation, analyzing, etc.
 * NAF4 for dummies, grandmothers, generals etc.
 * ...
 
 ##  Information  architecture
 
-How should information be organized.
+How should information be organized?
+
 * NAF in chapters
 * NAF + other stuff
 * A reorganized NAF. The web is not a book and are not friendly to huge amount of text.
 
-What can we delete.
+What can we delete?
 
 In a book the conclusion is the last chapter. On the web it is the first or at
 least a condensed version is. Next step: is the condensed version sufficient?
@@ -36,6 +37,7 @@ least a condensed version is. Next step: is the condensed version sufficient?
 We need policy for improvement. A book is final until the next version - the web
 is always changing - we should be able to propose changes to at least the text
 (not the meta model and viewpoints) between version - even when we are retired.
+
 Final Goal: your grandmother should understand all of it.
 
 
@@ -54,7 +56,7 @@ of each other.
 * Defining layout templates for the site and different document types
    * default.html - Basic HTML header/body structure used by all pages.
    * spec.html - used by the NAF4 specification (needs a layout with
-      navigation, which mimic a book).
+      navigation, which mimics a book).
    * ???
 * Creating CSS styles (potentially a style guide)
 * Defining reusable components
@@ -67,19 +69,18 @@ of each other.
 
 * Nafdocs? GitHub organization, nafdocs.org Ownership
 * What to do with the material on the existing site
-* Github flavoured markdown
+* Github flavored markdown
 
 # Governance
 
-* Usage of issues and pull requests
+Governance and usage of GitHub facilities - should properly be split up in two or more sections.
+
+* Usage of issues (proposals and comments) and pull requests (provide changes to the repository)
 * Milestones
 * Decision
 * Delegation of responsibility
 * Who - Arch CaT
-* Mapping of governance roles to GitHub organisational roles.
-
-
-
+* Mapping of governance roles to GitHub organizational roles.
 
 # References
 

@@ -52,8 +52,13 @@ of each other.
 * Deciding of a palette for images
 * Recreating the images - preferable using SVG
 * Defining layout templates for the site and different document types
+   * default.html - Basic HTML header/body structure used by all pages.
+   * spec.html - used by the NAF4 specification (needs a layout with
+      navigation, which mimic a book).
+   * ???
 * Creating CSS styles (potentially a style guide)
 * Defining reusable components
+   * ...
 * How to handle binary files such as images, PDF files etc. - a solution could be to use Git LFS
 * Social Media: Twitter (properly not), Github, YouTube.
 * Google analytics, SEO

@@ -29,7 +29,6 @@ How should information be organized?
 * NAF + other stuff
 * A reorganized NAF. The web is not a book and are not friendly to huge amount of text.
 
-What can we delete?
 
 In a book the conclusion is the last chapter. On the web it is the first or at
 least a condensed version is. Next step: is the condensed version sufficient?
@@ -39,6 +38,14 @@ is always changing - we should be able to propose changes to at least the text
 (not the meta model and viewpoints) between version - even when we are retired.
 
 Final Goal: your grandmother should understand all of it.
+
+A first version on the web will properly be a verbatim version of the docs, but
+it would be prudent if the web version focus on the most important stuff, and
+then link to pages with a more detailed material or pages with material, which
+are less significant. This will require a complete reorganization of the
+material.
+
+
 
 
 ## Converting word documents

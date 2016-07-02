@@ -66,6 +66,7 @@ of each other.
       navigation, which mimics a book).
    * ???
 * Creating CSS styles (potentially a style guide)
+  * Use a CSS style library so we do not pollute the markup with non semantics styles - we should properly use Thoughtbot's Bourbon and family)
 * Defining reusable components
    * ...
 * How to handle binary files such as images, PDF files etc. - a solution could be to use Git LFS
@@ -77,6 +78,8 @@ of each other.
 * Nafdocs? GitHub organization, nafdocs.org Ownership
 * What to do with the material on the existing site
 * Github flavored markdown
+* To ensure the audience sees the site as more as a storage facility for NAF4, we could have a number of blog entries ready for publication in the weeks/months after the first release. Proposals for first bloggers (Konstantin, Jean-Luc and Ian Baily). If we want to continue down this road, we could after getting permission re-publish papers from the IST-115 seminar in Toulouse in 2013.
+
 
 # Governance
 

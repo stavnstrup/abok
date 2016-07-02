@@ -1,0 +1,47 @@
+- title: General
+  short: General
+  url: general
+
+- title: What is Architecture
+  short: What is Architecture
+  url: what-is-arch
+
+- title: What is an Enterprise Architecture
+  short: What is EA
+  url: what-is-es
+
+- title: What is an Architecture Framework
+  short: Architecture Framework
+  url: what-is-af
+
+- title: The Structure of the Nato Architecture Framework
+  short: The Structure of the NAF
+  url: structure
+
+- title: The Purpose and Scope of Architectures and Architecture Frameworks
+  short: Purpose and Scope
+  url: purpose
+
+- title: New Features and Important Changes in NAF4
+  short: Changes
+  url: changes
+
+- title: The Benefit of Using Architecture Tools
+  short: Benefit of using Tools
+  url: benefits
+
+- title: Level and Types of Architectures
+  short: Level and Types
+  url: levels-types
+
+- title: Styles of Architecting
+  short: Styles
+  url: styles
+
+- title: Guidelines for Architectures
+  short: Guidelines
+  url: guidelines
+
+- title: References
+  short: References
+  url: references

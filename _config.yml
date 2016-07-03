@@ -10,6 +10,7 @@ exclude:
   - Gemfile
   - LICENSE
   - README.md
+  - .editorconfig
   - .asset-cache
   - .sass-cache
 

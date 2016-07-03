@@ -13,5 +13,8 @@ exclude:
   - .editorconfig
   - .asset-cache
   - .sass-cache
+  - Vagrantfile
+  - Gemfile
+  - Gemfile.lock
 
 # Collection

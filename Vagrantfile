@@ -3,9 +3,11 @@
 
 Vagrant.configure(2) do |config|
   config.vm.box = "bento/ubuntu-16.04"
-  
+
+  config.vm.network "forwarded_port", guest: 4000, host: 4000
+
   config.vm.provision "shell", inline: <<-SHELL
-    sudo apt-get install -y ruby bundler
+    sudo apt-get -y install ruby bundler nodejs
     cd /vagrant
     bundle install
   SHELL

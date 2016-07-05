@@ -11,23 +11,28 @@ you local machine.
 
 To create the virtual machine, you need to follow the following steps.
 
-1. Create the virtual machine
+Create the virtual machine
 
-       $ vagrant up
+    $ vagrant up
 
-   Note the above instructions is supposed to provision the box as well, However, due to changes in latest Ubuntu 16.04, Vagrant version 1.8.1 or older fails to provision during creation.
+Note the above instructions is supposed to provision the box as well, However,
+due to changes in latest Ubuntu 16.04, Vagrant version 1.8.1 or older fails to
+provision during creation.
 
-   It might therefore be necessary to provision the machine in a separate step by running the command
+It might therefore be necessary to provision the machine in a separate step by
+running the command
 
-       $ vagrant provision
+    $ vagrant provision
 
-2. Open a shell. Goto the directory where the repository is located and run the command
+Open a shell. Goto the directory where the repository is located and run the command
 
-       $ vagrant ssh
+    $ vagrant ssh
 
-3. Now you are logged in to the virtual machine and can run the following commands, which will force Jekyll to generate new files, whenever the sources have changed
+Now you are logged in to the virtual machine and can run the following commands,
+which will force Jekyll to generate new files, whenever the sources have changed
 
-       $ cd /vagrant
-       $ jekyll serve --host 0.0.0.0 --force_polling
+    $ cd /vagrant
+    $ jekyll serve --host 0.0.0.0 --force_polling
 
-From time to time, Jekyll might stop automatically generate files. If that is the case, then just restart Jekyll.
+From time to time, Jekyll might stop automatically generate files. If that is
+the case, then just restart Jekyll.

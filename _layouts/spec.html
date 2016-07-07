@@ -3,4 +3,15 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
-{{ content }}
+<section class="specpage">
+  <aside class="chap-nav">
+    <ul>
+    {% for section in site.data.naf4-chap1-nav %}
+      <li><a href="{{section.url}}.html">{{section.title}}</a></li>
+    {% endfor %}
+    </ul>
+  </aside>
+  <article class="main">
+    {{ content }}
+  </article>
+</section>

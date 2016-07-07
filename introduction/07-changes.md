@@ -17,9 +17,10 @@ This replacement ensures that NAF development keeps pace with DoDAF and achieves
 
 The NAF is a two-dimensional classification scheme for descriptive representations of an Enterprise is called a Grid. The grid representation has been developed which organises the various viewpoints more logically and consistently to aid architects, as indicated below:
 
-<embed src="media/image4.wmf" width="608" height="310" />
 
-<span id="__RefHeading___Toc443944793" class="anchor"></span>Figure Chapter‑3: NAF Viewpoints in a grid structure
+{%include naf4grid.html %}
+
+**Figure Chapter‑3: NAF Viewpoints in a grid structure**
 
 The grid approach presents the NAF viewpoints by Model Kind (horizontal axis) and by layers of abstraction (vertical). A Model Kind is defined in ISO42010 as “conventions for one type of modelling”. NAF identifies a set of broad Model Kinds:
 
@@ -45,9 +46,8 @@ The grid approach presents the NAF viewpoints by Model Kind (horizontal axis) an
 
 Each cell at the intersection of each row and model kinds is a Viewpoint (usually an existing NAF 3 Viewpoint). The new approach is information-centric. It divides the framework up into categories of architectural information rather than how the information is presented.
 
-<img src="media/image5.jpeg" width="551" height="294" />
 
-<span id="__RefHeading___Toc443944794" class="anchor"></span>Figure Chapter‑4: Architecture Workflows
+{%include figure.html url="../images/no-fig-yet.svg" description="Figure Chapter‑4: Architecture Workflows" %}
 
 # Architecture Methodology
 

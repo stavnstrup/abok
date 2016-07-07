@@ -16,5 +16,3 @@ The following guidelines are to be used in the development of architectures:
 -   Architectures should be modular, reusable, and decomposable. They must provide the specified minimum set of views; use specified standardized supporting products (when needed); use common terms and definitions; and in a standard way, describe multi-national relationships and interoperability requirements.
 
 -   Architectures should be supported by an Architecture Management Plan, to comply with governance directives; and define the scope, timelines and resources to deliver the architecture.
-
-    <span id="__RefHeading___Toc448301959" class="anchor"></span>**INTENTIONALLY BLANK**

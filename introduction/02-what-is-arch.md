@@ -15,17 +15,23 @@ In the case of the NAF, a *system* is anything that can be considered with a: sy
 * system of systems, or
 * enterprise.
 
-However a description of architecture can be started before any identification of systems. This is the case when the description starts with a pure operational description or a set of operational capabilities explaining what the user need is.
+However a description of architecture can be started before any identification
+of systems. This is the case when the description starts with a pure operational
+description or a set of operational capabilities explaining what the user need
+is.
 
 # Why Develop Architecture?
 
-Architectures are developed for a number of purposes. Their development can be described as both a process and a discipline. Architectures aid the development of systems that deliver solutions that can meet an organisations needs in achieving its mission.
+Architectures are developed for a number of purposes. Their development can be
+described as both a process and a discipline. Architectures aid the development
+of systems that deliver solutions that can meet an organisations needs in
+achieving its mission.
 
 Examples of why architecture is required:
 
 * Planning the transition of capability throughout its lifecycle.
-* Achieve greater flexibility, adaptability and capacity for cost effective acquisitions and building Multinational systems for supporting operations.
-
+* Achieve greater flexibility, adaptability and capacity for cost effective acquisitions and building
+  Multinational systems for supporting operations.
 * Understanding and mitigating risks.
 * Adapt better to changes in the business landscape, industry trends and regulatory environment.
 * Align business and technology to the same set of priorities.

@@ -3,8 +3,6 @@ layout: spec
 title: General
 ---
 
-hello world again again aggssgggg12345
-
 # Purpose
 
 The NATO Architecture Framework (NAF) is a standard for developing architectures.
@@ -35,17 +33,28 @@ The objectives of the framework are:
 3. To ensure a common approach for understanding, comparing, and integrating architectures.
 4. To act as a key enabler for acquiring and fielding cost-effective and interoperable capabilities.
 5. Alignment with international standards (International Standards Organization (ISO), Institute of Electrical and
-Electronic Engineers (IEEE), The Open Group, Object Management Group (OMG), etc)
+  Electronic Engineers (IEEE), The Open Group, Object Management Group (OMG), etc)
 
 # Scope of NAF Documentation
 
-This document provides an overview of the architecture concepts, the structure and the framework, and indicates where to find more specific information. It also describes, in general terms, the typical content and format of NAF Viewpoints, and the relationship with the NAF Meta-Model (known as MODAF Ontological Data Exchange Mechanism (MODEM)). This baseline replaces Version 3.[1]
+This document provides an overview of the architecture concepts, the structure
+and the framework, and indicates where to find more specific information. It
+also describes, in general terms, the typical content and format of NAF
+Viewpoints, and the relationship with the NAF Meta-Model (known as MODAF
+Ontological Data Exchange Mechanism (MODEM)). This baseline replaces Version
+3.[1]
 
 # Reason for Change
 
-Both NAF Versions 3.0 and 3.1, and MODAF Version 1.2.004 were capable of supporting alliance interoperability through coherent use of architectures, and provided for the re-use of architecture artefacts and products that make it easier to identify NATO systems and applications.
+Both NAF Versions 3.0 and 3.1, and MODAF Version 1.2.004 were capable of
+supporting alliance interoperability through coherent use of architectures, and
+provided for the re-use of architecture artefacts and products that make it
+easier to identify NATO systems and applications.
 
-However neither was applied consistently and had not been developed as a standard. In addition they did not provide a common approach – by adopting a core methodology based on utilizing best practice (e.g. The Open Group Architecture Framework (TOGAF)).
+However neither was applied consistently and had not been developed as a
+standard. In addition they did not provide a common approach – by adopting a
+core methodology based on utilizing best practice (e.g. The Open Group
+Architecture Framework (TOGAF)).
 
 They were also becoming more challenging to maintain because of limited technical resources.
 
@@ -58,8 +67,7 @@ To provide alignment with major terms and concepts with the following internatio
 * ISO/IEC/IEEE 15288:2015 Systems and Software Engineering – System Lifecycle Processes
 * ISO 15704:2000 Industrial automation systems – Requirements for enterprise-reference architectures and methodologies
 
-Developing NAF 4 enabled the limitations above to be addressed and is a step towards a Unified Architecture Framework (UAF) as illustrated in Figure INTRODUCTION-1.
+Developing NAF 4 enabled the limitations above to be addressed and is a step
+towards a Unified Architecture Framework (UAF) as illustrated below.
 
-<img src="media/image2.jpeg" width="450" height="305" />
-
-<span id="__RefHeading___Toc443944791" class="anchor"><span id="_Ref417388644" class="anchor"></span></span>Figure Chapter‑1: NATO Roadmap towards Unified Architecture Framework
+{%include figure.html url="../images/no-fig-yet.svg" description="NATO Roadmap towards Unified Architecture Framework" %}

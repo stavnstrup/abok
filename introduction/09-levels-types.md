@@ -39,21 +39,21 @@ Note: According to ISO/IEC/IEEE 42010, it is better to talk about Business, Info
 
 Within NATO’s EA Policy architecture is described in terms of levels as well as types.[6] The three levels are:
 
-a. Enterprise[7]
+1. Enterprise[7]
 
-b. Capability[8]
+2. Capability[8]
 
-c. Project[9]
+3. Project[9]
 
 The four types of architectures described in the policy are:
 
-a.  Business Architecture,
+1.  Business Architecture,
 
-b.  Information Architecture,
+2.  Information Architecture,
 
-c.  Application Architecture, and
+3.  Application Architecture, and
 
-d.  Technology Architecture.
+4.  Technology Architecture.
 
 NATO architectures are dynamic in nature and are updated regularly to reflect changes in requirements and technology.
 

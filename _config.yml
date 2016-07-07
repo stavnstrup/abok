@@ -5,7 +5,7 @@ description: ""
 locale: en_UK
 
 baseurl: "/naf4-publication/"
-baseurl: ""
+
 # Jekyll configuration
 
 defaults:

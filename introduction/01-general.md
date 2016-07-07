@@ -1,5 +1,4 @@
 ---
-layout: spec
 title: General
 ---
 

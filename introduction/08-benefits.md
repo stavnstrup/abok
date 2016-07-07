@@ -1,5 +1,4 @@
 ---
-layout: spec
 title: The Benefit of Using Architecture Tools
 ---
 

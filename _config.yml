@@ -5,10 +5,14 @@ description: ""
 locale: en_UK
 
 baseurl: "/naf4-publication/"
-
+baseurl: ""
 # Jekyll configuration
 
-
+defaults:
+  - scope:
+      path: "introduction"
+    values:
+      layout: spec
 
 exclude:
   - Gemfile

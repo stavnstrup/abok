@@ -1,5 +1,4 @@
 ---
-layout: spec
 title: The purpose and Scope of Architectures and Architecture Frameworks
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: spec
 title: The Structure of the NATO Architecture Framework
 ---
 

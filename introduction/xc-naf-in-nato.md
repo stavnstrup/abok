@@ -1,5 +1,4 @@
 ---
-layout: spec
 title: The Use of the NAF in NATO
 ---
 

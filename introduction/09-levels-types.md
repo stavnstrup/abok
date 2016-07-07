@@ -1,5 +1,4 @@
 ---
-layout: spec
 title: Levels and Types of Architectures
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: spec
 title: New Features and Important Changes in NAF
 ---
 

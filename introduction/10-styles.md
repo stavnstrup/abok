@@ -1,5 +1,4 @@
 ---
-layout: spec
 title:  Styles of Architecting**[10]
 ---
 

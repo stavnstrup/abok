@@ -1,0 +1,8 @@
+@import 'vendor/bourbon/bourbon';
+@import 'vendor/neat/neat';
+
+.specpage {
+  @include outer-container(100%);
+  .chap-nav  { @include span-columns(3); }
+  .main { @include span-columns(9); }
+}

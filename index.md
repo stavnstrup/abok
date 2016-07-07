@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: home
 ---
 
-Hi Keith
 
-Welcome to the amazing new NAF 4 site.
+# NAF 4
 
-The end
+* [Introduction v. 6.8](/introduction)
+* Methodology
+* Viewpoints
+* NAF Meta-Model (MODEM)
+
+* Examples

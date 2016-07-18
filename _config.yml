@@ -12,7 +12,7 @@ defaults:
   - scope:
       path: "introduction"
     values:
-      layout: spec
+      layout: specification
 
 exclude:
   - Gemfile

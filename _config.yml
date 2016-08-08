@@ -12,7 +12,10 @@ defaults:
   - scope:
       path: "introduction"
     values:
-      layout: specification
+      layout: "specification"
+
+#sass:
+#  style: compressed
 
 exclude:
   - Gemfile
@@ -24,5 +27,8 @@ exclude:
   - Vagrantfile
   - .vagrant
   - Gemfile.lock
+  - packages.json
+  - gulpfile.js
+  - node_modules
 
 # Collection

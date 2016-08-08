@@ -12,12 +12,15 @@
 
     <!-- Custom CSS -->
     {% if site.environment == 'development' %}
-    <link rel="stylesheet" href="/css/main.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
+    <link rel="stylesheet" href="/css/styles.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
     {% else %}
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
     {% endif%}
   </head>
   <body>
-    {{ content }}
+    {% include header.html %}
+    <div class="main-content">
+      {{ content }}
+    </div>
   </body>
 </html>

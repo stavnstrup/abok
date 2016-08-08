@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="14cm"
-   height="14cm"
-   viewBox="0 0 496.063 496.06299"
+   width="130mm"
+   height="85.000008mm"
+   viewBox="0 0 460.62992 301.18112"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="naf4-logo2.svg">
+   sodipodi:docname="naf4-logo.svg">
   <title
      id="title4589">NAF4 logo</title>
   <defs
@@ -28,20 +28,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.62"
-     inkscape:cx="92.424435"
-     inkscape:cy="286.55921"
+     inkscape:cx="-319.64694"
+     inkscape:cy="189.11832"
      inkscape:document-units="cm"
      inkscape:current-layer="g4460"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
-     inkscape:window-x="-2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     units="cm">
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid4180" />
+       id="grid4180"
+       originx="-17.716537"
+       originy="-97.440893" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -91,7 +97,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-556.29921)"
+     transform="translate(-17.716536,-653.74015)"
      id="g4460"
      inkscape:groupmode="layer"
      inkscape:label="naf4 logo">

@@ -25,8 +25,8 @@ exclude:
   - .asset-cache
   - .sass-cache
   - Vagrantfile
-  - .vagrant
   - Gemfile.lock
+  - .vagrant
   - packages.json
   - gulpfile.js
   - node_modules

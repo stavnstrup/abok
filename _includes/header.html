@@ -1,16 +1,21 @@
 <header>
   <div class="container">
-    <div class="header-logo">
-      <a href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/images/naf4-logo.svg" alt="NAF 4 logo" />
-      </a>
-    </div>
     <nav>
-      <ul class="main-menu">
+      <div class="header-logo">
+        <a href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/images/naf4-logo.svg" alt="NAF 4 logo" />
+        </a>
+      </div>
+      <section>
+      <ul class="main-menu left">
         {% for item in site.data.main-menu %}
-        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title | upcase }}</a></li>
         {% endfor %}
       </ul>
+      <ul class="right">
+        <li></li>
+      </ul>
+    </section>
     </nav>
   </div>
 </header>

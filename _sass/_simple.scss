@@ -1,33 +1,65 @@
 @import 'vendor/bourbon/bourbon';
+@import 'vendor/susy/susy';
 @import 'base/base';
-@import 'vendor/neat/neat';
+
+
+$susy: (
+   columns: 12,
+   global-box-sizing: border-box,
+   debug:	(image:	show),
+);
+
+@include	border-box-sizing;
 
 .specpage {
-  @include outer-container(100%);
-  .chap-nav  { @include span-columns(3); }
-  .main { @include span-columns(9); }
+  @include container;
+  height: 100vh; // only for debugging grid
+  .chap-nav { @include span(3 of 12); }
+  .main { @include span(9 of 12 last); }
+}
+
+.main-content {
+  display: relative;
+  z-index: 0;
 }
 
 header {
-  width: 100%;
   padding: 2rem 0;
+  width: 100%;
+  border-bottom: 2px solid gray;
   .header-logo {
     img {
       float: left;
-      max-width: 130px;
       margin: 0 15px;
+      margin-left: 200px;
+      margin-right: 200px;
+      max-width: 100px;
       //background-color: gray;
     }
   }
+
   .main-menu {
     font-size: rem(18);
-    font-weight: 700;
-    padding-left: 10px;
+    font-weight: 600;
+    //padding-left: 40px;
+    padding-top: 10px;
+
     li {
-      font-size: 1.5rem;
       display: inline;
-      padding-right: 20px;
+      font-size: 1.4rem;
+      padding-right: 35px;
     }
 
+  }
+}
+
+
+
+.chap-nav {
+//  background-color: red;
+  padding: 20px 3em 0;
+
+  li {
+    padding-botom: 30px;
   }
 }

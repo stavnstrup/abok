@@ -1,9 +1,3 @@
-
-
-
-{%include figure.html url="{{rasterimagepath}}" description="" %}
-
-
 ---
 title: Logical Specifications Layer
 ---
@@ -1222,11 +1216,10 @@ title: Logical Specifications Layer
 
 
 
-<h3 id="l7-logical-data-model">4.4.7 L7 – Logical Data Model</h3>
-<p><img src="images/media/image26.png" width="604" height="539" /><br /><span id="_Toc393217517" class="anchor"></span>Figure ‑: L7 Logical Diagram</p>
+# L7 – Logical Data Model
 
 
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}image26.png" width="604" height="539" description="L7 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1360,7 +1353,7 @@ title: Logical Specifications Layer
 <tr>
 <td>MaxCardinalityOfRelationshipEnd</td>
 <td>Type</td>
-<td>A RepresentationInStructure that asserts a CardinalitySpecifier is part of an EntityRelationshipEnd, and that it represents the maximum cardinality value of that end.<br />Note: If no Maximum Cardinality is specified (i.e. there is no instance of this tuple type related to the EntityRelationshipEnd) then the default is &quot;many&quot; or &quot;*&quot;.</td>
+<td>A RepresentationInStructure that asserts a CardinalitySpecifier is part of an EntityRelationshipEnd, and that it represents the maximum cardinality value of that end.<br />Note: If no Maximum Cardinality is specified (i.e. there is no instance of this tuple type related to the EntityRelationshipEnd) then the default is &quot;many&quot; or &quot; * &quot;.</td>
 </tr>
 <tr>
 <td>MinCardinalityOfRelationshipEnd</td>
@@ -1430,16 +1423,21 @@ title: Logical Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217567" class="anchor"></span>Table ‑: L7 Element List</p>
+<p>Table ‑: L7 Element List</p>
 
 
-<h3 id="l8-logical-constraints">4.4.8 L8 – Logical Constraints</h3>
-<p>To be added<br /><span id="_Toc393217518" class="anchor"></span>Figure ‑: L8 Logical Diagram<br />To be added<br /><span id="_Toc393217568" class="anchor"></span>Table ‑: L8 Element List</p>
-<h3 id="lr-lines-of-development">4.4.9 Lr – Lines of Development</h3>
-<p><img src="images/media/image27.png" width="603" height="478" /><br /><span id="_Toc393217519" class="anchor"></span>Figure ‑: Lr Logical Diagram</p>
+#  L8 – Logical Constraints
 
 
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+<p>To be added - Figure ‑: L8 Logical Diagram<br />To be added - Table ‑: L8 Element List</p>
+
+
+
+# Lr – Lines of Development
+
+
+
+{%include figure.html url="{{rasterimagepath}}image27.png" width="603" height="478" description="Lr Logical Diagram" %}
 
 <table>
 <thead>
@@ -1644,4 +1642,4 @@ title: Logical Specifications Layer
 </table>
 
 
-<p><span id="_Toc393217569" class="anchor"></span>Table ‑: Lr Element List</p>
+<p>Table ‑: Lr Element List</p>

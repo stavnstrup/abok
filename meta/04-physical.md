@@ -1,4 +1,3 @@
-
 ---
 title: Physical Resource Specifications Layer
 ---
@@ -7,9 +6,7 @@ title: Physical Resource Specifications Layer
 # P1 – Resource Types
 
 
-<p><img src="images/media/image28.png" width="605" height="476" /><br /><span id="_Toc393217520" class="anchor"></span>Figure ‑: P1 Logical Diagram</p>
-
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}image28.png" width="605" height="476"" description="P1 Logical Diagram" %}
 
 
 <table>
@@ -206,15 +203,13 @@ title: Physical Resource Specifications Layer
 </table>
 
 
-<p><span id="_Toc393217570" class="anchor"></span>Table ‑: P1 Element List</p>
+<p>Table ‑: P1 Element List</p>
 
 
 # P2 – Resource Structure</h3>
 
 
-<p><img src="images/media/image29.png" width="605" height="421" /><br /><span id="_Toc393217521" class="anchor"></span>Figure ‑: P2 Logical Diagram</p>
-
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}image29.png" width="605" height="421" description="P2 Logical Diagram" %}
 
 <table>
 <thead>
@@ -367,13 +362,14 @@ title: Physical Resource Specifications Layer
 </tr>
 </tbody>
 </table>
-<p><span id="_Toc393217571" class="anchor"></span>Table ‑: P2 Element List</p>
+
+<p>Table ‑: P2 Element List</p>
 
 
 #  P3 – Resource Connectivity</h3>
-<p><img src="images/media/image30.png" width="604" height="448" /><br /><span id="_Toc393217522" class="anchor"></span>Figure ‑: P3 Logical Diagram</p>
 
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+
+{%include figure.html url="{{rasterimagepath}}image30.png" width="604" height="448" description="P3 Logical Diagram" %}
 
 <table>
 <thead>
@@ -567,15 +563,14 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217572" class="anchor"></span>Table ‑: P3 Element List</p>
+<p>Table ‑: P3 Element List</p>
 
 
 
 # P4 – Resource Functions</h3>
 
-<p><img src="images/media/image31.png" width="605" height="510" /><br /><span id="_Toc393217523" class="anchor"></span>Figure ‑: P4 Logical Diagram</p>
 
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}/image31.png" width="605" height="510" description="" %}
 
 <table>
 <thead>
@@ -769,15 +764,13 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217573" class="anchor"></span>Table ‑: P4 Element List</p>
+<p>Table ‑: P4 Element List</p>
 
 
 # L4-P4 – Activity to Function Mapping
 
 
-<p><img src="images/media/image32.png" width="604" height="504" /><br /><span id="_Toc393217524" class="anchor"></span>Figure ‑: L4-P4 Logical Diagram</p>
-
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}/image32.png" width="604" height="504" description="L4-P4 Logical Diagram" %}
 
 
 <table>
@@ -867,15 +860,14 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217574" class="anchor"></span>Table ‑: L4-P4 Element List</p>
+<p>Table L4-P4 Element List</p>
 
 
 
 # P5 – Resource States</h3>
 
-<p><img src="images/media/image33.png" width="604" height="450" /><br /><span id="_Toc393217525" class="anchor"></span>Figure ‑: P5 Logical Diagram</p>
 
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}/image33.png" width="604" height="450" description="P5 Logical Diagram" %}
 
 <table>
 <thead>
@@ -989,15 +981,13 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217575" class="anchor"></span>Table ‑: P5 Element List</p>
+<p>Table ‑: P5 Element List</p>
 
 
 
 # P6 – Resource Sequence
 
-<p><img src="images/media/image34.png" width="604" height="491" /><br />Figure 4-33: P6 Logical Diagram</p>
-
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}/image34.png" width="604" height="491" description="P6 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1151,13 +1141,11 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217576" class="anchor"></span>Table ‑: P6 Element List</p>
+<p>Table ‑: P6 Element List</p>
 
 # P5/6 – Physical Resource Triggers
 
-<p><img src="images/media/image35.png" width="605" height="763" /><br /><span id="_Toc393217527" class="anchor"></span>Figure ‑: P5/6 Physical Resource Triggers Logical Diagram</p>
-
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}image35.png" width="605" height="763" description="P5/6 Physical Resource Triggers Logical Diagram" %}
 
 <table>
 <thead>
@@ -1257,14 +1245,12 @@ title: Physical Resource Specifications Layer
 </table>
 
 
-<p><span id="_Toc393217577" class="anchor"></span>Table ‑: P5/6 Physical Resource Triggers Element List</p>
-
+<p>Table ‑: P5/6 Physical Resource Triggers Element List</p>
 
 # P7 – Physical Data Model
 
-<p><img src="images/media/image36.png" width="604" height="498" /><br /><span id="_Toc393217528" class="anchor"></span>Figure ‑: P7 Logical Diagram</p>
 
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}image36.png" width="604" height="498" description="P7 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1398,7 +1384,7 @@ title: Physical Resource Specifications Layer
 <tr>
 <td>MaxCardinalityOfRelationshipEnd</td>
 <td>Type</td>
-<td>A RepresentationInStructure that asserts a CardinalitySpecifier is part of an EntityRelationshipEnd, and that it represents the maximum cardinality value of that end.<br />Note: If no Maximum Cardinality is specified (i.e. there is no instance of this tuple type related to the EntityRelationshipEnd) then the default is &quot;many&quot; or &quot;*&quot;.</td>
+<td>A RepresentationInStructure that asserts a CardinalitySpecifier is part of an EntityRelationshipEnd, and that it represents the maximum cardinality value of that end.<br />Note: If no Maximum Cardinality is specified (i.e. there is no instance of this tuple type related to the EntityRelationshipEnd) then the default is &quot;many&quot; or &quot;* &quot;.</td>
 </tr>
 <tr>
 <td>MinCardinalityOfRelationshipEnd</td>
@@ -1483,15 +1469,14 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217578" class="anchor"></span>Table ‑: P7 Element List</p>
+<p>Table ‑: P7 Element List</p>
 
 
 
-# P8 – Resource Constraints</h3>
+# P8 – Resource Constraints
 
-<p><img src="images/media/image37.png" width="604" height="424" /><br /><span id="_Toc393217529" class="anchor"></span>Figure ‑: P8 Logical Diagram</p>
 
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}image37.png" width="604" height="424" description="P8 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1570,7 +1555,7 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217579" class="anchor"></span>Table ‑: P8 Element List</p>
+<p>Table ‑: P8 Element List</p>
 
 
 
@@ -1578,10 +1563,8 @@ title: Physical Resource Specifications Layer
 # Pr – Configuration Management</h3>
 
 
-<p><img src="images/media/image38.png" width="604" height="446" /><br /><span id="_Toc393217530" class="anchor"></span>Figure ‑: Pr Logical Diagram</p>
 
-
-{%include figure.html url="{{rasterimagepath}}" description="" %}
+{%include figure.html url="{{rasterimagepath}}image38.png" width="604" height="446 description="Pr Logical Diagram<" %}
 
 <table>
 <thead>
@@ -1715,4 +1698,4 @@ title: Physical Resource Specifications Layer
 </tbody>
 </table>
 
-<p><span id="_Toc393217580" class="anchor"></span>Table ‑: Pr Element List</p>
+<p>Table ‑: Pr Element List</p>

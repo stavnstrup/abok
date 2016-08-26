@@ -40,7 +40,7 @@ title: Service Specification Layer
 <p>Table ‑: C1-S1 Element List</p>
 
 
-# S1 – Service Taxonomy</h3>
+# S1 – Service Taxonomy
 
 
 {%include figure.html url="{{rasterimagepath}}image12.png" width="605" height="776" description=" S1 Logical Diagram" %}

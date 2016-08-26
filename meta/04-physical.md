@@ -206,7 +206,7 @@ title: Physical Resource Specifications Layer
 <p>Table ‑: P1 Element List</p>
 
 
-# P2 – Resource Structure</h3>
+# P2 – Resource Structure
 
 
 {%include figure.html url="{{rasterimagepath}}image29.png" width="605" height="421" description="P2 Logical Diagram" %}
@@ -366,7 +366,7 @@ title: Physical Resource Specifications Layer
 <p>Table ‑: P2 Element List</p>
 
 
-#  P3 – Resource Connectivity</h3>
+#  P3 – Resource Connectivity
 
 
 {%include figure.html url="{{rasterimagepath}}image30.png" width="604" height="448" description="P3 Logical Diagram" %}
@@ -567,7 +567,7 @@ title: Physical Resource Specifications Layer
 
 
 
-# P4 – Resource Functions</h3>
+# P4 – Resource Functions
 
 
 {%include figure.html url="{{rasterimagepath}}/image31.png" width="605" height="510" description="" %}
@@ -864,7 +864,7 @@ title: Physical Resource Specifications Layer
 
 
 
-# P5 – Resource States</h3>
+# P5 – Resource States
 
 
 {%include figure.html url="{{rasterimagepath}}/image33.png" width="604" height="450" description="P5 Logical Diagram" %}
@@ -1560,7 +1560,7 @@ title: Physical Resource Specifications Layer
 
 
 
-# Pr – Configuration Management</h3>
+# Pr – Configuration Management
 
 
 

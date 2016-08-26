@@ -154,7 +154,7 @@ An AD element is any construct in an architecture description. AD elements are t
 <p>Table ‑: A1 Element List</p>
 
 
-# A2 – Architecture Products</h3>
+# A2 – Architecture Products
 
 {%include figure.html url="{{rasterimagepath}}image40.png" width="604" height="258" description="A2 Logical Diagram" %}
 
@@ -446,7 +446,7 @@ Examples: Government Department, Commercial Company, Accounting Department.</td>
 <p>Table ‑: A2 Element List</p>
 
 
-# A3 – Architecture Correspondence</h3>
+# A3 – Architecture Correspondence
 
 
 {%include figure.html url="{{rasterimagepath}}image41.png" width="605" height="314" description="A3 Logical Diagram" %}
@@ -699,7 +699,7 @@ An AD element is any construct in an architecture description. AD elements are t
 <p>Table ‑: A5 Element List</p>
 
 
-# A6 – Architecture Versions</h3>
+# A6 – Architecture Versions
 
 
 {%include figure.html url="{{rasterimagepath}}/image44.png" width="604" height="194" description="A6 Logical Diagram" %}

@@ -1,17 +1,27 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
 
-<section class="specpage">
-  <aside class="chap-nav">
-    <ul>
-    {% for section in site.data.naf4-chap1-nav %}
-      <li><a href="{{section.url}}.html">{{section.title}}</a></li>
+<section class="specification-wrap">
+  <aside class="spec-nav">
+    {% for group in site.data.naf4 %}
+    <nav class="bookgroup">
+      <div class="book">{{ group.title }}</div>
+      <ul>
+        {% for section in group.sections %}
+        <li><a href="{{section.url}}.html" title="{{section.title}}">{{section.short}}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
     {% endfor %}
-    </ul>
   </aside>
-  <article class="main">
+  <article class="spec-content">
+    <h1>{{ page.title }}</h1>
     {{ content }}
+    <div class="pager">
+      <div class="prev"><a href="#">&lt;</a></div>
+      <div class="next"><a href="#">&gt;</a></div>
+    </div>
   </article>
+
 </section>

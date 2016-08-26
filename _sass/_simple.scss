@@ -6,16 +6,65 @@
 $susy: (
    columns: 12,
    global-box-sizing: border-box,
-   debug:	(image:	show),
+   container: 940px,
+   debug:	(image:	hide),
 );
 
-@include	border-box-sizing;
+* {
+  box-sizing: border-box;
+}
 
-.specpage {
+.specification-wrap {
   @include container;
-  height: 100vh; // only for debugging grid
-  .chap-nav { @include span(3 of 12); }
-  .main { @include span(9 of 12 last); }
+  max-width: 1000px;
+  padding: 0 20px;
+
+  .spec-nav {
+//    background-color: pink;
+    display: none;
+    font-size: .86em;
+
+    @media (min-width: 768px) {
+      @include span(4 of 12);
+      display: inline;
+      padding: 0 60px 0 20px;
+
+
+    }
+  }
+
+  .spec-content {
+    font-size: .9em;
+    padding: 0 1em;
+
+
+    // width: 100%;
+
+    width: 100%;
+
+    @media (min-width: 550px) {
+      font-size: 1em;
+      margin: 0 auto;
+      width: 550px;
+    }
+
+    @media (min-width: 768px) {
+      @include span(8 of 12 last);
+      border-left: 1px solid #e8eaeb;
+      padding: 0 20px 0 60px;
+    }
+  }
+}
+
+
+.pager {
+  @include clearfix;
+  background-color: black;
+  color: white;
+  font-weight: 700;
+  padding: .5em;
+  .prev { float: left;}
+  .next { float: right;}
 }
 
 .main-content {
@@ -23,7 +72,28 @@ $susy: (
   z-index: 0;
 }
 
+
+nav.bookgroup, nav.bookgroup li {
+  color: #909499;
+  font-size: 12px;
+  padding: .5em 1em .5em 0;
+
+  a { color: #909499;}
+
+  div.book {
+    color: #101113;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding-bottom: .75em;
+    padding-top: 0;
+    text-transform: uppercase;
+  }
+}
+
+
+
 header {
+  display: none;
   padding: 2rem 0;
   width: 100%;
   border-bottom: 2px solid gray;
@@ -41,7 +111,7 @@ header {
   .main-menu {
     font-size: rem(18);
     font-weight: 600;
-    //padding-left: 40px;
+    padding-left: 40px;
     padding-top: 10px;
 
     li {
@@ -53,13 +123,4 @@ header {
   }
 }
 
-
-
-.chap-nav {
-//  background-color: red;
-  padding: 20px 3em 0;
-
-  li {
-    padding-botom: 30px;
-  }
-}
+.header {display: none;}

@@ -60,7 +60,7 @@ gulp.task('scripts', function() {
 gulp.task('watch', function () {
   gulp.watch(['_sass/**/*.scss','_sass/*.scss'], ['sass']);
   gulp.watch(['_js/**/*.js'], ['scripts'])
-  gulp.watch(['index.*', '_layouts/*.html', '_posts', '_includes/*.html', '_drafts/*', '**/*.md', '**/*.html'], ['jekyll-rebuild']);
+  gulp.watch(['index.*', '_layouts/*.html', '_posts', '_includes/*.html', '_drafts/*', '**/*.md', '**/*.html', '_data/*.yml'], ['jekyll-rebuild']);
 });
 
 // Build the Jekyll Site in production mode

@@ -5,7 +5,7 @@ layout: home
 
 # NAF 4
 
-* [Introduction v. 6.8](introduction/)
+* [Introduction v. 7.4](introduction/) - dated Aug 29, 2016
 * Methodology
 * Viewpoints
 * NAF Meta-Model (MODEM)

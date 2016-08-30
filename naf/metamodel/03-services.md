@@ -7,7 +7,7 @@ title: Service Specification Layer
 # C1-S1 – Capability to Service Mapping
 
 
-{%include figure.html url="image11.png" width="604" height="264" description="C1-S1 Logical Diagram" %}
+{%include rasterfigure.html url="image11.png" width="604" height="264" description="C1-S1 Logical Diagram" %}
 
 
 <table>
@@ -43,7 +43,7 @@ title: Service Specification Layer
 # S1 – Service Taxonomy
 
 
-{%include figure.html url="image12.png" width="605" height="776" description=" S1 Logical Diagram" %}
+{%include rasterfigure.html url="image12.png" width="605" height="776" description=" S1 Logical Diagram" %}
 
 <table>
 <thead>
@@ -156,7 +156,7 @@ title: Service Specification Layer
 # S3 – Service Interfaces
 
 
-{%include figure.html url="image13.png" width="604" height="325" description="S3 Logical Diagram" %}
+{%include rasterfigure.html url="image13.png" width="604" height="325" description="S3 Logical Diagram" %}
 
 
 <table>
@@ -268,7 +268,7 @@ title: Service Specification Layer
 # S4 – Service Functions
 
 
-{%include figure.html url="image14.png" width="604" height="225" description="S4 Logical Diagram" %}
+{%include rasterfigure.html url="image14.png" width="604" height="225" description="S4 Logical Diagram" %}
 
 <table>
 <thead>
@@ -342,7 +342,7 @@ title: Service Specification Layer
 
 # S5 – Service States
 
-{%include figure.html url="image15.png" width="605" height="381" description="S5 Logical Diagram" %}
+{%include rasterfigure.html url="image15.png" width="605" height="381" description="S5 Logical Diagram" %}
 
 <table>
 <thead>
@@ -412,7 +412,7 @@ title: Service Specification Layer
 
 # S6 – Service Interactions
 
-{%include figure.html url="image16.png" width="604" height="473"  description="S6 Logical Diagram" %}
+{%include rasterfigure.html url="image16.png" width="604" height="473"  description="S6 Logical Diagram" %}
 
 <table>
 <thead>
@@ -578,7 +578,7 @@ title: Service Specification Layer
 
 # S7 – Service Interface Parameters
 
-{%include figure.html url="image17.png" width="604" height="669" description="S7 Logical Diagram" %}
+{%include rasterfigure.html url="image17.png" width="604" height="669" description="S7 Logical Diagram" %}
 
 
 <table>
@@ -824,7 +824,7 @@ title: Service Specification Layer
 # S8 – Service Policy
 
 
-{%include figure.html url="image18.png" width="604" height="767" description="S8 Logical Diagram<" %}
+{%include rasterfigure.html url="image18.png" width="604" height="767" description="S8 Logical Diagram<" %}
 
 <table>
 <thead>
@@ -949,7 +949,7 @@ title: Service Specification Layer
 # Sr – Service Roadmap
 
 
-{%include figure.html url="image19.png" width="604" height="393" description="Sr Logical Diagram" %}
+{%include rasterfigure.html url="image19.png" width="604" height="393" description="Sr Logical Diagram" %}
 
 
 <table>

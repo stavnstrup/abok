@@ -6,7 +6,7 @@ title: Physical Resource Specifications Layer
 # P1 – Resource Types
 
 
-{%include figure.html url="image28.png" width="605" height="476" description="P1 Logical Diagram" %}
+{%include rasterfigure.html url="image28.png" width="605" height="476" description="P1 Logical Diagram" %}
 
 
 <table>
@@ -209,7 +209,7 @@ title: Physical Resource Specifications Layer
 # P2 – Resource Structure
 
 
-{%include figure.html url="image29.png" width="605" height="421" description="P2 Logical Diagram" %}
+{%include rasterfigure.html url="image29.png" width="605" height="421" description="P2 Logical Diagram" %}
 
 <table>
 <thead>
@@ -369,7 +369,7 @@ title: Physical Resource Specifications Layer
 #  P3 – Resource Connectivity
 
 
-{%include figure.html url="image30.png" width="604" height="448" description="P3 Logical Diagram" %}
+{%include rasterfigure.html url="image30.png" width="604" height="448" description="P3 Logical Diagram" %}
 
 <table>
 <thead>
@@ -570,7 +570,7 @@ title: Physical Resource Specifications Layer
 # P4 – Resource Functions
 
 
-{%include figure.html url="/image31.png" width="605" height="510" description="" %}
+{%include rasterfigure.html url="/image31.png" width="605" height="510" description="" %}
 
 <table>
 <thead>
@@ -770,7 +770,7 @@ title: Physical Resource Specifications Layer
 # L4-P4 – Activity to Function Mapping
 
 
-{%include figure.html url="/image32.png" width="604" height="504" description="L4-P4 Logical Diagram" %}
+{%include rasterfigure.html url="/image32.png" width="604" height="504" description="L4-P4 Logical Diagram" %}
 
 
 <table>
@@ -867,7 +867,7 @@ title: Physical Resource Specifications Layer
 # P5 – Resource States
 
 
-{%include figure.html url="/image33.png" width="604" height="450" description="P5 Logical Diagram" %}
+{%include rasterfigure.html url="/image33.png" width="604" height="450" description="P5 Logical Diagram" %}
 
 <table>
 <thead>
@@ -987,7 +987,7 @@ title: Physical Resource Specifications Layer
 
 # P6 – Resource Sequence
 
-{%include figure.html url="/image34.png" width="604" height="491" description="P6 Logical Diagram" %}
+{%include rasterfigure.html url="/image34.png" width="604" height="491" description="P6 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1145,7 +1145,7 @@ title: Physical Resource Specifications Layer
 
 # P5/6 – Physical Resource Triggers
 
-{%include figure.html url="image35.png" width="605" height="763" description="P5/6 Physical Resource Triggers Logical Diagram" %}
+{%include rasterfigure.html url="image35.png" width="605" height="763" description="P5/6 Physical Resource Triggers Logical Diagram" %}
 
 <table>
 <thead>
@@ -1250,7 +1250,7 @@ title: Physical Resource Specifications Layer
 # P7 – Physical Data Model
 
 
-{%include figure.html url="image36.png" width="604" height="498" description="P7 Logical Diagram" %}
+{%include rasterfigure.html url="image36.png" width="604" height="498" description="P7 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1476,7 +1476,7 @@ title: Physical Resource Specifications Layer
 # P8 – Resource Constraints
 
 
-{%include figure.html url="image37.png" width="604" height="424" description="P8 Logical Diagram" %}
+{%include rasterfigure.html url="image37.png" width="604" height="424" description="P8 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1564,7 +1564,7 @@ title: Physical Resource Specifications Layer
 
 
 
-{%include figure.html url="image38.png" width="604" height="446" description="Pr Logical Diagram" %}
+{%include rasterfigure.html url="image38.png" width="604" height="446" description="Pr Logical Diagram" %}
 
 <table>
 <thead>

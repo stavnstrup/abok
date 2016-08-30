@@ -65,14 +65,13 @@ The Open Group Architecture Framework Version 8.1.1, Enterprise Edition,
 ISBN: 1-931624-62-3) demonstrating how to express an architecture with
 viewpoints and levels of abstraction.
 
-![](./media/image19.png){width="338" height="215"}
-
-Figure -1: TOGAF V8.1 – “Expected properties of the Architectural Model”
+{%include rasterfigure.html url="togaf-exp-properties.png" description="TOGAF V8.1 - Expected properties of the Architectural Model" %}
 
 This model can be used to define an architecture grid with the NAF v3,
 as shown by the figure bellow.
 
-Figure -2: Grid with NAF v3 viewpoints
+{%include figure.html url="grid-naf3-vp.svg" description="Grid with NAF v3 viewpoints"%}
+
 
 Columns can be used to express contextual, transitional, conceptual,
 logical and physical properties of the architecture.
@@ -91,7 +90,9 @@ providers and one or several acquirers.
 Architectural properties (columns of the grid) can express
 non-functional properties, as shown in the figure bellow.
 
-Figure -3: Grid with other viewpoints
+
+{%include figure.html url="grid-other-vp.svg" description="Grid with other viewpoints"%}
+
 
 Note: This definition of viewpoints can also be an opportunity to
 suppress capability viewpoints and services viewpoints since there are
@@ -115,6 +116,8 @@ management plan on provider side), SSS (on provider side), SSDD
 In that case, the grid can structure:
 
 -   Rows can be viewpoints.
+
 -   Columns can be documents
+
 -   Cells identify the architecture views developed per viewpoint and
     delivered per document.

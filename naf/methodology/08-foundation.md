@@ -25,9 +25,8 @@ Greefhorst and Erik Proper \[Greefhorst, 2011\].
 
 ## Overview
 
-![](./media/image16.jpeg){width="459" height="332"}
 
-Figure ‎2‑15: Architecture principles definition and management activities
+{%include figure.html url="ap-process.svg" description="Architecture principles definition and management activities"%}
 
 -   The process starts with the determination of the drivers, which are
     the foundation for architecture principles;
@@ -57,7 +56,7 @@ Figure ‎2‑15: Architecture principles definition and management activities
 
 ## Description of sub-processes
 
-a.  Define drivers where the relevant inputs for determining
+1.  Define drivers where the relevant inputs for determining
     architecture principles are collected from the enterprise and
     project motivation data, such as the goals and objectives,
     opportunities, issues and risks.
@@ -94,7 +93,7 @@ a.  Define drivers where the relevant inputs for determining
         drivers to architecture principles, as well as requirements
         management of these drivers.
 
-b.  Determine principles where the drivers are translated to a list
+2.  Determine principles where the drivers are translated to a list
     of (candidate) architecture principles. At this stage the
     architecture principles can be considered credos.
 
@@ -108,7 +107,7 @@ b.  Determine principles where the drivers are translated to a list
         candidate architecture principle statements into the proper
         abstraction level.
 
-c.  Specify principles where the candidate principles are specified in
+3.  Specify principles where the candidate principles are specified in
     detail, including their rationale and implications. This
     sub-process translates architecture principles from credos
     to norms.
@@ -118,7 +117,7 @@ c.  Specify principles where the candidate principles are specified in
     principle is a prerequisite for actually using it to restrict design
     freedom.
 
-d.  Classify principles where architecture principles are classified in
+4.  Classify principles where architecture principles are classified in
     a number of dimensions to increase their accessibility.
 
     -   After the architecture principles have been specified it is
@@ -130,7 +129,7 @@ d.  Classify principles where architecture principles are classified in
         genericity, details level, stakeholder, transformation, quality
         attribute, meta-level and representation.
 
-e.  Validate and accept principles where architecture principles, their
+5.  Validate and accept principles where architecture principles, their
     specifications and classifications are validated with relevant
     stakeholders and formally accepted.
 
@@ -142,14 +141,14 @@ e.  Validate and accept principles where architecture principles, their
     should, however, be customised and refined to the organisational
     ontext.
 
-f.  Apply principles where architecture principles are applied to
+6.  Apply principles where architecture principles are applied to
     construct models and derive decisions in downstream architectures,
     requirements and applications.
 
     Using architecture principles requires a good understanding on the
     artefacts that are impacted by them.
 
-g.  Manage compliance where architects ensure that the architecture
+7.  Manage compliance where architects ensure that the architecture
     principles are applied properly, and dispensations for deviations
     may be given.
 
@@ -180,7 +179,7 @@ g.  Manage compliance where architects ensure that the architecture
             implications of the architecture principle are embedded in
             the artefact.
 
-h.  Handle changes where the impact of all sorts of changes on the
+8.  Handle changes where the impact of all sorts of changes on the
     architecture principles is determined and new method iterations
     may be initiated.
 
@@ -191,6 +190,7 @@ h.  Handle changes where the impact of all sorts of changes on the
     standard periodic architecture refreshment cycle in which changes can
     be incorporated. See the “Decide on architecture change stage of the
     NAV v4.
+{: type="a"}
 
 ## Architecture Principles in NAF v4
 

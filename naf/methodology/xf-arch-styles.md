@@ -5,9 +5,7 @@ title: Architecting Styles
 Figure bellow depicts the relationships between them. Definitions are
 below, further details can be found in Chapter 2.
 
-![](./media/image22.png){width="477" height="361"}
-
-Figure -1: Styles of Architecting
+{%include rasterfigure.html url="arch-styles.png" description="Styles of Architecting"%}
 
 # Authoritative
 

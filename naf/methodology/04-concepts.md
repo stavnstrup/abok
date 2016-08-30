@@ -39,10 +39,13 @@ architecture expresses:
     possible alternatives\
     Note: A complete solution includes the entity-of-interest and the
     enabling entities
+
 -   Provide orientation data for the processes sustaining the life cycle
     of the solution related to the architecture.
+
 -   The concerns of the Stakeholders for architected entity into
     formalised views
+
 -   The assumptions made on the environment of each system of the
     solution to cover the life cycle of the solution (operational
     processes; natural, human and technical actors interacting with each
@@ -109,8 +112,10 @@ For example:
 -   Architecture life cycle with phases, from creation to closed out.\
     The NAF v4 methodology does not specify the number and names
     of phases.
+
 -   Periods of time when architecture applies: from now (“as is”) to a
     target period (“to be”) and milestones.
+
 -   Architecture maturity with versions and stages that characterise the
     evolutions per iteration. Stages are at least conceptualised,
     defined, assessed, used and disposed.
@@ -132,8 +137,10 @@ kinds. Examples of kinds of architectures are:
 
 -   Enterprise-wide architecture descripting the future situation with
     limited detail. This description normally covers several programs.
+
 -   Architecture description to be used as reference by a programme or
     for architecting within a domain.
+
 -   A description limited to the scope of a single project addressing
     implementation decisions.
 
@@ -235,8 +242,11 @@ Symposium on Architecture Assessment for NEC, Tallinn, Estonia, 2013 by
 David Evans and Mike Wilkinson). They are as follows:
 
 1.  Authoritative.
+
 2.  Directive.
+
 3.  Coordinative.
+
 4.  Supportive.
 
 ‎Annex F – provides further details.
@@ -254,7 +264,8 @@ This description of processes is close to the ISO/IEC
 42020[^6^](#fn6){#fnref6 .footnoteRef}.
 
 
-Figure ‎2‑2: Architecture Processes
+{%include figure.html url="process-areas.svg" description="Architecture Processes"%}
+
 
 Architecture processes can run concurrently, even if the governance and
 management directions circulate in down-flows and operation reports in
@@ -274,12 +285,17 @@ according to enterprise directions and objectives. The main governance
 activities include:
 
 -   Establish capability for governance.
+
 -   Establish strategic desired outcomes for the architecture portfolio.
+
 -   Evaluate coherency of architecture roadmaps toward desired outcomes.
+
 -   Provide directions for the architecture portfolio and the
     related activities.
+
 -   Monitor the enterprise’s portfolio of architectures and the related
     activities to ensure compliance with the governance directions.
+
 -   Decide on necessary corrective actions and Iterate
 
 This process is normally under responsibility of enterprise entities in
@@ -304,11 +320,15 @@ These activities include:
 
 -   Establish capability for management of one or several architectures
     in the scope of responsibility, and the related activities.
+
 -   Establish plans for conducting architecture management activities
     according to the governance directions.
+
 -   Provide guidance and direction for architecting activities.
+
 -   Monitor and assess architecture development with
     management direction.
+
 -   Decide on necessary corrective actions and Iterate.
 
 This process is normally leaded in different organisations of the
@@ -322,18 +342,26 @@ ISO/IEC/IEEE-42010:2011[^7^](#fn7){#fnref7 .footnoteRef}. The main
 activities already identified are:
 
 -   Analyse the problem situation (purpose, scope and objectives).
+
 -   Identify the stakeholders, their concerns and needs
+
 -   Formalise and classify key requirements from collected needs
+
 -   Identify the potential solutions
+
 -   Identify architecture viewpoints according to
     stakeholders’ concerns.
+
 -   Develop models and views of candidate architectures from
     these viewpoints.
+
 -   Provide the rationale of the potential solutions with regard of
     requirements and motivation data. In particular, ensure their
     traceability to motivation data.
+
 -   Review architecture candidates with stakeholders and get
     their approval.
+
 -   State relations between candidate architectures and design and other
     downstream activities.
 
@@ -345,15 +373,21 @@ standard under work will become a reference like 15288 and 42010. The
 proposed architecture evaluation activities are:
 
 -   Define evaluation purpose, scope and objectives.
+
 -   Identify the stakeholders of the architecture evaluation, and their
     concerns or questions
+
 -   Determine evaluation criteria (according to
     stakeholders’ concerns/questions) with their relative importance
     (priorities, weights, etc.)
+
 -   Determine techniques, methods and tools for performing
     the evaluation.
+
 -   Evaluate the architecture.
+
 -   Collect and understand required information (metrics).
+
 -   Formulate the findings and recommendations.
 
 ## Architecture Enablers
@@ -362,6 +396,7 @@ Enabling activities provide services, means and data to sustain other
 architecture processes. This allows the architects to:
 
 -   Develop, evaluate, import, export and document architectural models.
+
 -   Provide enterprise and projects with reference data including
     standards; patterns; information about assets; and any other
     business information reusable by Architecting activities.
@@ -372,6 +407,7 @@ architecture processes. This allows the architects to:
     either model elements and/or data are changed, etc.).
 -   Develop and maintain architectures data (Electronic content
     management, architecture data queries, configuration management.).
+
 -   Ensure that architecting activities are performed according to
     enterprise rules (Privacy, information security, networking, etc.).
 
@@ -394,16 +430,19 @@ directly linked with a single system. For example:
     systems or services. The architecture life cycle starts when problem
     analysis starts, and finishes when both the problem and solution
     spaces are no longer concerned.
+
 -   Architecture issued to cover several projects worked concurrently
     along a period of time: it may be called overarching architecture
     and the set of projects are considered as a program. The
     architecture life cycle starts with the beginning of the program and
     ends with the last project.
+
 -   Architecture issued to cover several systems/products worked
     concurrently along a period of time: Product lines, families of
     systems and systems of systems are belong to this case. The
     architecture provides an overall definition which is normally
     refined by individual system/product architectures.
+
 -   Architecture issued to cover several projects worked in sequence –
     when possible – along a period of time: In this case, the
     architecture provides the transformation roadmap, including
@@ -448,6 +487,7 @@ For multi-tier architecting activities in an enterprise, the
 middle-tiers act:
 
 -   As Project for the upper tier
+
 -   As Enterprise for the lower tier
 
 This means that an architect or a team can work within a double
@@ -465,8 +505,9 @@ architecture defined in section ‎2.4.5:
     activities
 -   And system architectures are developed at project levels
 
-Figure ‎2‑3: Example of
-multi-tier architecture activities
+
+{%include figure.html url="combo-level-kinds.svg" description="Example of multi-tier architecture activities"%}
+
 
 # Architecture Framework
 
@@ -490,6 +531,7 @@ It must be stated that:
     this definition. Some Frameworks focus on architecture description
     and others are more oriented to process description. Very few
     include tools and/or standards.
+
 -   Part of an Architecture Framework is related to Architecture Domain
     with reference standards and products. This part is to be defined
     and adjusted according to enterprise organisation and policies.
@@ -499,19 +541,25 @@ It must be stated that:
 An architecture framework can be characterised as a working environment.
 This environment is called an ‘architecture landscape’.
 
-Figure ‎2‑4: Architecture landscape
+{%include figure.html url="architecture-landscape.svg" description="Architecture landscape"%}
+
 
 The architecture landscape is structured in 4 main areas:
 
 -   The architecture workspace where architectures are developed.
+
 -   The reference libraries containing any information useful for the
     architects to either do their job or to get architecture
     related information.
+
 -   The architecture repositories where architectures and architecture
     building blocks are made available:
+
     -   To be used as references for implementation.
+
     -   To provide principles and guidelines for development of other
         architectures and elements.
+
 -   The architecture registries record the usage of elements in
     reference libraries and architecture repositories in order to allow
     their management and governance.
@@ -558,20 +606,24 @@ architecture landscape:
 
 -   Project reference libraries host the baselines of assets reusable by
     the architects in a project.
+
 -   Project architecture repositories host the baselines of
     architectures and architecture elements produced or updated by
     architects of the project.
+
 -   Project architecture workspace is the environment where the
     architects work for the project. This area contains any work-product
     and data developed by architects prior to their publication as new
     or updated references, architectures and architecture elements.
+
 -   Project architecture registries record the usage of elements in
     reference libraries and architecture repositories in the project’s
     architecture landscape.
 
 ## Architecture landscape interactions
 
-Figure ‎2‑5: Architecture landscape interactions (view from Tier N)
+{%include figure.html url="landscape-interact-tierN.svg" description="Architecture landscape interactions (view from Tier N)"%}
+
 
 Interactions occur between architecture landscapes when multi-tier
 architecting activities are in place in an enterprise (See ‎2.4.9 with
@@ -581,10 +633,12 @@ interaction from one tier point of view:
 
 -   The architecture landscape exposes usable or mandatory data
     (references and architectures) for the other tiers
+
 -   The architecture landscape uses and profiles data elaborated by the
     other tiers.
 
-Figure ‎2‑6 Architecture landscape external interactions
+{%include figure.html url="architecture-landscape-ex-inter.svg" description="Architecture landscape external interactions"%}
+
 
 Architecture landscapes also interact with the enterprise environment
 to:
@@ -592,6 +646,7 @@ to:
 -   Collect external data elements enriching enterprise’ assets with
     references, architectures and architectures elements (with respect
     of the copyrights and licenses).
+
 -   Publish enterprise assets (with respect of the right-to-know).
 
 ## Reference libraries
@@ -602,10 +657,12 @@ in their activities per architecting organisation. This information can:
 -   Either come from the lower architecting tiers in the enterprise
     organisation, in which case the consistency and the relevance for
     the current tier is checked or,
+
 -   Be created and/or collected for lower tiers through
     architecting activities.
 
-Figure ‎2‑7: Reference libraries
+{%include figure.html url="ref-libs.svg" description="Reference libraries"%}
+
 
 The reference libraries may include:
 
@@ -613,34 +670,46 @@ The reference libraries may include:
     the reference system. This information provides the enterprise
     foundations to build the vocabulary of the projects. They can be
     updated and augmented by projects-specific terms and concepts.
+
 -   Customisable architecture motivation data.\
     Architecture motivation data could cover the concepts defined in the
     Open Management Group Business Motivation Model with:
+
     -   Information directing or defining the business aspirations:
+
         -   Business vision, goals and objectives
+
     -   The means to realise the business aspiration
+
         -   Missions and course of action.
+
     -   The stakeholders’ value system and associated assessment
         elements
+
         -   Key requirements, risks, opportunities, cost and value per
             viewpoint
+
         -   Assessment criteria and key questions
+
     -   Business directions and guidance for activities.
 
     Note: A more detailed description of architecture motivation data is
     given in section ‎2.4.12.
 
 -   Patterns providing canonical templates, constructs and activities.
+
 -   Standards, de facto (standards issued from best practices or
     Enterprise policies) and de jure (standards issued from
     professional, governmental or international regulatory bodies)
     references.
+
 -   Portfolios of products (including services) and systems that are
     recommended for usage in the architecture activities.
 
 # Architecture Repositories
 
-Figure ‎2‑8: Architecture Repositories
+{%include figure.html url="arch-rep.svg" description="Architecture Repositories"%}
+
 
 Architecture repositories host the baselines of architecture elements
 produced or updated by architects per architecting organisation.
@@ -648,8 +717,10 @@ produced or updated by architects per architecting organisation.
 Architecture repositories include:
 
 -   The different kinds of architectures.
+
 -   The architecture elements: architecture patterns and architecture
     building blocks.
+
 -   Meta-models and ontologies formalising the terms and concepts used
     in the architecture repositories.
 
@@ -685,7 +756,8 @@ engineering change requests, checks) are specified in architecture
 policies, including guidance rules to align with enterprise and projects
 policies.
 
-Figure ‎2‑9: Motivation Data
+{%include figure.html url="motivation-data.svg" description="Motivation Data" %}
+
 
 # Manage architecture motivation data
 
@@ -698,11 +770,14 @@ that led to change approval. It includes different types of data:
     architecture principles, assumptions for architecture governance and
     management, Norms and standards, including export control
     and regulations).
+
 -   Justification data: architecture change justification and impact
     analyses,
+
 -   Orientation data: architecture policy, approved architecture vision
     that specifies business goals, expected timeline and the right
     capabilities to meet the goals at the right time.
+
 -   Planning data: Architecture statement of work and plans (governance,
     management, configuration management, resources). The architecture
     plans will follow one of the architecture driver set (e.g.
@@ -714,14 +789,20 @@ Architecture workflows are conceived to revisit motivation data
 according to the findings of previous stages in terms of:
 
 -   Evolution of contexts and or needs.
+
 -   New scenarios, same or new missions, for the same or different
     contexts, requiring the same or different quality of service.
+
 -   To deliver in the same or different timeline.
+
 -   Evolution of norms/standards/regulations: update or obsolescence of
     (domain, technology, business, political, societal) norms.
+
 -   Concept change: doctrine, business domain and technology.
+
 -   Enterprise strategy change (product-line, roadmap, partnership,
     acquisition policies).
+
 -   Markets, stakeholders, organisation, enablers, products, roadmaps,
     compliance to customer requirements or product line approach, etc.
 
@@ -734,10 +815,13 @@ critical dependencies, taking into account:
 
 -   Agreement on priority of expected capabilities from evolution
     timeline and related metric evolution viewpoint.
+
 -   Stakeholder’s agreement on weight of each criterion used to assess
     and compare alternatives of architecture.
+
 -   Revisiting (baseline of) stakeholders’ requirements according to
     priority and weights of criteria.
+
 -   Revisiting motivation data according to outputs of the last
     iteration of the vision stage.
 
@@ -760,9 +844,13 @@ In order to plan consistent and affordable roadmaps, the architecture
 policy includes the principles to interact with:
 
 -   Building block owners.
+
 -   Support entities.
+
 -   Experts and specialists.
+
 -   Strategists.
+
 -   Decision-makers.
 
 # Architecture Management Plan
@@ -775,21 +863,30 @@ and support efficiently test cases. It describes:
 -   The architecting strategy according to enterprise policies:
     architecting activities to run, expected product’s focus to reach
     architecture goals as stated in the corresponding state of work.
+
 -   Tailoring of architecting iterations and architecture products to
     reach architecture goals. It includes a stop criteria for each
     planned activity
+
 -   Architecture landscapes, within and outside the enterprise, as
     described in sections ‎2.4.10.3 to ‎2.4.10.5:
+
     -   Reference libraries hosting reusable assets, including reference
         skills, methods, and tools to achieve activities.
+
     -   Repositories hosting baselined architecture products.
+
     -   Workspaces hosting architecture development data and
         work products.
+
     -   Interaction between landscapes along architecture life cycle.
+
     -   Interaction between architecture activities and other activities
         (planning, engineering, operations and maintenance).
+
 -   The planning of activities and control of architecture requirements
     and products
+
 -   The governance and management processes of architecting activities
 
 The architecture management plan is a living document. It is updated as
@@ -804,12 +901,17 @@ other projects, if any. The plan recalls the context and scope of
 migration to the baseline and describes:
 
 -   The main goals from stakeholders perspectives.
+
 -   Reference policies and rules for migration including conflict
     resolution principles and configuration management rules.
+
 -   If necessary, the migration strategy and criteria.
+
 -   Roles and responsibilities to manage the migration process in
     alignment with reference policies.
+
 -   Migration timeline and decision making policy.
+
 -   Migration means: motivation data, library, repository and dashboard.
 
 # Evaluation Report
@@ -819,10 +921,15 @@ selected set of criteria, reflecting the main concerns of and agreed
 with stakeholders. The evaluation report describes the following points:
 
 -   Scope of evaluation.
+
 -   Description of evaluated alternatives.
+
 -   Evaluation objectives and criteria.
+
 -   Evaluation method and rationale.
+
 -   Evaluation results.
+
 -   Interpretation of results and recommendations.
 
 Recommendations are provided to support decision making: decisions
@@ -857,7 +964,9 @@ The executable summary of the main architecture document provides a
 synthesis of:
 
 -   Stakes, constraints and assets enabling to approach the vision.
+
 -   Principles and criteria to shortlist alternative of architectures.
+
 -   Criteria to find the best candidate or to propose a trade-off from
     shortlisted candidates.
 
@@ -877,11 +986,12 @@ Two kinds of milestones can be distinguished in a dashboard:
 
 -   Milestones for architecture products to be developed and evaluated
     by architects: we call them hereafter architecting milestones
+
 -   Milestones for architecture to be developed and implemented by
     projects: We call them hereafter architecture milestones.
 
-Figure ‎2‑10: Dashboard
-depicting interleaving activities along an architecture life
+{%include rasterfigure.html url="dashboard-outline.png" description="Dashboard depicting interleaving activities along an architecture life"%}
+
 
 Architecture milestones correspond to capability configurations of
 the selected architecture trade-off solution to fit customer and users
@@ -890,11 +1000,14 @@ expectations:
 -   Capability levels: operational relevance, deployment readiness,
     integration with legacy are examples of architecture milestones from
     a customer perspective.
+
 -   Technical feasibility, with respect to standards, norms and laws
     (international and or local) can lead to different configuration
     milestones from the designer perspective.
+
 -   Roadmaps of building blocks of interest induce milestones from
     development perspectives.
+
 -   Technology readiness roadmaps dictate milestones from technology
     readiness perspective.
 

@@ -1,5 +1,6 @@
 - title: Introduction
   id: intro
+  location: "/naf/introduction/"
   sections:
     - title: General
       short: General
@@ -57,8 +58,48 @@
       short: Use of NAF in NATO
       url: xc-naf-in-nato
 - title: Methodology
-  id: xxx
-  sections: []
+  id: meth
+  location: "/naf/methodology/"
+  sections:
+    - title: Forword
+      short: Forword
+      url: 01-forword
+    - title: Scope
+      short: Scope
+      url: 02-scope
+    - title: Why do we need this Architecting Methodology?
+      short: Why a Methodology
+      url: 03-why
+    - title: Main concepts for Architecture and Architecting
+      short: Main Concepts
+      url: 04-concepts
+    - title: Architecting Activity
+      short: Architecting Activity
+      url: 05-activity
+    - title: Architecting for the enterprise scope
+      short: Architecting for the enterprise
+      url: 06-enterprise
+    - title: Architecting in a project
+      short: Architecting in a project
+      url: 07-project
+    - title: Foundation for Architecting
+      short: Foundation
+      url: 08-foundation
+    - title: NATO Specific Architecture Approach
+      short: NATO Apploach
+      url: xa-nato-specific
+    - title: Architecture Description with Viewpoints
+      short: AD with Viewpoints
+      url: xb-ad-with-vp
+    - title: NATO Architecting Method with regard to TOGAF/ADM
+      short: NATO Arch vs, TOGAF/ADM
+      url: xc-naf-vs-togaf
+    - title: Example use cases to support NAF v4 methodology
+      short: Examples
+      url: xd-example
+    - title: Architecting Styles
+      short: Architecting Styles
+      url: xf-arch-style
 - title: Viewpoints
   id: aaa
   sections: []

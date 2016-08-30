@@ -42,7 +42,7 @@ in order to:
 
 -   Allow flexibility in the navigation through architecting stages.
 
-Figure ‎2‑11: Architecting stages
+{%include rasterfigure.html url="arch-stages.png" description="Architecting stages"%}
 
 The method:
 
@@ -115,7 +115,7 @@ candidate target architectures, and govern implementation projects in
 consistency with enterprise portfolios (e.g. product portfolios and
 libraries of standards).
 
-Figure ‎2‑12: 6-steps architecture process \[DoDAF v2.0\]
+{%include figure.html url="dodaf-6-steps.svg" description="6-steps architecture process \[DoDAF v2.0\]"%}
 
 # Architecting dynamics and tailoring principles
 
@@ -129,7 +129,7 @@ Architects plan stages and define success criteria to complete
 motivation data. The architecture management plan captures justified
 cycles, iterations and synchronisations with other tiers architectures.
 
-Figure ‎2‑13: Architecting cycles & iterations
+ {%include rasterfigure.html url="iterations.png" description="Architecting cycles iterations"%}
 
 Figure ‎2‑13 depicts architecting principles:
 
@@ -201,4 +201,4 @@ Landscapes are updated from general down to projects, and from projects
 up to domains, to enable overall governance of enterprise
 transformation.
 
-Figure ‎2‑14: Multi-tiered Architecting
+{%include rasterfigure.html url="mt-archi.png" description="Multi-tiered Architecting"%}

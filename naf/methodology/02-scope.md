@@ -17,13 +17,16 @@ literature provides a lot of meaning for them. However, in this document
 the meaning is:
 
 -   Enterprise is where the considered activities take place.
+
 -   Organisation is how the enterprise is organised.
+
 -   Project is the organisational structure of a considered activity.
 
 The methodology addresses various stakeholders (Users, acquirers,
 providers, builders, etc.) to either develop or use architectures.
 
-Figure ‎2‑1: 3 main methodological areas
+
+{%include figure.html url="methological-areas.svg" description="3 main methodological areas"%}
 
 Three main methodological areas are currently identified:
 
@@ -34,6 +37,7 @@ Three main methodological areas are currently identified:
   It also explains how activities can be performed with regards to the
   enterprise motivation and how activities can be used to govern the
   enterprise projects.
+
 * The project architecture area covers the architectural environment,
   activities and artefacts in a project or a programme. A project is
   associated to any architecture within the enterprise.
@@ -41,6 +45,7 @@ Three main methodological areas are currently identified:
   solution space related to the entity being architected. In both cases,
   this architecture is defined to orient acquisition, development or
   exploitation program and projects.
+
 * Foundation for architecting provides prerequisites and value factors to
   allow the viability of the architectures and their related activities at
   both the enterprise and the projects.

@@ -10,9 +10,7 @@ architectures: Overarching Architecture, Reference Architecture, Target
 Architecture, and Baseline Architecture.
 
 
-{%include figure.html url="./media/image17.jpeg"
-  description="Relationship between types of NATO architectures" width="561" height="329" %}
-
+{%include rasterfigure.html url="nato-kinds.png" description="Relationship between types of NATO architectures"%}
 
 **(Overarching Architecture (OA),Reference Architecture (RA) and Target
 Architecture (TA). Baseline Architecture (BA) is not included in the
@@ -31,12 +29,14 @@ This leads to a set of architectures commonly applied:
     detail, i.e. the What-question. In NATO this is the **Overarching
     Architecture**. *In other frameworks these architectures are called
     “Entreprise Architecture”.*
+
 -   A more focused description of the construction with full detail to
     guide programme execution. Such a description, answering the
     How-question, can focus on a specific subject area or span the
     full enterprise. In NATO this type of architecture description is
     called a **Reference Architecture**. *In other frameworks these
     architecture are called “Segment Architectures”.*
+
 -   A description limited to the scope of a single project addressing
     implementation decisions. Such a description builds on the previous
     type of architecture (Reference Architecture) and illustrates the
@@ -96,7 +96,6 @@ with each other, and any relevant external connectivity.
 
 # NATO Level and types as described by the NATO EA Policy
 
-
 In order to manage the complexity of the NATO Enterprise, the NATO
 Enterprise Architecture Policy identifies three levels of architecture
 and four different domains/types of architecture The levels and types of
@@ -113,8 +112,10 @@ Enterprise-level are:
 1.  The C3 Taxonomy and the Technical Services Framework that provide a
     common language for the description of C3 Capabilities and ICT
     Services;
+
 2.  The C3 Integrated Master Plan (IMP) which provides an overview of
     the status of key C3 Capabilities; and
+
 3.  The NISP which provides the most current baseline of
     interoperability profiles and technical standards.
 
@@ -127,9 +128,12 @@ packages). They are used to:
 1.  Facilitate the definition of resource proposals to address existing
     shortfalls between the available (as-is) capability and the
     required (to-be) capability;
+
 2.  Support the scoping and phasing of projects to resolve these
     shortfalls;
+
 3.  Identify synergies between the projects; and
+
 4.  Direct, monitor and evaluate the execution of a set of
     related projects.
 
@@ -140,14 +144,21 @@ the project aims to implement. They are used to:
 
 1.  Articulate the high-level design for a project in order to govern
     its execution;
+
 2.  Assure compliance with architectural governance;
+
 3.  Support the integration and alignment between projects;
+
 4.  Inform budget and acquisition decisions (e.g. in a Type B Cost
     Estimate (TBCE));
+
 5.  Provide the basis for more detailed specifications during contract
     preparation (e.g. in an Invitation for Bids (IFB));
+
 6.  Support contractor selection;
+
 7.  Govern the delivery of contracted products and services; and
+
 8.  Provide the basis for service transition and service
     operation activities.
 
@@ -155,26 +166,26 @@ the project aims to implement. They are used to:
 
 Architecture on each level shall cover the following architecture types:
 
-a.  Business Architecture – describing the business strategy,
+1.  Business Architecture – describing the business strategy,
     governance, organisation, and key business processes (including
     process ownership and key decisions) of the organisation;
 
-b.  Information Architecture – describing the structure of an
+2.  Information Architecture – describing the structure of an
     organisation's logical and physical information assets and the
     associated data management resources and linking the information
     required to the key business processes and decisions;
 
-c.  Application Architecture – providing a blueprint for the individual
+3.  Application Architecture – providing a blueprint for the individual
     application systems to be deployed, the information which they
     provide, the interactions between the application systems and their
     relationships to the core business processes of the organisation
     with the frameworks for services to be exposed as business functions
     for integration; and
 
-d.  Technology Architecture – describing the hardware, software and
+4.  Technology Architecture – describing the hardware, software and
     network infrastructure needed to support the deployment of the
     application systems.
-
+{: type="a"}
 
 # Capability Planning within NATO
 
@@ -188,6 +199,7 @@ domains. Among those domain are:
 
 -   Armaments Planning - focusing on capability procurement processes
     and harmonization of the various R&T initiatives
+
 -   Command, Control & Consultation (C3) Planning - which evaluates the
     tasks essential to NATO’s missions and determines those that require
     C3-related capabilities for their execution (NDPP STEP 2). These
@@ -204,6 +216,7 @@ domains. Among those domain are:
     individual nations (especially regarding standards
     and interoperability) and to NATO itself for the procurement of
     capabilities not suited to national provision.
+
 -   Standardisation - This domain ensures that the identified
     capabilities will comply with standards to achieve interoperability.
     The Standardisation domain will participate mainly in NDPP Step 2and
@@ -217,16 +230,17 @@ is called the Minimum Capabilities Requirements (MCR).
 The process consists of the following five steps:
 
 1.  Establish Political Guidance.
+
 2.  Determine requirements.
+
 3.  Apportion requirements.
+
 4.  Facilitate implementation.
+
 5.  Review Result.
 
-{%include figure.html url="media/image18.png" width="604" height="414" description="NDPP 5 steps"%}
+{%include rasterfigure.html url="ndpp_5_steps.png" width="604" height="414" description="NDPP 5 steps"%}
 
-<!--
-Source : https://tide.act.nato.int/tidepedia/index.php/File:NDPP_5_steps.png
--->
 
 
 In step 2, NDPP compares existing capabilities with the MCR and thereby
@@ -251,10 +265,15 @@ Interoperability (DOTMLPFI).
 The capabilities development process steps are:
 
 -   Analysis of Strategic Environment.
+
 -   Identify Capability Needs.
+
 -   Derive Requirements.
+
 -   Conduct Gap Analysis and Fulfilment.
+
 -   Identify Possible Solutions.
+
 -   Conduct Implementation.
 
 <!--
@@ -281,8 +300,10 @@ According to ACT: “The Reference Architecture will be used to:
 -   Provide the tools that support Capabilities Development process
     including support for requirements capture, definition
     and implementation.
+
 -   Provide communication means between operational analysts, architects
     and operational users.
+
 -   Fulfil the ACT role of RA provider as mandated by NATO C3 System
     Interoperability Directive (NID) and NATO Networked C3
     Interoperability Policy (NIP).”
@@ -294,9 +315,13 @@ Source: https://tide.act.nato.int/tidepedia/index.php/Reference\_Architecture\_(
 The process employed by ACT follows the following steps:
 
 -   Identify User Requirements (SCs).
+
 -   Analyse Business processes (SCs, NCIA).
+
 -   Capture requirements (SCs, NCIA).
+
 -   Identify services (ACT, NCIA).
+
 -   Create architecture models (ACT, NCIA).
 
 Most process steps involves multiple types of actors from multiple
@@ -305,17 +330,29 @@ common language. However, ACT does not describe the process in detail,
 only the products in the form of NAF v3 views. They are:
 
 -   NAV-1 Overview and Summary Information
+
 -   NAV-3a Architecture Compliance Statement
+
 -   NOV-5 Operational Activity Model
+
 -   NSOV-1 Service Taxonomy
+
 -   NSOV-2 Service Definition
+
 -   NSV-1 System Interface Description
+
 -   NSV-4 System Functionality Description
+
 -   NSV-5 Systems Function to Operational Activity Traceability Matrix
+
 -   NSV-7 System Quality Requirements Description
+
 -   NSV-10a Systems Rule Model
+
 -   NSV-11a Logical Data Model
+
 -   NSV-12 Service Provision
+
 -   NTV-1 Technical Standards profile
 
 # Recommendations for NATO

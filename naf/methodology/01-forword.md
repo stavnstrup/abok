@@ -21,5 +21,6 @@ Chapters 3 and 4 give the NAF v4 Formalism with:
 
 * A set of predefined Viewpoints – conventions for the construction,
   interpretation and use of architecture views (Chapter 3).
+  
 * A Meta-Model – a standard ontology for capturing the key architectural
   elements and their interdependencies (Chapter 4).

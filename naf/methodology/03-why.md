@@ -17,5 +17,7 @@ assets descriptions in order to:
 
 * Have unique and homogeneous architecture repository and architecting
   environment
+
 * Ease governance and management
+
 * Allow collaborative architecting activities

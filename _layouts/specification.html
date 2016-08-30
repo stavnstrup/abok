@@ -9,7 +9,7 @@ layout: default
       <div class="book">{{ group.title }}</div>
       <ul>
         {% for section in group.sections %}
-        <li><a href="{{group.location}}{{section.url}}.html" title="{{section.title}}">{{section.short}}</a></li>
+        <li><a href="{{site.baseurl}}{{group.location}}{{section.url}}.html" title="{{section.title}}">{{section.short}}</a></li>
         {% endfor %}
       </ul>
     </nav>

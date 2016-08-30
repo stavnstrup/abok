@@ -98,3 +98,7 @@ step towards a Unified Architecture Framework (UAF) as illustrated in
 figure below.
 
 {%include rasterfigure.html url="uaf.png" description="NATO Roadmap towards Unified Architecture Framework" %}
+
+[^1]: A Common Perspective on Enterprise Architecture, The Federation of Enterprise Architecture Professional Organizations
+
+[^2]: NAF Version 3 issued as Annex 1 to AC/322-D(2007)0048 and subsequently updated with Annex 1 to AC/322(SC/1-WG/1)N(2009)0005-ADD2. In addition it replaces MODAF Version 1.2.004.

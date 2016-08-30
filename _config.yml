@@ -4,7 +4,7 @@ title: "NATO Architecture Framework v. 4"
 description: ""
 locale: en_UK
 
-baseurl: "/naf4-publication/"
+baseurl: "/naf4-publication"
 
 # Jekyll configuration
 
@@ -38,5 +38,6 @@ exclude:
   - packages.json
   - gulpfile.js
   - node_modules
+  - _sass/styles.scss
 
 # Collection

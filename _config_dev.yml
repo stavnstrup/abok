@@ -3,3 +3,7 @@ baseurl: ""
 
 sass:
   style: expanded
+
+
+exclude:
+  - css/styles.scss

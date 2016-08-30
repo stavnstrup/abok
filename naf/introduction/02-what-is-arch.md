@@ -1,5 +1,6 @@
 ---
 title: What is Architecture?
+xpermalink: /:path/what-is-arch/
 ---
 
 ISO/IEC 42010 describes Architecture as:

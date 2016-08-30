@@ -69,77 +69,70 @@ title: The purpose and Scope of Architectures and Architecture Frameworks
 
 # What is the value of an Architecture?
 
-1. Architectures are developed to support strategic planning, transformation, and
-   various types of analyses (i.e., gap, impact, risk) and the decisions made during each
-   of those processes. Additional uses include identifying capability needs, relating
-   needs to systems development and integration, attaining interoperability and
-   supportability, and managing investments. The following describes architecture
-   usage at two different levels[^value]:
+Architectures are developed to support strategic planning, transformation, and
+various types of analyses (i.e., gap, impact, risk) and the decisions made during each
+of those processes. Additional uses include identifying capability needs, relating
+needs to systems development and integration, attaining interoperability and
+supportability, and managing investments. The following describes architecture
+usage at two different levels[^value]:
 
-   1. Enterprise level – architectures, particularly federated architectures, are
+1. Enterprise level – architectures, particularly federated architectures, are
       used at the enterprise level to make decisions that improve:
-      1. human resource utilisation,
-      2. deployment of assets,
-      3. investments,
-      4. identification of the enterprise boundary (external interfaces) and
-         assignment of functional responsibility, and
-      5. structuring the functional activities in terms of projects.
-      {: type="a"}
 
-   2. Project level – architectures are used at the project level to identify
-      capability requirements and operational resource needs that meet
-      business objectives. Project architectures may then be integrated to
-      support decision making at the enterprise level.
-  {: type="a"}
+    1. human resource utilisation,
 
-2.  Architectures facilitate decision making by conveying the necessary
-    information. Setting architectures within the enterprise context ensures complete,
-    actionable information for more reliable decisions. The following describes
-    architecture data usage for different types of decisions:
+    2. deployment of assets,
 
-    1. Portfolio Management – Identifies objectives and goals to be satisfied
-       with regards to owned assets (capabilities and systems) and processes
-       to be governed.
+    3. investments,
 
-    2. Capability and Interoperability Readiness – Assesses capabilities and
-       their implementation (systems, platforms, services and aggregated
-       solutions) against needs and their net-readiness to identify gaps in
-       interoperable features.
+    4. identification of the enterprise boundary (external interfaces) and
+       assignment of functional responsibility, and
 
-    3. Operational Concept Planning – Examines how various mission
-       participants, processes, roles, responsibilities, and information need to
-       work together, to recognize potential problems that may be
-       encountered, and to identify quick fixes that may be available to
-       accomplish a mission.
-
-    4. Acquisition Programme Management and System Development –
-       Expresses the plan and management activities to acquire and develop
-       system concepts, design, and implementation (as they mature over
-       time), which enable and support operational requirements and provide
-       traceability to those requirements. This process has to be compliant
-       with the Enterprise objective and operational requirements. It refines
-       operational analysis, performs system analysis, and improves both
-       materiel and non-materiel solution analysis.
-
-    5. Modelling and Simulation - Modelling and simulation techniques can be
-       used in order to assess the business and mission analysis. For
-       example in the military context the implementation of mission threads[^missionthreads]
-       and scenarios[^scenario] , thus providing an environment for thorough testing of
-       identified use cases.[^usecase]
+    5. structuring the functional activities in terms of projects.
     {: type="a"}
 
-[^value]: The NATO EA Policy identifies a third level being the Capability level which is between Enterprise
-and Project levels.
+2. Project level – architectures are used at the project level to identify
+  capability requirements and operational resource needs that meet
+  business objectives. Project architectures may then be integrated to
+  support decision making at the enterprise level.
+{: type="a"}
 
-[^missionthreads]:  Mission Threads have been described as an operational description of end-to-end activities that
-accomplish the execution of a mission. No formal definition has been promulgated.
+Architectures facilitate decision making by conveying the necessary
+information. Setting architectures within the enterprise context ensures complete,
+actionable information for more reliable decisions. The following describes
+architecture data usage for different types of decisions:
 
-[^scenario]: A postulated sequence or development of events within a particular setting (Oxford Dictionary).
+1. Portfolio Management – Identifies objectives and goals to be satisfied
+   with regards to owned assets (capabilities and systems) and processes
+   to be governed.
 
-[^usecase]: A use case is a term used in systems and software engineering, it is a list of action or event steps,
-typically defining the interactions between role (actor) and a system. I systems engineering they are
-described at a higher level than in software engineering and often represent missions or stakeholder
-goals.
+2. Capability and Interoperability Readiness – Assesses capabilities and
+   their implementation (systems, platforms, services and aggregated
+   solutions) against needs and their net-readiness to identify gaps in
+   interoperable features.
+
+3. Operational Concept Planning – Examines how various mission
+   participants, processes, roles, responsibilities, and information need to
+   work together, to recognize potential problems that may be
+   encountered, and to identify quick fixes that may be available to
+   accomplish a mission.
+
+4. Acquisition Programme Management and System Development –
+   Expresses the plan and management activities to acquire and develop
+   system concepts, design, and implementation (as they mature over
+   time), which enable and support operational requirements and provide
+   traceability to those requirements. This process has to be compliant
+   with the Enterprise objective and operational requirements. It refines
+   operational analysis, performs system analysis, and improves both
+   materiel and non-materiel solution analysis.
+
+5. Modelling and Simulation - Modelling and simulation techniques can be
+   used in order to assess the business and mission analysis. For
+   example in the military context the implementation of mission threads[^missionthreads]
+   and scenarios[^scenario] , thus providing an environment for thorough testing of
+   identified use cases.[^usecase]
+{: type="a"}
+
 
 
 # Interoperability between Architectures
@@ -149,3 +142,14 @@ Architectures must not be produced for the sake of architectures themselves, but
 Architecture related processes should be seen as a technique for managing complexity rather than activities to produce models. A common set of architecture processes, such as those specified in NAF, is judged to be the best way of achieving success in the formation of a federation of systems approach.
 
 This concept is not only valid for NATO itself, but also between NATO and Nations, NATO and Non-Government Organisations (NGOs) and Nations and NGOs.
+
+
+
+
+[^value]: The NATO EA Policy identifies a third level being the Capability level which is between Enterprise and Project levels.
+
+[^missionthreads]:  Mission Threads have been described as an operational description of end-to-end activities that accomplish the execution of a mission. No formal definition has been promulgated.
+
+[^scenario]: A postulated sequence or development of events within a particular setting (Oxford Dictionary).
+
+[^usecase]: A use case is a term used in systems and software engineering, it is a list of action or event steps, typically defining the interactions between role (actor) and a system. I systems engineering they are described at a higher level than in software engineering and often represent missions or stakeholder goals.

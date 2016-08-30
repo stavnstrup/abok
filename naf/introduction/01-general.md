@@ -1,5 +1,6 @@
 ---
 title: General
+xpermalink: /:path/
 ---
 
 # Purpose

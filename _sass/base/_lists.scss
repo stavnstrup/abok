@@ -17,3 +17,18 @@ dl {
     margin: 0;
   }
 }
+
+ol {
+  list-style-type: decimal;
+  padding-left: 40px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 40px;
+}
+
+*  [type=a] {
+  list-style-type: lower-alpha;
+
+}

@@ -84,6 +84,7 @@ title: The purpose and Scope of Architectures and Architecture Frameworks
       4. identification of the enterprise boundary (external interfaces) and
          assignment of functional responsibility, and
       5. structuring the functional activities in terms of projects.
+      {: type="a"}
 
    2. Project level – architectures are used at the project level to identify
       capability requirements and operational resource needs that meet

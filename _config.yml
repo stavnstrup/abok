@@ -13,6 +13,14 @@ defaults:
       path: "naf/introduction"
     values:
       layout: "specification"
+      rasterimages: "http://stavnstrup.github.io/naf4-raster/introduction/"
+      svgimages: "/images/introduction/"
+  - scope:
+      path: "naf/methodology"
+    values:
+      layout: "specification"
+      rasterimages: "http://stavnstrup.github.io/naf4-raster/methodology/"
+      svgimages: "/images/methodology/"
 
 #sass:
 #  style: compressed

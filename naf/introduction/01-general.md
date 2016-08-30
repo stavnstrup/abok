@@ -97,4 +97,4 @@ Developing NAF v4 enabled the limitations above to be addressed and is a
 step towards a Unified Architecture Framework (UAF) as illustrated in
 figure below.
 
-{%include figure.html url="uaf.png" description="NATO Roadmap towards Unified Architecture Framework" %}
+{%include rasterfigure.html url="uaf.png" description="NATO Roadmap towards Unified Architecture Framework" %}

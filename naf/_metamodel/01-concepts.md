@@ -5,7 +5,7 @@ title: Concepts Layer
 # C1 – Capability Taxonomy
 
 
-{%include figure.html url="* {{rasterimagepath}}image2.png" description="C1 Logical Diagram" %}
+{%include rasterfigure.html url="image2.png" description="C1 Logical Diagram" %}
 
 
 <table>

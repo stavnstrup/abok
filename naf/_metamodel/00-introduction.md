@@ -2,7 +2,6 @@
 title: Introduction
 ---
 
-
 # Introduction to MODEM
 
 MODEM is the meta model that underpins the NAF. It, defines the structure of the
@@ -19,10 +18,10 @@ concepts. MODEM, therefore, provides semantic rigour for the NAF.
 
 A high-level view of the NAF Meta-Model (MODEM) is shown below:
 
-{%include figure.html url="{{rasterimage}}image1.emf" description="High-Level View of MODEM" %}
+{% include figure.html url="image1.emf" description="High-Level View of MODEM" %}
 
 
-{%include figure.html url="{{rasterimage}}image1.emf" description="High Level View with Deployed layer removed" %}
+{% include figure.html url="image1.emf" description="High Level View with Deployed layer removed" %}
 
 
 
@@ -50,7 +49,7 @@ indicate the NAF Viewpoint, using the following standard colours:
 * Orange = Physical Resource Specifications layer Viewpoints
 * Pink = Architecture Roadmap, e.g. Acquisition Viewpoints
 
-* Grey = Technology &amp; Standards Viewpoints
+* Grey = Technology & Standards Viewpoints
 
 
 In addition, placeable types (Tuples, TupleTypes, TupleTypeTypes, etc.) are

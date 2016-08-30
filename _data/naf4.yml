@@ -101,11 +101,30 @@
       short: Architecting Styles
       url: xf-arch-styles
 - title: Viewpoints
-  id: aaa
+  id: Viewpoint
   sections: []
 - title: NAF Meta Model
-  id: bbb
-  sections: []
+  location: "/naf/metamodel/"
+  id: meta
+  sections:
+    - title: Introduction
+      short: Introduction
+      url: 01-introduction
+    - title: Concepts Layer
+      short: Concepts Viewpoint
+      url: 02-concepts
+    - title: Service Specification Layer
+      short: Service Viewpoint
+      url: 03-services
+    - title: Logical Specifications Layer
+      short: Logical Viewpoints
+      url: 04-logical
+    - title: Physical Resource Specifications Layer
+      short: Physical Viewpoint
+      url: 05-physical
+    - title: Architecture Meta-Data Layer
+      short: Architecture Viewpoint
+      url: 06-architecture
 - title: Examples
   id: ccc
   sections: []

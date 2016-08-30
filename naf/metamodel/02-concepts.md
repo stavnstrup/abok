@@ -51,10 +51,10 @@ title: Concepts Layer
 
 # C2 - Enterprise Vision
 
-{%include figure.html url="* {{rasterimagepath}}image3.emf" description="Overview" %}
+{%include rasterfigure.html url="image3.emf" description="Overview" %}
 
 
-{%include figure.html url="* {{rasterimagepath}}image4.png" description="C2 Logical Diagram" %}
+{%include rasterfigure.html url="image4.png" description="C2 Logical Diagram" %}
 
 
 
@@ -306,7 +306,7 @@ Note: TerrainType is a subtype of GeopoliticalLocationStateType as the terrain m
 # C3 - Capability Dependencies
 
 
-{%include figure.html url="* {{rasterimagepath}}image5.png" description="C3 Logical Diagram" %}
+{%include rasterfigure.html url="image5.png" description="C3 Logical Diagram" %}
 
 
 
@@ -350,7 +350,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 
 # C4 – Standard Processes
 
-{%include figure.html url="* {{rasterimagepath}}image6.png" description="C4 Logical Diagram" %}
+{%include rasterfigure.html url="image6.png" description="C4 Logical Diagram" %}
 
 
 <table>
@@ -435,7 +435,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 
 # C5 – Effects
 
-{%include figure.html url="* {{rasterimagepath}}image7.emf" description="???" %}
+{%include rasterfigure.html url="image7.emf" description="???" %}
 
 
 # C6 – Not Used
@@ -443,7 +443,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 
 # C7 – Performance Parameters
 
-{%include figure.html url="* {{rasterimagepath}}image8.png" description="C7 Logical Diagram" %}
+{%include rasterfigure.html url="image8.png" description="C7 Logical Diagram" %}
 
 
 <table>
@@ -480,7 +480,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 
 # C8 – Planning Assumptions
 
-{%include figure.html url="* {{rasterimagepath}}image9.png" description="C8 Logical Diagram" %}
+{%include rasterfigure.html url="image9.png" description="C8 Logical Diagram" %}
 
 
 
@@ -612,7 +612,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 
 # Cr – Capability Roadmap
 
-{%include figure.html url="* {{rasterimagepath}}image10.png" description="Cr Logical Diagram" %}
+{%include rasterfigure.html url="image10.png" description="Cr Logical Diagram" %}
 
 <table>
 <thead>

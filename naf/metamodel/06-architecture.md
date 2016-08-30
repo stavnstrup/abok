@@ -5,7 +5,7 @@ title: Architecture Meta-Data Layer
 # A1 – Meta-Data Definitions
 
 
-{%include figure.html url="{{rasterimagepath}}image39.png" width="604" height="353"" description="A1 Logical Diagram" %}
+{%include figure.html url="image39.png" width="604" height="353" description="A1 Logical Diagram" %}
 
 
 <table>
@@ -156,7 +156,7 @@ An AD element is any construct in an architecture description. AD elements are t
 
 # A2 – Architecture Products
 
-{%include figure.html url="{{rasterimagepath}}image40.png" width="604" height="258" description="A2 Logical Diagram" %}
+{%include figure.html url="image40.png" width="604" height="258" description="A2 Logical Diagram" %}
 
 <table>
 <thead>
@@ -449,7 +449,7 @@ Examples: Government Department, Commercial Company, Accounting Department.</td>
 # A3 – Architecture Correspondence
 
 
-{%include figure.html url="{{rasterimagepath}}image41.png" width="605" height="314" description="A3 Logical Diagram" %}
+{%include figure.html url="image41.png" width="605" height="314" description="A3 Logical Diagram" %}
 
 <table>
 <thead>
@@ -523,7 +523,7 @@ Correspondence rules are used to enforce relations within an architecture descri
 # A4 – Methodology Used
 
 
-{%include figure.html url="{{rasterimagepath}}image42.png" width="605" height="225" description="A4 Logical Diagram" %}
+{%include figure.html url="image42.png" width="605" height="225" description="A4 Logical Diagram" %}
 
 <table>
 <thead>
@@ -556,7 +556,7 @@ Correspondence rules are used to enforce relations within an architecture descri
 
 # A5 – Architecture Status
 
-{%include figure.html url="{{rasterimagepath}}image43.png" width="610" height="381" description="A5 Logical Diagram" %}
+{%include figure.html url="image43.png" width="610" height="381" description="A5 Logical Diagram" %}
 
 <table>
 <thead>
@@ -702,7 +702,7 @@ An AD element is any construct in an architecture description. AD elements are t
 # A6 – Architecture Versions
 
 
-{%include figure.html url="{{rasterimagepath}}/image44.png" width="604" height="194" description="A6 Logical Diagram" %}
+{%include figure.html url="/image44.png" width="604" height="194" description="A6 Logical Diagram" %}
 
 <table>
 <thead>
@@ -763,7 +763,7 @@ An AD element is any construct in an architecture description. AD elements are t
 # A7 – Architecture Meta-Data
 
 
-{%include figure.html url="{{rasterimagepath}}image45.png" width="604" height="353" description="A7 Logical Diagram" %}
+{%include figure.html url="image45.png" width="604" height="353" description="A7 Logical Diagram" %}
 
 <table>
 <thead>
@@ -913,7 +913,7 @@ An AD element is any construct in an architecture description. AD elements are t
 # A8 – Standards
 
 
-{%include figure.html url="{{rasterimagepath}}image46.png" width="604" height="342" description="A8 Logical Diagram<" %}
+{%include figure.html url="image46.png" width="604" height="342" description="A8 Logical Diagram<" %}
 
 <table>
 <thead>
@@ -1012,7 +1012,7 @@ An AD element is any construct in an architecture description. AD elements are t
 # Ar – Architecture Roadmap
 
 
-{%include figure.html url="{{rasterimagepath}}image47.png" width="602" height="430" description="Ar Logical Diagram" %}
+{%include figure.html url="image47.png" width="602" height="430" description="Ar Logical Diagram" %}
 
 <table>
 <thead>

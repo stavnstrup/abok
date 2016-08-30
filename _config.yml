@@ -21,6 +21,12 @@ defaults:
       layout: "specification"
       rasterimages: "http://stavnstrup.github.io/naf4-raster/methodology/"
       svgimages: "/images/methodology/"
+  - scope:
+      path: "naf/metamodel"
+    values:
+      layout: "specification"
+      rasterimages: "http://stavnstrup.github.io/naf4-raster/metamodel/"
+      svgimages: "/images/metamodel/"
 
 #sass:
 #  style: compressed

@@ -6,7 +6,7 @@ title: Logical Specifications Layer
 # L1 – Node Types
 
 
-{%include figure.html url="{{rasterimagepath}}image20.png" width="604" height="795"" description="L1 Logical Diagram" %}
+{%include figure.html url="image20.png" width="604" height="795" description="L1 Logical Diagram" %}
 
 <table>
 <thead>
@@ -162,7 +162,7 @@ title: Logical Specifications Layer
 # L2 – Logical Scenario
 
 
-{%include figure.html url="{{rasterimagepath}}image21.png" width="604" height="601" description="L2 Logical Diagram" %}
+{%include figure.html url="image21.png" width="604" height="601" description="L2 Logical Diagram" %}
 
 <table>
 <thead>
@@ -490,7 +490,7 @@ title: Logical Specifications Layer
 
 # L3 – Node Interactions
 
-{%include figure.html url="{{rasterimagepath}}image22.png" width="603" height="367" description="L3 Logical Diagram" %}
+{%include figure.html url="image22.png" width="603" height="367" description="L3 Logical Diagram" %}
 
 <table>
 <thead>
@@ -737,7 +737,7 @@ title: Logical Specifications Layer
 
 
 
-{%include figure.html url="{{rasterimagepath}}image23.png" width="604" height="620"  description="L4 Logical Diagram" %}
+{%include figure.html url="image23.png" width="604" height="620"  description="L4 Logical Diagram" %}
 
 
 <table>
@@ -993,7 +993,7 @@ title: Logical Specifications Layer
 
 # L5 – Logical States
 
-{%include figure.html url="{{rasterimagepath}}image24.png" width="604" height="379" description="L5 Logical Diagram" %}
+{%include figure.html url="image24.png" width="604" height="379" description="L5 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1063,7 +1063,7 @@ title: Logical Specifications Layer
 
 # L6 – Logical Sequence
 
-{%include figure.html url="{{rasterimagepath}}image25.png" width="604" height="508" description="L6 Logical Diagram" %}
+{%include figure.html url="image25.png" width="604" height="508" description="L6 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1219,7 +1219,7 @@ title: Logical Specifications Layer
 # L7 – Logical Data Model
 
 
-{%include figure.html url="{{rasterimagepath}}image26.png" width="604" height="539" description="L7 Logical Diagram" %}
+{%include figure.html url="image26.png" width="604" height="539" description="L7 Logical Diagram" %}
 
 <table>
 <thead>
@@ -1437,7 +1437,7 @@ title: Logical Specifications Layer
 
 
 
-{%include figure.html url="{{rasterimagepath}}image27.png" width="603" height="478" description="Lr Logical Diagram" %}
+{%include figure.html url="image27.png" width="603" height="478" description="Lr Logical Diagram" %}
 
 <table>
 <thead>

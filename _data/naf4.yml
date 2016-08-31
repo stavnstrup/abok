@@ -126,5 +126,36 @@
       short: Architecture Viewpoint
       url: 06-architecture
 - title: Examples
-  id: ccc
-  sections: []
+  location: "/naf/examples/"
+  id: exam
+  sections:
+    - title: Objectives of the examples
+      short: Objectives
+      url: 01-objectives
+    - title: Overall use case description
+      short: Use Case
+      url: 02-usecase
+    - title: Description of the actors of the scenario
+      short: Actors
+      url: 03-actor
+    - title: Development of the Capability Level Architecture at national level
+      short: Capability Level
+      url: 04-capability
+    - title: Development of the Project architecture
+      short: Project Level
+      url: 05-project
+    - title: Conclusion and way ahead
+      short: Conclusion
+      url: 06-conclusion
+    - title: Structure of the Architecture Management Plan
+      short: Management Plan
+      url: xa-amp
+    - title: General information
+      short: General Information
+      url: xb-general
+    - title: Architecture Development Overview
+      short: Development Overview
+      url: xc-dev-overview
+    - title: Architecture Development Commitment
+      short: Development Commitment
+      url: xd-dev-commit

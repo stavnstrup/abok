@@ -1,0 +1,5 @@
+---
+title: STRUCTURE OF THE ARCHITECTURE MANAGEMENT PLAN
+---
+
+Temporary page

@@ -61,9 +61,9 @@
   id: meth
   location: "/naf/methodology/"
   sections:
-    - title: Forword
-      short: Forword
-      url: 01-forword
+    - title: Foreword
+      short: Foreword
+      url: 01-foreword
     - title: Scope
       short: Scope
       url: 02-scope

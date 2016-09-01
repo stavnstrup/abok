@@ -10,6 +10,10 @@ baseurl: "/naf4-publication"
 
 defaults:
   - scope:
+      path: "naf/"
+    values:
+      layout: "specification"
+  - scope:
       path: "naf/introduction"
     values:
       layout: "specification"

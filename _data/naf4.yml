@@ -150,12 +150,3 @@
     - title: Structure of the Architecture Management Plan
       short: Management Plan
       url: xa-amp
-    - title: General information
-      short: General Information
-      url: xb-general
-    - title: Architecture Development Overview
-      short: Development Overview
-      url: xc-dev-overview
-    - title: Architecture Development Commitment
-      short: Development Commitment
-      url: xd-dev-commit

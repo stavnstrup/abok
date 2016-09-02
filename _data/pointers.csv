@@ -38,7 +38,4 @@ exam,03-actor,02-usecase,04-capability
 exam,04-capability,03-actor,05-project
 exam,05-project,04-capability,06-conclusion
 exam,06-conclusion,05-project,xa-amp
-exam,xa-amp,06-conclusion,xb-general
-exam,xb-general,xa-amp,xc-dev-overview
-exam,xc-dev-overview,xb-general,xd-dev-commit
-exam,xd-dev-commit,xc-dev-overview,
+exam,xa-amp,06-conclusion,

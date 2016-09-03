@@ -67,7 +67,7 @@ Architecture Development including:
 -   Governance, planning, management, and control of the architecture
     products and deliverables.
 
--   Schedule objectives for YSR\_SYS Project
+-   Schedule objectives for YSR_SYS Project
 
 In order to complement and support the overall Project Management Plan,
 the Architecture Management Plan contains a description of the
@@ -79,7 +79,7 @@ project lifecycle.
 The architecture management plan provides a plan for delivering the
 architecture of YSR\_SYS in line with the execution of the System
 Engineering process. The aim of architecture development is to ensure a
-clear and coherent description of YSR\_SYS, according to users’ needs,
+clear and coherent description of YSR_SYS, according to users’ needs,
 including its components, its internal and external liaisons within its
 environment.
 
@@ -221,7 +221,6 @@ integrate, verify and validate the subsystems, before to be integrated
 at system level.
 
 ## Architecture Development Key Stakeholders
-----------------------------------------------------------------------------------------------------------------------------------------
 
 -   **The Architecture community:**
 

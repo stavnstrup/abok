@@ -303,31 +303,23 @@ The architecture management plan must highlight the following aspects:
 The following diagram describes the views of the grid to be considered
 for this stage.
 
-![](media/image12.emf)
-
-Figure : Zones of the "Grid" used to establish project architecture landscape
+![](media/image12.emf) Figure : Zones of the "Grid" used to establish project architecture landscape
 
 The following views will be developed.
 
-  NAF v4 views                                                                                                                                                                                                         NAF V3 views
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------
-  [A1 Meta data definition](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA1)   NAV-1 Overview and Summary Information and architecture management plan
-  [A1 Meta data definition](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA1)   NAV-2Integrated Dictionary
-  [C1 Capability Taxonomy](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC1)    NCV-2 Capability Taxonomy
-  [C2 Enterprise Vision](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC2)      NCV-1, Capability Vision
+  NAF v4 views            NAF V3 views
+  ----------------------- ----------------------------------------------------------------------
+  A1 Meta data definition NAV-1 Overview and Summary Information and architecture management plan
+  A1 Meta data definition NAV-2Integrated Dictionary
+  C1 Capability Taxonomy  NCV-2 Capability Taxonomy
+  C2 Enterprise Vision    NCV-1, Capability Vision
 
 
-![](media/image13.png)
+![](media/image13.png) Figure 12: A1 Meta data definition view
 
-Figure 12: A1 Meta data definition view
+![](media/image14.png) Figure : C2, Cr SAR Vision and capability roadmap
 
-![](media/image14.png)
-
-Figure : C2, Cr SAR Vision and capability roadmap
-
-![](media/image15.png)
-
-Figure : C1 Capability Taxonomy View
+![](media/image15.png) Figure : C1 Capability Taxonomy View
 
 # Establish Architecture Vision
 
@@ -523,41 +515,28 @@ minimum the following elements
 The following diagram describes the views of the grid to be considered
 for this stage.
 
-![](media/image16.png)
-
-Figure 15: Zones of the Grid used in the
-Establish Architecture Vision Stage
+![](media/image16.png) Figure 15: Zones of the Grid used in the Establish Architecture Vision Stage
 
 The following views will be started or developed:
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  NAF v4 views                                                                                                                                                                                                                 NAF V3 views
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------
-  [AMP Architecture Management Plan](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#AMP)\   NAV -1 Overview and Summary Information ( state the chapters updated
-  [A5 Architecture Status](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA5)            
-
-  [A1 Meta data definition](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA1)           NAV-3a, Architecture Compliance Statement (Meta Data)
-
-                                                                                                                                                                                                                               NAV-2Integrated Dictionary
-
-  [C2 Enterprise Vision](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC2)              NCV-1, Capability Vision
-
-  [C1 Capability Taxonomy](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC1)            NCV-2, Capability Taxonomy
-
-  [ACD Architecture Concept Diagram](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#ACD)    NOV-1, High-Level Operational Concept Description
-
-  [L2 Logical Scenario](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL2)               NOV-2, Operational Node Connectivity Description
-
-  [S1 Service Taxonomy](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS1)               NSOV-1, Service Taxonomy
-
-  [S3 Service Interfaces](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS3)             NSOV-2, Service Definitions
-
-  [P2 Resource Structure](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP2)\            NSV-1, System Interface Description)
-  [P3 Resource Connectivity](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP3)          
+------------------------------------------------------------------------------------------------------------------------
+NAF v4 views                     NAF V3 views
+-------------------------------- ----------------------------------------------------------------------
+AMP Architecture Management Plan  NAV -1 Overview and Summary Information ( state the chapters updated
+A5 Architecture Status
+A1 Meta data definition           NAV-3a, Architecture Compliance Statement (Meta Data)
+                                  NAV-2Integrated Dictionary
+C2 Enterprise Vision              NCV-1, Capability Vision
+C1 Capability Taxonomy            NCV-2, Capability Taxonomy
+ACD Architecture Concept Diagram  NOV-1, High-Level Operational Concept Description
+L2 Logical Scenario
+S1 Service Taxonomy               NSOV-1, Service Taxonomy
+S3 Service                        NSOV-2, Service Definitions
+P2 Resource Structure             NSV-1, System Interface Description)
+P3 Resource Connectivity
                                                                                                                                                                                                                                ( including Human and Technical Aspects of the capability )
-
-  [Cr Capability Roadmap](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFCR)             (Capability roadmap)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cr Capability Roadmap         (Capability roadmap)
+  ------------------------------------------------------------------------------
 
 
 ![](media/image17.jpeg)   The Architecture Concept Diagram
@@ -781,47 +760,30 @@ for this stage.
 The following views will be started, developed or refined
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  NAF v4 views                                                                                                                                                                                                                 NAF V3 views
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------
-  [AMP Architecture Management Plan](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#AMP)\   NAV-1 Overview and Summary Information (architecture management plan)
-  [A5 Architecture Status](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA5)            
+NAF v4 views                     NAF V3 views
+-------------------------------- -----------------------------------------------------------------------
+AMP Architecture Management Plan NAV-1 Overview and Summary Information (architecture management plan)
+A5 Architecture Status           
+A1 Meta data definition          NAV-3a, Architecture Compliance Statement (Meta Data)
+                                 NAV-2Integrated Dictionary
+C2 Enterprise Vision             NCV-1, Capability Vision
+C1 Capability Taxonomy           NCV-2, Capability Taxonomy
+Architecture Concept Diagram     NOV-1, High-Level Operational Concept Description
+L2 Logical Scenario              NOV-2, Operational Node Connectivity Description
+L3 Nodes Interactions            NOV-3, Operational Information Requirements
+L4 Logical Activities            NOV-5, Operational Activity Model
+L7 Logical Data Model            NOV-7, Information Model
+S1 Service Taxonomy              NSOV-1, Service Taxonomy )
+S3 Service Interfaces            NSOV-2, Service Definitions
+P2 Resource Structure            NOV-4, Organizational Relationship Chart
+P2 Resource Structure            NSV-1, System Interface Description
+                                 ( including Human and Technical Aspects of the capability )
+P1 Resources Types               NSV-2, Systems Communication Description
+P4 Resource Functions            NSV-4, System Functionality Description
+                                 NSV-11a, Logical Data Model
 
-  [A1 Meta data definition](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA1)           NAV-3a, Architecture Compliance Statement (Meta Data)
-
-                                                                                                                                                                                                                               NAV-2Integrated Dictionary
-
-  [C2 Enterprise Vision](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC2)              NCV-1, Capability Vision
-
-  [C1 Capability Taxonomy](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC1)            NCV-2, Capability Taxonomy
-
-  [Architecture Concept Diagram](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#ACD)        NOV-1, High-Level Operational Concept Description
-
-  [L2 Logical Scenario](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL2)               NOV-2, Operational Node Connectivity Description
-
-  [L3 Nodes Interactions](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL3)             NOV-3, Operational Information Requirements
-
-  [L4 Logical Activities](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL4)             NOV-5, Operational Activity Model
-
-  [L7 Logical Data Model](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL7)             NOV-7, Information Model
-
-  [S1 Service Taxonomy](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS1)               NSOV-1, Service Taxonomy )
-
-  [S3 Service Interfaces](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS3)             NSOV-2, Service Definitions
-
-  [P2 Resource Structure](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP2)             NOV-4, Organizational Relationship Chart
-
-  [P2 Resource Structure](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP2)             NSV-1, System Interface Description
-
-                                                                                                                                                                                                                               ( including Human and Technical Aspects of the capability )
-
-  [P1 Resources Types](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP1)                NSV-2, Systems Communication Description
-
-  [P4 Resource Functions](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP4)             NSV-4, System Functionality Description
-
-                                                                                                                                                                                                                               NSV-11a, Logical Data Model
-
-                                                                                                                                                                                                                               Lines of development
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                  Lines of development
+  -----------------------------------------------------------------------------------------
 
 
 ![](media/image26.png) Figure : The L3 Nodes Interactions View
@@ -929,34 +891,32 @@ for this stage.
 
 ![](media/image32.png) Figure : Zones of the Grid used to Evaluate Alternatives of Architecture
 
-  NAF v4 views                                                                                                                                                                                                                       NAF V3 views
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
-  A8 Standards                                                                                                                                                                                                                       NTV-1, Technical Standards Profile NTV-2, Technical Standards Forecast
-  [C1/S1 Capability to Service Mapping](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC1S1)   NCV-5, Capability to Organizational Deployment Mapping
-  [C1/S1 Capability to Service Mapping](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC1S1)   NCV-7, Capability to Services Mapping
-  [C4 Standard Processes](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC4)                   NCV-6, Capability to Operational Activities Mapping
-  For a specific Scenario
-  [L5 Logical States](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL5)                       NOV-6b, Operational State Transition Description
-  [L6 Logical Sequence](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL6)                     NOV-6c, Operational Event-Trace Description
-  [L7 Logical Data Model](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL7)                   NOV-7, Information Model
-  [L8 Logical Constraints](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL8)                  NOV-6a, Operational Rule Model
-  [P1 Resources Types](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP1)                      NSV-2, Systems Communication Description
-  [P2 Resource Structure](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP2)                   NSV-1, System Interface Description
-  [P5 Resource States](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP5)                      NSV-10b, Systems State Transition Description
-  [P6 Resource Sequence](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP6)                    NSV-10c, Systems Event-Trace Description
-  [P7 Physical data model](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP7)                  NSV-11b, Physical Data Modelling the transition architecture and the Migration Plan
-  [P8 Resource Constraints](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP8)                 NSV-10a, Systems Rule Model
-  [S4 Services Functions](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS4)                   NSOV-3, Services to Operational Activities Mapping
-  [S6 Service Interactions](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS6)                 NSOV-4, Service Orchestration
-  Target
-  A8 Standards                                                                                                                                                                                                                       NTV-1, Technical Standards Profile + NTV-2, Technical Standards Forecast
-  [L4/P4 Activity to Function Mapping](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFL4P4)    NSV-5, Systems Function to Operational Activity Traceability Matrix
-  [P1 Resources Types](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP1)                      NSV-2, Systems Communication Description
-  [P2 Resource Structure](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP2)                   NSV-1, System Interface Description
-  [P3 Resource Connectivity](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP3)                NSV-2b, System to System Port Connectivity +NSV-2c, System Connectivity Clusters
-  [P1 Resources Types](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP1)                      NSV-2a, Systems Communication Description
-  [P4 Resource Functions](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP4)                   NSV-3, Systems to Systems Matrix
-  [Pr Configuration management](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFPr)             NSV-8, Systems Evolution Description
+NAF v4 views                          NAF V3 views
+------------------------------------- -------------------------------------------------------------------------------------
+A8 Standards                          NTV-1, Technical Standards Profile NTV-2, Technical Standards Forecast
+C1/S1 Capability to Service Mapping   NCV-5, Capability to Organizational Deployment Mapping
+C1/S1 Capability to Service Mapping   NCV-7, Capability to Services Mapping
+C4 Standard Processes                 NCV-6, Capability to Operational Activities Mapping For a specific Scenario
+L5 Logical States                     NOV-6b, Operational State Transition Description
+L6 Logical Sequence                   NOV-6c, Operational Event-Trace Description
+L7 Logical Data Model                 NOV-7, Information Model
+L8 Logical Constraints                NOV-6a, Operational Rule Model
+P1 Resources Types                    NSV-2, Systems Communication Description
+P2 Resource Structure                 NSV-1, System Interface Description
+P5 Resource States                    NSV-10b, Systems State Transition Description
+P6 Resource Sequence                  NSV-10c, Systems Event-Trace Description
+P7 Physical data model                NSV-11b, Physical Data Modelling the transition architecture and the Migration Plan
+P8 Resource Constraints               NSV-10a, Systems Rule Model
+S4 Services Functions                 NSOV-3, Services to Operational Activities Mapping
+S6 Service Interactions               NSOV-4, Service Orchestration Target
+A8 Standards                          NTV-1, Technical Standards Profile + NTV-2, Technical Standards Forecast
+L4/P4 Activity to Function Mapping    NSV-5, Systems Function to Operational Activity Traceability Matrix
+P1 Resources Types                    NSV-2, Systems Communication Description
+P2 Resource Structure                 NSV-1, System Interface Description
+P3 Resource Connectivity              NSV-2b, System to System Port Connectivity +NSV-2c, System Connectivity Clusters
+P1 Resources Types                    NSV-2a, Systems Communication Description
+P4 Resource Functions                 NSV-3, Systems to Systems Matrix
+Pr Configuration management           NSV-8, Systems Evolution Description
 
 ![](media/image33.png) Figure : The C1/S1 Capability to Service Mapping View
 
@@ -1075,16 +1035,16 @@ for this stage.
 
 ![](media/image46.png) Figure : Zones of the Grid used in the Plan Migration Stage
 
-  NAF v4 views                                                                                                                                                                                                            NAF V3 views
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------
-  [A5 Architecture Status](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA5)       NAV-1 Overview and Summary Information and architecture management plan
-  [A6 Architecture Versions](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA6)     NAV-1 Overview and Summary Information and architecture management plan
-  A8 Standards                                                                                                                                                                                                            NTV-1, Technical Standards Profile + NTV-2, Technical Standards Forecast
-  [Ar Architecture Roadmap](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFAr)      NAV-1 Overview and Summary Information and architecture management plan
-  [C2 Enterprise Vision](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC2)         NCV-1, Capability Vision
-  [C3 Capability dependencies](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC3)   NCV-4, Capability Dependencies
-  [Cr Capability Roadmap](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFCR)        NCV-3, Capability Phasing
-  [P1 Resources Types](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP1)           NSV-1, System Interface Description
+  NAF v4 views               NAF V3 views
+---------------------------- --------------------------------------------------------------------------
+A5 Architecture Status]      NAV-1 Overview and Summary Information and architecture management plan
+A6 Architecture Versions]    NAV-1 Overview and Summary Information and architecture management plan
+A8 Standards                 NTV-1, Technical Standards Profile + NTV-2, Technical Standards Forecast
+Ar Architecture Roadmap      NAV-1 Overview and Summary Information and architecture management plan
+C2 Enterprise Vision         NCV-1, Capability Vision
+C3 Capability dependencies   NCV-4, Capability Dependencies
+Cr Capability Roadmap        NCV-3, Capability Phasing
+P1 Resources Types           NSV-1, System Interface Description
 
 
 
@@ -1192,24 +1152,24 @@ The following outputs will be delivered at the end of this phase.
 
 ![](media/image50.png) Figure : Zones of the Grid used in the Govern Application of Architecture Stage
 
-  NAF v4 views                                                                                                                                                                                                             NAF V3 views
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------
-  [A2 Architecture Products](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA2)      NAV-3b, Metadata Extensions + NAV-3a, Architecture Compliance Statement (Meta Data)
-  [A5 Architecture Status](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFA5)        NAV-1 Overview and Summary Information and architecture management plan
-  A8 Standards                                                                                                                                                                                                             NTV-1, Technical Standards Profile + NTV-2, Technical Standards Forecast
-  [Ar Architecture Roadmap](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFAr)       NAV-1 Overview and Summary Information and architecture management plan
-  [C7 Performance Parameters](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC7)     NCV-1, Capability Vision
-  C8 Planning Assumptions                                                                                                                                                                                                  
-  [Cr Capability Roadmap](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFCR)         NCV-3, Capability Phasing
-  [Lr Lines of Development](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFLr)       NPV-2, Program to Capability Mapping
-  [P1 Resources Types](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP1)            NSV-1, System Interface Description
-  [P2 Resource Structure](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP2)         NSV-2, Systems Communication Description
-  [P5 Resource States](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP5)            NSV-10b, Systems State Transition Description
-  [P6 Resource Sequence](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP6)          NSV-10c, Systems Event-Trace Description
-  [P7 Physical data model](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP7)        NSV-11b, Physical Data Modelling the transition architecture and the Migration Plan
-  [P8 Resource Constraints](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFP8)       NSV-10a, Systems Rule Model
-  [Pr Configuration management](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFPr)   NSV-8, Systems Evolution Description
-  [Sr Service Roadmap](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFSr)            
+NAF v4 views                  NAF V3 views
+  --------------------------- -------------------------------------------------------------------------------------
+A2 Architecture Products      NAV-3b, Metadata Extensions + NAV-3a, Architecture Compliance Statement (Meta Data)
+A5 Architecture Status        NAV-1 Overview and Summary Information and architecture management plan
+A8 Standards                  NTV-1, Technical Standards Profile + NTV-2, Technical Standards Forecast
+Ar Architecture Roadmap       NAV-1 Overview and Summary Information and architecture management plan
+C7 Performance Parameters     NCV-1, Capability Vision
+C8 Planning Assumptions
+Cr Capability Roadmap         NCV-3, Capability Phasing
+Lr Lines of Development       NPV-2, Program to Capability Mapping
+P1 Resources Types            NSV-1, System Interface Description
+P2 Resource Structure         NSV-2, Systems Communication Description
+P5 Resource States            NSV-10b, Systems State Transition Description
+P6 Resource Sequence          NSV-10c, Systems Event-Trace Description
+P7 Physical data model        NSV-11b, Physical Data Modelling the transition architecture and the Migration Plan
+P8 Resource Constraints       NSV-10a, Systems Rule Model
+Pr Configuration management   NSV-8, Systems Evolution Description
+Sr Service Roadmap           
 
 
 ![](media/image51.png) Figure : The A2 Architecture Products View
@@ -1432,9 +1392,9 @@ version control modules.
 A requirement database is the key asset for managing motivation data and
 dashboard.
 
-  NAF v4 views                                                                                                                                                                                                        NAF V3 views
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------
-  [C1 Capability Taxonomy](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC1)   NCV-2 Capability Taxonomy
-  [C2 Enterprise Vision](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFC2)     NCV-1, Capability Vision
-  [S1 Service Taxonomy](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS1)      NSOV-1, Service Taxonomy + NAV-2, Integrated Dictionary
-  [S3 Service Interfaces](file:///\\FORSVARET.FIIN.DK\DFS\FMT\BAL\P\1\FMT-LU-VT06\T0006387\Fichiers-JLG\Palaiseau\NATO%20-%20OTAN\NATO%20IST-130-ST-001%20Arch%20Descr%20and%20Eval\160825%20Example\x.docx#NAFS3)    NSOV-2, Service Definitions
+NAF v4 views             NAF V3 views
+------------------------ ---------------------------------------------------------
+C1 Capability Taxonomy   NCV-2 Capability Taxonomy
+C2 Enterprise Vision     NCV-1, Capability Vision
+S1 Service Taxonomy      NSOV-1, Service Taxonomy + NAV-2, Integrated Dictionary
+S3 Service Interfaces    NSOV-2, Service Definitions

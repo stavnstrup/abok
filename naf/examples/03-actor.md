@@ -75,7 +75,7 @@ The Rainbow organisation consists in the following committees:
    They provide feedback on the system and on their design. They belong
    to the following communities of interest:
 
-   1.  Navy;
+   1. Navy;
 
    2. Coast Guard;
 
@@ -134,5 +134,4 @@ intervention missions. The users and operators communities include:
 
 ![](media/image9.png)
 
-Figure : Structure of the Yellow country
-User Group
+Figure : Structure of the Yellow country User Group

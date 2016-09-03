@@ -30,7 +30,7 @@ are used either to identify systems sustaining the scope of interest or
 to abstract existing systems in order to explain their provided value.
 
 In this context, the architecture of an entity, as defined by ISO/IEC
-42020[^1^](#fn1){#fnref1 .footnoteRef}, is the *fundamental concepts or
+42020[^1], is the *fundamental concepts or
 properties of an entity in its environment embodied in its elements,
 relationships, and in the principles of its design and evolution.* The
 architecture expresses:
@@ -50,8 +50,8 @@ architecture expresses:
     solution to cover the life cycle of the solution (operational
     processes; natural, human and technical actors interacting with each
     system; functional and non-functional constraints, or obligations
-    related to each system: see PESTEL[^2^](#fn2){#fnref2 .footnoteRef},
-    DOTPMLFI[^3^](#fn3){#fnref3 .footnoteRef}, etc.).
+    related to each system: see PESTEL[^2],
+    DOTPMLFI[^3], etc.).
 
 # Architecting scope
 
@@ -71,7 +71,7 @@ each subsystem having its own architecture.
 The scope of architecting encompasses not only technical considerations,
 but a wide range of developmental, technological, business, operational,
 organisational, political, economic, legal, regulatory, ecological and
-social influences, and often aesthetic[^4^](#fn4){#fnref4 .footnoteRef}
+social influences, and often aesthetic[^4]
 *concerns* that influence the entity-of-interest.
 
 # Stakeholder concerns, viewpoints and perspectives
@@ -255,13 +255,13 @@ David Evans and Mike Wilkinson). They are as follows:
 
 A first description of process, activities and tasks related to
 Architecture definition is provided by
-ISO/IEC/IEEE-15288[^5^](#fn5){#fnref5 .footnoteRef}. A more detailed
+ISO/IEC/IEEE-15288[^5]. A more detailed
 explanation is given in this section with identification of 5 processes
 that could be performed by different organisations and projects within
 an Enterprise.
 
 This description of processes is close to the ISO/IEC
-42020[^6^](#fn6){#fnref6 .footnoteRef}.
+42020[^6].
 
 
 {%include figure.html url="process-areas.svg" description="Architecture Processes"%}
@@ -338,7 +338,7 @@ depends on the kind of architecture being developed.
 ## Architecture Description
 
 Architecture description process aims to be compliant to
-ISO/IEC/IEEE-42010:2011[^7^](#fn7){#fnref7 .footnoteRef}. The main
+ISO/IEC/IEEE-42010:2011[^7]. The main
 activities already identified are:
 
 -   Analyse the problem situation (purpose, scope and objectives).
@@ -368,7 +368,7 @@ activities already identified are:
 ## Architecture Evaluation
 
 Architecture evaluation is currently under standardisation at
-ISO[^8^](#fn8){#fnref8 .footnoteRef}. Forecast is that the international
+ISO[^8]. Forecast is that the international
 standard under work will become a reference like 15288 and 42010. The
 proposed architecture evaluation activities are:
 
@@ -781,8 +781,7 @@ that led to change approval. It includes different types of data:
 -   Planning data: Architecture statement of work and plans (governance,
     management, configuration management, resources). The architecture
     plans will follow one of the architecture driver set (e.g.
-    DLOD[^9^](#fn9){#fnref9 .footnoteRef}, PESTEL[^10^](#fn10){#fnref10
-    .footnoteRef} and DOTPMLFI[^11^](#fn11){#fnref11 .footnoteRef}) as
+    DLOD[^9], PESTEL[^10] and DOTPMLFI[^11] as
     agreed by stakeholders).
 
 Architecture workflows are conceived to revisit motivation data
@@ -1030,3 +1029,16 @@ factors and any property aiming to satisfy operational needs.
 Architecture goals, together with the landscape and architecture
 milestones form the core of the architecture motivation data and shall
 be consistent with the architecture management plan.
+
+[^1]: ISO/IEC 42020 Systems and software engineering — Architecture processes
+[^2]: PESTEL: Political, Economic, Social, Technical, Environmental, Legal (business evaluation)
+[^3]: [DOTMLPFI]: doctrine, organisation, training, materiel, leadership &amp; education, personnel, facilities and interoperability/information. See Concept Development and Experimentation Course – Allied Command Transformation 29 Jan – 2 Feb 07, [http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf](http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf)
+[^4]: All discussions of architecture must start with Vitruvius (c. 90-20 B.C.E.): as translated by Gwilt in 1826, architectures must satisfy three distinct concerns: firmitas (strength), utilitas (utility) and venustas (beauty).
+[^5]: ISO/IEC/IEEE 15288:2015 Systems and software engineering — System life cycle processes
+[^6]: ISO/IEC 42020 [draft] 2016 Systems and software engineering — Architecture processes
+[^7]: ISO/IEC/IEEE-42010:2011 Systems and software engineering — Architecture description
+[^8]: ISO JTC1/SC7/WG2 is working on the project “ISO/IEC 42030 Systems and software engineering –</p>
+<p>Architecture evaluation”
+[^9]: DLOD: Defence Lines of Development.
+[^10]: PESTEL: Political, Economic, Social, Technical, Environmental, Legal.
+[^11]: DOTMLPFI: doctrine, organisation, training, materiel, leadership &amp; education, personnel, facilities and interoperability/information. See Concept Development and Experimentation Course – Allied Command Transformation 29 Jan – 2 Feb 07, [http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf](http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf)

@@ -117,7 +117,8 @@ The context of the Yellow country is as follows:
 3.  Maritime surveillance objectives :
 {: type="a"}
 
-<!-- -->
+
+
 
 1.  Strategic
 

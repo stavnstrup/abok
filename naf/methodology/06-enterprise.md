@@ -84,8 +84,8 @@ governance.
 +--------------------------------------+--------------------------------------+
 
 Note: For governance activities, it is highly recommended to consider
-COBIT[^12^](#fn12){#fnref12 .footnoteRef} and ISO
-38500[^13^](#fn13){#fnref13 .footnoteRef} in addition to NAF chapter 2.
+COBIT[^12] and ISO
+38500[^13] in addition to NAF chapter 2.
 
 # Enterprise Architecting activities
 
@@ -123,7 +123,7 @@ COBIT[^12^](#fn12){#fnref12 .footnoteRef} and ISO
 +--------------------------------------------------------------------------+
 | -   NAF v3 formalism:                                                    |
 |                                                                          |
-|     -   NAV-1 to 2, NAV-3[^14^](#fn14){#fnref14 .footnoteRef}.           |
+|     -   NAV-1 to 2, NAV-3[^14].           |
 |                                                                          |
 | -   NAF v4 Grid cells:                                                   |
 |                                                                          |
@@ -429,3 +429,8 @@ COBIT[^12^](#fn12){#fnref12 .footnoteRef} and ISO
 |                                                                          |
 |     -   A1 (meta-description), A7 (meta-description), A5 (content).      |
 +--------------------------------------------------------------------------+
+
+
+[^12]: COBIT (Control Objectives for Information and related Technology): COBIT 5 is a framework for IT governance provided by the Information Systems Audit and Control Association (ISACA).
+[^13]: ISO/IEC 38500:2015 Information technology -- Governance of IT for the organisation
+[^14]: These views describe the structure of the landscape; not the content.

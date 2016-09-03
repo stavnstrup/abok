@@ -25,7 +25,6 @@ the meaning is:
 The methodology addresses various stakeholders (Users, acquirers,
 providers, builders, etc.) to either develop or use architectures.
 
-
 {%include figure.html url="methological-areas.svg" description="3 main methodological areas"%}
 
 Three main methodological areas are currently identified:

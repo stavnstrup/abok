@@ -36,7 +36,7 @@ relationships, and in the principles of its design and evolution.* The
 architecture expresses:
 
 -   The main characteristics of the problem and solution space with
-    possible alternatives\
+    possible alternatives.
     Note: A complete solution includes the entity-of-interest and the
     enabling entities
 
@@ -1032,13 +1032,12 @@ be consistent with the architecture management plan.
 
 [^1]: ISO/IEC 42020 Systems and software engineering — Architecture processes
 [^2]: PESTEL: Political, Economic, Social, Technical, Environmental, Legal (business evaluation)
-[^3]: [DOTMLPFI]: doctrine, organisation, training, materiel, leadership &amp; education, personnel, facilities and interoperability/information. See Concept Development and Experimentation Course – Allied Command Transformation 29 Jan – 2 Feb 07, [http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf](http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf)
+[^3]: DOTMLPFI: doctrine, organisation, training, materiel, leadership and education, personnel, facilities and interoperability/information. See Concept Development and Experimentation Course – Allied Command Transformation 29 Jan – 2 Feb 07, http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf
 [^4]: All discussions of architecture must start with Vitruvius (c. 90-20 B.C.E.): as translated by Gwilt in 1826, architectures must satisfy three distinct concerns: firmitas (strength), utilitas (utility) and venustas (beauty).
 [^5]: ISO/IEC/IEEE 15288:2015 Systems and software engineering — System life cycle processes
-[^6]: ISO/IEC 42020 [draft] 2016 Systems and software engineering — Architecture processes
+[^6]: ISO/IEC 42020 draft 2016 Systems and software engineering — Architecture processes
 [^7]: ISO/IEC/IEEE-42010:2011 Systems and software engineering — Architecture description
-[^8]: ISO JTC1/SC7/WG2 is working on the project “ISO/IEC 42030 Systems and software engineering –</p>
-<p>Architecture evaluation”
+[^8]: ISO JTC1/SC7/WG2 is working on the project “ISO/IEC 42030 Systems and software engineering – Architecture evaluation”
 [^9]: DLOD: Defence Lines of Development.
 [^10]: PESTEL: Political, Economic, Social, Technical, Environmental, Legal.
-[^11]: DOTMLPFI: doctrine, organisation, training, materiel, leadership &amp; education, personnel, facilities and interoperability/information. See Concept Development and Experimentation Course – Allied Command Transformation 29 Jan – 2 Feb 07, [http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf](http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf)
+[^11]: DOTMLPFI: doctrine, organisation, training, materiel, leadership and education, personnel, facilities and interoperability/information. See Concept Development and Experimentation Course – Allied Command Transformation 29 Jan – 2 Feb 07, http://www.dodccrp.org/files/CDE%204-2%20ACT%20CDE%20Process.pdf

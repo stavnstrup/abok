@@ -211,7 +211,8 @@ perspectives
 
 -   Capability management activities
 
-![](media/image78.emf) Figure 70: Architecture development interactions with other SE disciplines
+{%include rasterfigure.html url="image78.png" description="Architecture development interactions with other SE disciplines" %}
+
 
 *Note:* Subsystem design activities follow the same approach: a
 subsystem architecture description is derived from the Maritime
@@ -235,7 +236,7 @@ at system level.
 
     -   The Provider program
 
-![](media/image79.emf) Figure 71: Structure of the project team
+{%include rasterfigure.html url="image79.png" description="Structure of the project team" %}
 
 
 Actors
@@ -258,7 +259,7 @@ of the program. 3 types of relationships are considered:
 
 -   Coordination and development:
 
-Figure 72: Relationships between  the architecture stakeholders
+{%include rasterfigure.html url="image80.png" description="Relationships between the architecture stakeholders" %}
 
 ## Success Factors
 
@@ -338,7 +339,7 @@ objectives:
         (requirements, architecture, IVV) and general
 
 
-Figure 73: Engineering Strategy
+{%include rasterfigure.html url="image81.png" description="Engineering Strategy" %}
 
 
 

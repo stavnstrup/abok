@@ -123,6 +123,7 @@ according to the timeline considered:
 4.  The following diagram summarizes the recommendations of the NATO
     EA Policy.
 
-![](media/image2.png) Figure : View of the Meta-model of the NAF v4
 
-![](media/image3.png) Figure : Organisation of architectures (NATO EA Policy)
+{%include rasterfigure.html url="image2.png" description="View of the Meta-model of the NAF v4" %}
+
+{%include rasterfigure.html url="image3.png" description="Organisation of architectures (NATO EA Policy)" %}

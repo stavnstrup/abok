@@ -91,15 +91,10 @@ The Rainbow organisation consists in the following committees:
 The following Diagram illustrates the organisation of the Rainbow Users
 Communities.
 
-![](media/image7.png)
 
-Figure : Structure of the Rainbow
-Organization
+{%include rasterfigure.html url="image7.png" description="Structure of the Rainbow Organization" %}
 
-![](media/image8.jpeg)
-
-Figure : Structure of the user committee
-
+{%include rasterfigure.html url="image8.jpeg" description="Structure of the user committee" %}
 
 # National level : The Yellow country
 
@@ -131,7 +126,4 @@ intervention missions. The users and operators communities include:
 
 -   Medical services
 
-
-![](media/image9.png)
-
-Figure : Structure of the Yellow country User Group
+{%include rasterfigure.html url="image9.png" description="Structure of the Yellow country User Group" %}

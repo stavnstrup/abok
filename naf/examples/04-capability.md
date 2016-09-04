@@ -56,9 +56,7 @@ The lifecycle is built using the different stages depicted in :
     It is accomplished at stages **govern application of
     architecture** (AG) and **decide on architecture change** (AC).
 
-![](media/image10.jpeg)
-
-Figure : Steps of the Method for Architecture Development
+{%include rasterfigure.html url="image10.jpeg" description="Steps of the Method for Architecture Development" %}
 
 The following sections provide a detailed description of the phases to
 consider for the development of the Capability Level Architecture
@@ -95,12 +93,10 @@ questions to answer are:
 
 5.  What are the constraints related to time, costs, resources …etc.?
 
-The Famous 6 questions of DODAF could be used during this step for
+The Famous 6 questions of DODAF[^4] could be used during this step for
 guiding the questions and the investigations for documentation.
 
-![](media/image11.jpeg)
-
-Figure : Aspects to address for architecture development[^4]
+{%include rasterfigure.html url="image11.jpeg" description="Aspects to address for architecture development" %}
 
 The following elements provide the key points to address during the
 “Establish Project Architecture Landscape” step and in the
@@ -303,23 +299,24 @@ The architecture management plan must highlight the following aspects:
 The following diagram describes the views of the grid to be considered
 for this stage.
 
-![](media/image12.emf) Figure : Zones of the "Grid" used to establish project architecture landscape
+{%include rasterfigure.html url="image12.png" description="Zones of the Grid used in the Establish Project Architecture Landscape Stage" %}
 
 The following views will be developed.
 
-  NAF v4 views            NAF V3 views
-  ----------------------- ----------------------------------------------------------------------
-  A1 Meta data definition NAV-1 Overview and Summary Information and architecture management plan
-  A1 Meta data definition NAV-2Integrated Dictionary
-  C1 Capability Taxonomy  NCV-2 Capability Taxonomy
-  C2 Enterprise Vision    NCV-1, Capability Vision
+NAF v4 views            NAF V3 views
+----------------------- ----------------------------------------------------------------------
+A1 Meta data definition NAV-1 Overview and Summary Information and architecture management plan
+A1 Meta data definition NAV-2Integrated Dictionary
+C1 Capability Taxonomy  NCV-2 Capability Taxonomy
+C2 Enterprise Vision    NCV-1, Capability Vision
 
 
-![](media/image13.png) Figure 12: A1 Meta data definition view
+{%include rasterfigure.html url="image13.png" description="A1 Meta data definition View" %}
 
-![](media/image14.png) Figure : C2, Cr SAR Vision and capability roadmap
+{%include rasterfigure.html url="image14.png" description="C2 Capability Taxonomy View" %}
 
-![](media/image15.png) Figure : C1 Capability Taxonomy View
+{%include rasterfigure.html url="image15.png" description="C1 Capability Taxonomy View" %}
+
 
 # Establish Architecture Vision
 
@@ -515,7 +512,7 @@ minimum the following elements
 The following diagram describes the views of the grid to be considered
 for this stage.
 
-![](media/image16.png) Figure 15: Zones of the Grid used in the Establish Architecture Vision Stage
+{%include rasterfigure.html url="image16.png" description="Zones of the Grid used in the Establish Architecture Vision Stage" %}
 
 The following views will be started or developed:
 
@@ -538,30 +535,21 @@ P3 Resource Connectivity
 Cr Capability Roadmap         (Capability roadmap)
   ------------------------------------------------------------------------------
 
+{%include rasterfigure.html url="image17.jpeg" description="The Architecture Concept Diagram" %}
 
-![](media/image17.jpeg)   The Architecture Concept Diagram
+{%include rasterfigure.html url="image18.png" description="The A5 Architecture Status View" %}
 
+{%include rasterfigure.html url="image19.png" description="The L2 Logical Scenario View" %}
 
+{%include rasterfigure.html url="image20.png" description="The S1 Service Taxonomy View" %}
 
-![](media/image18.png) Figure : The A5 Architecture Status View
+{%include rasterfigure.html url="image21.png" description="The S3 Service Interfaces View" %}
 
+{%include rasterfigure.html url="image22.png" description="The P2 Resource Structure View" %}
 
-![](media/image19.png) Figure : The L2 Logical Scenario View
+{%include rasterfigure.html url="image23.png" description="The P3 Resource Connectivity View" %}
 
-
-![](media/image20.png) Figure : The S1 Service Taxonomy View
-
-
-![](media/image21.png) Figure : The S3 Service Interfaces View
-
-
-![](media/image22.png) Figure : The P2 Resource Structure View
-
-
-![](media/image23.png) Figure : The P3 Resource Connectivity View
-
-
-![](media/image24.png) Figure : The Cr Capability Roadmap View
+{%include rasterfigure.html url="image24.png" description="The Cr Capability Roadmap View" %}
 
 
 # Describe Alternatives of Architectures
@@ -755,7 +743,7 @@ validation of the associated documentation.
 The following diagram describes the views of the grid to be considered
 for this stage.
 
-![](media/image25.png) Figure : Zones of the Grid used in the Describe Alternatives of Architecture Stage
+{%include rasterfigure.html url="image25.png" description="Zones of the Grid used in the Describe Alternatives of Architecture Stage" %}
 
 The following views will be started, developed or refined
 
@@ -786,17 +774,12 @@ P4 Resource Functions            NSV-4, System Functionality Description
   -----------------------------------------------------------------------------------------
 
 
-![](media/image26.png) Figure : The L3 Nodes Interactions View
-
-![](media/image27.png) Figure : The L4 Logical Activities View
-
-![](media/image28.png) Figure 27: L7 Logical Data Model View
-
-![](media/image29.png) Figure : The P4 Resource Functions View
-
-![](media/image30.png) Figure : The P7 Physical data model View
-
-![](media/image31.png) Figure : The Lr Lines of Development View
+{%include rasterfigure.html url="image26.png" description="The L3 Nodes Interactions View" %}
+{%include rasterfigure.html url="image27.png" description="The L4 Logical Activities View" %}
+{%include rasterfigure.html url="image28.png" description="Logical Data Model View" %}
+{%include rasterfigure.html url="image29.png" description="The P4 Resource Functions View" %}
+{%include rasterfigure.html url="image30.png" description="The P7 Physical data model View" %}
+{%include rasterfigure.html url="image31.png" description="The Lr Lines of Development View" %}
 
 
 # Evaluate Alternatives of Architectures and perform trade-off
@@ -889,7 +872,7 @@ assessment grid including:
 The following diagram describes the views of the grid to be considered
 for this stage.
 
-![](media/image32.png) Figure : Zones of the Grid used to Evaluate Alternatives of Architecture
+{%include rasterfigure.html url="image32.png" description="Zones of the Grid used in the Evaluate Alternatives of Architecture Stage" %}
 
 NAF v4 views                          NAF V3 views
 ------------------------------------- -------------------------------------------------------------------------------------
@@ -918,31 +901,21 @@ P1 Resources Types                    NSV-2a, Systems Communication Description
 P4 Resource Functions                 NSV-3, Systems to Systems Matrix
 Pr Configuration management           NSV-8, Systems Evolution Description
 
-![](media/image33.png) Figure : The C1/S1 Capability to Service Mapping View
 
-![](media/image34.png) Figure : The C4 Standard Processes View
 
-![](media/image35.png) Figure : The L4/P4 Activity to Function Mapping View
-
-![](media/image36.png) Figure : The L5 Logical States View
-
-![](media/image37.png) Figure : The L6 Logical Sequence View
-
-![](media/image38.png) Figure : The L8 Logical Constraints View
-
-![](media/image39.png) Figure : The P1 Resources Types View
-
-![](media/image40.png) Figure : The P5 Resource States View
-
-![](media/image41.png) Figure : The P6 Resource Sequence View
-
-![](media/image42.png) Figure : The P8 Resource Constraints View
-
-![](media/image43.png) Figure : The Pr Configuration management View
-
-![](media/image44.png) Figure : the S4 Services Functions View
-
-![](media/image45.png) Figure : The S6 Service Interactions View
+{%include rasterfigure.html url="image33.png" description="The C1/S1 Capability to Service Mapping View" %}
+{%include rasterfigure.html url="image34.png" description="The C4 Standard Processes View" %}
+{%include rasterfigure.html url="image35.png" description="The L4/P4 Activity to Function Mapping View" %}
+{%include rasterfigure.html url="image36.png" description="The L5 Logical States View" %}
+{%include rasterfigure.html url="image37.png" description="The L6 Logical Sequence View" %}
+{%include rasterfigure.html url="image38.png" description="The L8 Logical Constraints View" %}
+{%include rasterfigure.html url="image39.png" description="The P1 Resources Types View" %}
+{%include rasterfigure.html url="image40.png" description="The P5 Resource States View" %}
+{%include rasterfigure.html url="image41.png" description="The P6 Resource Sequence View" %}
+{%include rasterfigure.html url="image42.png" description="The P8 Resource Constraints View" %}
+{%include rasterfigure.html url="image43.png" description="The Pr Configuration management View" %}
+{%include rasterfigure.html url="image44.png" description="the S4 Services Functions View" %}
+{%include rasterfigure.html url="image45.png" description="The S6 Service Interactions View" %}
 
 
 # Plan Migration
@@ -1033,7 +1006,7 @@ the stakeholders in order to ensure their buy-in
 The following diagram describes the views of the grid to be considered
 for this stage.
 
-![](media/image46.png) Figure : Zones of the Grid used in the Plan Migration Stage
+{%include rasterfigure.html url="image46.png" description="Zones of the Grid used in the Plan Migration Stage" %}
 
   NAF v4 views               NAF V3 views
 ---------------------------- --------------------------------------------------------------------------
@@ -1050,11 +1023,10 @@ P1 Resources Types           NSV-1, System Interface Description
 
 Table : The A5 Architecture Status View
 
-![](media/image47.png) Figure : The A6 Architecture Versions View
+{%include rasterfigure.html url="image47.png" description="The A6 Architecture Versions View" %}
+{%include rasterfigure.html url="image48.png" description="The Ar Architecture Roadmap View" %}
+{%include rasterfigure.html url="image49.png" description="The C3 Capability dependencies C3 Capability dependencies view" %}
 
-![](media/image48.png) Figure : The Ar Architecture Roadmap View
-
-![](media/image49.png) Figure : The C3 Capability dependencies C3 Capability dependencies view
 
 # Govern Application of Architecture
 
@@ -1150,7 +1122,8 @@ The following outputs will be delivered at the end of this phase.
 
 -   Architecture vision (post-implementation)
 
-![](media/image50.png) Figure : Zones of the Grid used in the Govern Application of Architecture Stage
+{%include rasterfigure.html url="image50.png" description="Zones of the Grid used in the Govern Application of Architecture Stage" %}
+
 
 NAF v4 views                  NAF V3 views
   --------------------------- -------------------------------------------------------------------------------------
@@ -1172,11 +1145,9 @@ Pr Configuration management   NSV-8, Systems Evolution Description
 Sr Service Roadmap           
 
 
-![](media/image51.png) Figure : The A2 Architecture Products View
-
-![](media/image52.png) Figure : The C7 Performance Parameters View
-
-![](media/image53.png) Figure : The Sr Service Roadmap View
+{%include rasterfigure.html url="image51.png" description="The A2 Architecture Products View" %}
+{%include rasterfigure.html url="image52.png" description="The C7 Performance Parameters View" %}
+{%include rasterfigure.html url="image53.png" description="The Sr Service Roadmap View" %}
 
 
 # Decide on Architecture Change
@@ -1387,7 +1358,8 @@ The architect ensures the following elements are kept updated:
 The outputs are managed in consist in configuration management and
 version control modules.
 
-![](media/image54.png)  Figure XXXX
+{%include rasterfigure.html url="image54.png" description="Zones of the Grid used in the Establish Architecture Landscape Stage at Project level" %}
+
 
 A requirement database is the key asset for managing motivation data and
 dashboard.

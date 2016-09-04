@@ -187,10 +187,8 @@ effects.
 The following diagram provides the C2 of the Rainbow organisation
 (Capability Vision : goals and objectives).
 
-> ![](media/image4.png)
+{%include rasterfigure.html url="image4.png" description="Goals and objectives of the Rainbow Organization at overarching architecture" %}
 
-Figure : Goals and objectives of the
-Rainbow Organization at overarching architecture
 
 ## Business Area
 
@@ -205,10 +203,7 @@ The following diagram provides a (NAF v4) L2 view of the Yellow
 Enterprise architecture of maritime surveillance, which includes Search
 and Rescue.
 
-> ![](media/image5.png)
-
-Figure : L2 NOV 2 view of maritime
-surveillance
+{%include rasterfigure.html url="image5.png" description="L2 NOV 2 view of maritime surveillance" %}
 
 # Maritime Security
 
@@ -229,10 +224,8 @@ management and technical solutions are needed. The following diagram
 provides a C1 of the enterprise architecture of Yellow country on the
 specific aspects of search and rescue.
 
-![](media/image6.png)
+{%include rasterfigure.html url="image6.png" description="Example of a C1 view of the enterprise architecture of the Yellow country" %}
 
-Figure : Example of a C1 view of the
-enterprise architecture of the Yellow country
 
 The main events to detect are as follows:
 

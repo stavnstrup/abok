@@ -4,31 +4,52 @@ title: Architecting activity
 
 # Architecting Stages
 
-Figure ‎2‑11 describes architecting activities in an architecting
-organisation. They are organised in 8 stages, as follows:
+Figure ‎2‑11 describes architecting activities in an architecting organisation. They are organised in 8 stages, as follows:
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Stages**                      **Description**
-  ------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Architecture Landscape (AL)     Describes the overall context and defines the capabilities and means to develop an architecture.
 
-  Architecture Vision\            Defines the architecture vision taking into account the landscape, stakes and time to market (or time to Customer).
-  (AV)                            
+<table>
+<thead>
+<tr>
+<th>Stages</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Architecture Landscape (AL)</td>
+  <td>Describes the overall context and defines the capabilities and means to develop an architecture.</td>
+</tr>
+<tr>
+  <td>Architecture Vision (AV)</td>
+  <td>Defines the architecture vision taking into account the landscape, stakes and time to market (or time to Customer).</td>
+</tr>                            
+<tr>
+  <td>Architecture Description (AD)</td>
+  <td>Describes architecture from stakeholders’ viewpoints according to landscape, and identify a set of alternatives of architectures for evaluation.</td>
+</tr>
+<tr>
+  <td>Architecture Evaluation (AE)</td>
+  <td>Updates architecture evaluation criteria set in motivation data to evaluate each alternative, identify the best ones, and elaborate change requests allowing to  build the best trade-off from approved best alternatives.</td>
+</tr>
+<tr>
+  <td>Plan Migration (PM)</td>
+  <td>Updates architecture migration plan and provides rationale for application.</td>
+</tr>
+<tr>
+  <td>Architecture Governance (AG)</td>
+  <td>Checks the application the best architecture trade-off according to the migration plan and provide guidance to resolve dependency conflicts.</td>
+</tr>                              
+<tr>
+  <td>Architecture Changes (AC)</td>
+  <td>Elaborate and get approval on requests for architecture change.</td>
+</tr>
+<tr>
+  <td>Motivation & Dashboard (MD)</td>
+  <td>Manages architecture context, constraints and drivers and provide views on architecture progress status and dependencies to other architectures and building blocks, through a dashboard aligning products with landscape (reference libraries and repositories).</td>
+  </tr>
+</tbody>
+</table>
 
-  Architecture Description (AD)   Describes architecture from stakeholders’ viewpoints according to landscape, and identify a set of alternatives of architectures for evaluation.
-
-  Architecture Evaluation (AE)    Updates architecture evaluation criteria set in motivation data to evaluate each alternative, identify the best ones, and elaborate change requests allowing to build the best trade-off from approved best alternatives.
-
-  Plan Migration\                 Updates architecture migration plan and provides rationale for application.
-  (PM)                            
-
-  Architecture Governance\        Checks the application the best architecture trade-off according to the migration plan and provide guidance to resolve dependency conflicts.
-  (AG)                            
-
-  Architecture Changes (AC)       Elaborate and get approval on requests for architecture change.
-
-  Motivation & Dashboard (MD)     Manages architecture context, constraints and drivers and provide views on architecture progress status and dependencies to other architectures and building blocks, through a dashboard aligning products with landscape (reference libraries and repositories).
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The method is inspired by the architecture description method of The
 Open Group Architecture Framework (TOGAF/ADM), however it is different,

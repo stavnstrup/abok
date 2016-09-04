@@ -42,111 +42,111 @@ Table -1 – Comparison TOGAF/ADM- Architecture Method
 <table>
 <thead>
 <tr class="header">
-<th align="left"></th>
-<th align="left"><strong>ADM</strong></th>
-<th align="left"><strong>NAF v4 method</strong></th>
-<th align="left"><strong>Commonality</strong></th>
-<th align="left"><strong>Difference/ADM</strong></th>
+<th></th>
+<th><strong>ADM</strong></th>
+<th><strong>NAF v4 method</strong></th>
+<th><strong>Commonality</strong></th>
+<th><strong>Difference/ADM</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td align="left"><strong>Scope of architecture</strong></td>
-<td align="left">Information system</td>
-<td align="left">Any System</td>
-<td align="left"></td>
-<td align="left"></td>
+<tr>
+<td><strong>Scope of architecture</strong></td>
+<td>Information system</td>
+<td>Any System</td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
-<td align="left"><strong>Core </strong></td>
-<td align="left">System Requirements</td>
-<td align="left">Architecture Motivation Data &amp; Dashboard</td>
-<td align="left">Requirements</td>
-<td align="left">Architecture motivation data and dashboard</td>
+<tr>
+<td><strong>Core </strong></td>
+<td>System Requirements</td>
+<td>Architecture Motivation Data &amp; Dashboard</td>
+<td>Requirements</td>
+<td>Architecture motivation data and dashboard</td>
 </tr>
-<tr class="odd">
-<td align="left"><strong>Nb. stages</strong></td>
-<td align="left">8</td>
-<td align="left">7</td>
-<td align="left">3</td>
-<td align="left">4</td>
+<tr>
+<td><strong>Nb. stages</strong></td>
+<td>8</td>
+<td>7</td>
+<td>3</td>
+<td>4</td>
 </tr>
-<tr class="even">
-<td align="left"><strong>Common</strong> <strong>stages</strong></td>
-<td align="left">Architecture Change</td>
-<td align="left"><p>Decide</p>
+<tr>
+<td><strong>Common</strong> <strong>stages</strong></td>
+<td>Architecture Change</td>
+<td><p>Decide</p>
 <p>architecture changes</p></td>
-<td align="left">Outcome</td>
-<td align="left">Naming</td>
+<td>Outcome</td>
+<td>Naming</td>
 </tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">Architecture principles</td>
-<td align="left">Establish project architecture landscape</td>
-<td align="left"></td>
-<td align="left"></td>
+<tr>
+<td></td>
+<td>Architecture principles</td>
+<td>Establish project architecture landscape</td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">Architecture vision</td>
-<td align="left"><p>Establish</p>
+<tr>
+<td></td>
+<td>Architecture vision</td>
+<td><p>Establish</p>
 <p>architecture vision</p></td>
-<td align="left">outcome</td>
-<td align="left">Output of vision includes envisaged capability roadmap</td>
+<td>outcome</td>
+<td>Output of vision includes envisaged capability roadmap</td>
 </tr>
-<tr class="odd">
-<td align="left"><strong>Different stages</strong></td>
-<td align="left">business architecture</td>
-<td align="left"><p>Describe alternatives</p>
+<tr>
+<td><strong>Different stages</strong></td>
+<td>business architecture</td>
+<td><p>Describe alternatives</p>
 <p>of architecture(See ISO/IEC/IEEE 42010)</p></td>
-<td align="left"><p>description of viewpoints</p>
+<td><p>description of viewpoints</p>
 <p>(Operational, System, Technical, etc.)</p></td>
-<td align="left">Zoom out</td>
+<td>Zoom out</td>
 </tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">Information System architecture</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
+<tr>
+<td></td>
+<td>Information System architecture</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">Technology architecture</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
+<tr>
+<td></td>
+<td>Technology architecture</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">Risks and opportunities</td>
-<td align="left"><p>Evaluate alternatives</p>
+<tr>
+<td></td>
+<td>Risks and opportunities</td>
+<td><p>Evaluate alternatives</p>
 <p>of architecture (See ISO/IEC/IEEE 42010 and 42030)</p></td>
-<td align="left">Analyses of alternatives with regards to risks &amp; opportunities</td>
-<td align="left"><p>Naming,</p>
+<td>Analyses of alternatives with regards to risks &amp; opportunities</td>
+<td><p>Naming,</p>
 <p>Output includes alternatives of capability roadmaps</p></td>
 </tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">Migration plan</td>
-<td align="left">Plan migration to architecture</td>
-<td align="left">outcome</td>
-<td align="left">Naming</td>
+<tr>
+<td></td>
+<td>Migration plan</td>
+<td>Plan migration to architecture</td>
+<td>outcome</td>
+<td>Naming</td>
 </tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left">Govern implementation</td>
-<td align="left"><p>Govern application</p>
+<tr>
+<td></td>
+<td>Govern implementation</td>
+<td><p>Govern application</p>
 <p>of architecture</p></td>
-<td align="left">outcome</td>
-<td align="left">Naming</td>
+<td>outcome</td>
+<td>Naming</td>
 </tr>
-<tr class="odd">
-<td align="left"><strong>Inter-dependency</strong></td>
-<td align="left">Directed</td>
-<td align="left">Non- directed</td>
-<td align="left">Objective</td>
-<td align="left">Viewpoint diversity</td>
+<tr>
+<td><strong>Inter-dependency</strong></td>
+<td>Directed</td>
+<td>Non- directed</td>
+<td>Objective</td>
+<td>Viewpoint diversity</td>
 </tr>
 </tbody>
 </table>

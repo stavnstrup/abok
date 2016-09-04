@@ -46,7 +46,7 @@ title: Concepts Layer
 </table>
 
 
-<p>Table ‑: C1 Element List</p>
+Table : C1 Element List
 
 
 # C2 - Enterprise Vision
@@ -105,27 +105,26 @@ title: Concepts Layer
 <tr>
 <td>Measure</td>
 <td>Type</td>
-<td>A Property whose members are Individuals that all share a common, measurable property, or whose properties lie within a MeasureRange.</p>
-<p>Examples: 2kg, 4 weeks, 2km.</td>
+<td>A Property whose members are Individuals that all share a common, measurable property, or whose properties lie within a MeasureRange.<br />
+Examples: 2kg, 4 weeks, 2km.</td>
 </tr>
 <tr>
 <td>MeasureCategory</td>
 <td>Type</td>
-<td>A MeasureType whose members are recognised types of MeasureInstance.</p>
-<p>Examples:
-<p>Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</p></td>
+<td>A MeasureType whose members are recognised types of MeasureInstance.<br/>
+Examples: Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 </tr>
 <tr>
 <td>MeasureInContext</td>
 <td>Type</td>
-<td>A ModemIndividualType that brings together EnvironmentalFactors with a Measure in order to qualify the measure.</p>
-<p>Examples: 40mph in desert, 1km range in cloudy conditions.</td>
+<td>A ModemIndividualType that brings together EnvironmentalFactors with a Measure in order to qualify the measure.<br />
+Examples: 40mph in desert, 1km range in cloudy conditions.</td>
 </tr>
 <tr>
 <td>MeasurePoint</td>
 <td>Type</td>
-<td>A Measure whose members are Individuals that all share a common property that can be measured.</p>
-<p>Examples: 2kg, 4 weeks, 2km.</td>
+<td>A Measure whose members are Individuals that all share a common property that can be measured.<br />
+Examples: 2kg, 4 weeks, 2km.</td>
 </tr>
 <tr>
 <td>MeasureRange</td>
@@ -262,7 +261,7 @@ Note: TerrainType is a subtype of GeopoliticalLocationStateType as the terrain m
 <tr>
 <td>exhibitsCapability</td>
 <td>TupleType</td>
-<td>A propertyOfIndividual that relates an EnteprisePhase to a Capability that it exhibits. Note: replaces &quot;exhibits&quot; tagged value in M3</td>
+<td>A propertyOfIndividual that relates an EnteprisePhase to a Capability that it exhibits. Note: replaces exhibits tagged value in M3</td>
 </tr>
 <tr>
 <td>humanResourceEnduringTaskRole</td>
@@ -299,7 +298,7 @@ Note: TerrainType is a subtype of GeopoliticalLocationStateType as the terrain m
 
 
 
-<p>Table ‑: C2 Element List</p>
+Table ‑: C2 Element List
 
 
 
@@ -344,7 +343,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 </tbody>
 </table>
 
-<p>Table ‑: C3 Element List</p>
+Table ‑: C3 Element List
 
 
 
@@ -430,7 +429,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 </tbody>
 </table>
 
-<p>Table ‑: C4 Element List</p>
+Table : C4 Element List
 
 
 # C5 – Effects
@@ -475,7 +474,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 </tbody>
 </table>
 
-<p>C7 Element List</p>
+C7 Element List
 
 
 # C8 – Planning Assumptions
@@ -606,7 +605,7 @@ Mass (included in IDEAS), Length (included in IDEAS), Velocity, Hardness.</td>
 </tbody>
 </table>
 
-<p>Table ‑: C8 Element List</p>
+Table ‑: C8 Element List
 
 
 
@@ -872,4 +871,4 @@ Example: A tranche of new assets delivered into an enterprise</td>
 </tbody>
 </table>
 
-<p>Table ‑: Cr Element List</p>
+Table : Cr Element List

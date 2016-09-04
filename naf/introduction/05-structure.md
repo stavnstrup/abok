@@ -40,11 +40,10 @@ Views to NAF v4 Viewpoints:
 [^views3plus]: Post NAF v3, the term ‘View’ is used to refer to a populated Viewpoint within a particular architecture, in accordance with ISO/IEC/IEEE 42010.)
 
 
-**Table Chapter‑1: Mapping of NAF v3 Views to NAF v4 Viewpoints**
+**Table : Mapping of NAF v3 Views to NAF v4 Viewpoints**
 
-|                         |                             |
-|-------------------------|-----------------------------|
 | **NAF v3 View**         | **NAF v4 Viewpoint**        |
+|-------------------------|-----------------------------|
 | Capability (NCV)        | Concepts (C)                |
 | Service-Oriented (NSOV) | Service (S)                 |
 | Operational (NOV)       | Logical (L)                 |

@@ -44,15 +44,15 @@ called viewpoints).
 
 Table -1 – NAF v3 viewpoints and views
 
-  Viewpoint               Views     Aim
-  ----------------------- --------- -------
-  All-views               NAV-\*    to provide objectives, stakes and context to be considered for the architecture and the entity of interest (e.g. system or product) cover by this architecture. This viewpoint also provides the summary of the architecture with view selection; and common terms and concepts.
-  Operational viewpoint   NOV-\*    to describe the architecture as seen by users and operators of the entity of interest.
-  Capability viewpoint    NCV-\*    to explain operational capabilities considered with regards to the architecture.
-  System viewpoint        NSV-\*    to describe with the system builder viewpoint.
-  Technical viewpoint     NTV-\*    to provide the standards and products used over for development and exploitation over the time.
-  Service viewpoint       NSOV-\*   to explain how operational, applicative and technical services are used as paradigm for interaction and for activity provision towards service customers.
-  Program viewpoint       NPV-\*    to give the programmatic with the acquirer or the provider viewpoint
+Viewpoint               Views     Aim
+----------------------- --------- -------
+All-views               NAV-\*    to provide objectives, stakes and context to be considered for the architecture and the entity of interest (e.g. system or product) cover by this architecture. This viewpoint also provides the summary of the architecture with view selection; and common terms and concepts.
+Operational viewpoint   NOV-\*    to describe the architecture as seen by users and operators of the entity of interest.
+Capability viewpoint    NCV-\*    to explain operational capabilities considered with regards to the architecture.
+System viewpoint        NSV-\*    to describe with the system builder viewpoint.
+Technical viewpoint     NTV-\*    to provide the standards and products used over for development and exploitation over the time.
+Service viewpoint       NSOV-\*   to explain how operational, applicative and technical services are used as paradigm for interaction and for activity provision towards service customers.
+Program viewpoint       NPV-\*    to give the programmatic with the acquirer or the provider viewpoint
 
 With an architecture described with NAF v3 viewpoints, the architecture
 views are simply used per group according to their family names as shown

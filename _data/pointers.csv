@@ -1,6 +1,6 @@
 chapter,section,prev,next
 intro,01-general,,02-what-is-arch
-intro,02-what-is-arch,01-general,03-what-is-es
+intro,02-what-is-arch,index,03-what-is-es
 intro,03-what-is-es,02-what-is-arch,04-what-is-af
 intro,04-what-is-af,03-what-is-es,05-structure
 intro,05-structure,04-what-is-af,06-purpose
@@ -14,7 +14,7 @@ intro,xa-references,11-guidelines,xb-glossary
 intro,xb-glossary,xa-references,xc-naf-in-nato
 intro,xc-naf-in-nato,xb-glossary,
 meth,01-foreword,,02-scope
-meth,02-scope,01-foreword,03-why
+meth,02-scope,index,03-why
 meth,03-why,02-scope,04-concepts
 meth,04-concepts,03-why,05-activity
 meth,05-activity,04-concepts,06-enterprise
@@ -27,13 +27,13 @@ meth,xc-naf-vs-togaf,xb-ad-with-vp,xd-example
 meth,xd-example,xc-naf-vs-togaf,xf-arch-styles
 meth,xf-arch-styles,xd-example,
 meta,01-introduction,,02-concepts
-meta,02-concepts,01-introduction,03-services
+meta,02-concepts,index,03-services
 meta,03-services,02-concepts,04-logical
 meta,04-logical,03-services,05-physical
 meta,05-physical,04-logical,06-architecture
 meta,06-architecture,05-physical,
 exam,01-objectives,,02-usecase
-exam,02-usecase,01-objectives,03-actor
+exam,02-usecase,index,03-actor
 exam,03-actor,02-usecase,04-capability
 exam,04-capability,03-actor,05-project
 exam,05-project,04-capability,06-conclusion

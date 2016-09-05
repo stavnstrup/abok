@@ -1,5 +1,6 @@
 ---
 title: Introduction
+permalink: /:path/index.html
 ---
 
 # Introduction to MODEM

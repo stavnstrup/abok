@@ -1,6 +1,6 @@
 ---
 title: General
-xpermalink: /:path/
+permalink: /:path/index.html
 ---
 
 # Purpose

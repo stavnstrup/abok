@@ -1,5 +1,6 @@
 ---
 title: Objectives of the examples
+permalink: /:path/index.html
 ---
 
 This section details the implementation of the NAF v4 methodology for

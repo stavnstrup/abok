@@ -2,16 +2,22 @@
 layout: default
 ---
 
+{%assign pagename = page.url | remove: page.fullpath | remove: ".html"%}
+
+{%assign pagepointer = site.data.pointers | where: "chapter",page.docid | where: "section",pagename%}
+
 <section class="specification-wrap">
   <aside class="spec-nav">
     {% for group in site.data.naf4 %}
     <nav class="bookgroup">
-      <div class="book">{{ group.title }}</div>
+      <div class="book"><a href="{{site.baseurl}}{{group.location}}">{{ group.title }}</a></div>
+      {% if group.id == page.docid %}
       <ul>
         {% for section in group.sections %}
         <li><a href="{{site.baseurl}}{{group.location}}{{section.url}}.html" title="{{section.title}}">{{section.short}}</a></li>
         {% endfor %}
       </ul>
+      {%endif%}
     </nav>
     {% endfor %}
   </aside>
@@ -19,8 +25,12 @@ layout: default
     <h1>{{ page.title }}</h1>
     {{ content }}
     <div class="pager">
-      <div class="prev"><a href="#">&lt;</a></div>
-      <div class="next"><a href="#">&gt;</a></div>
+      {%if pagepointer[0].prev%}
+      <div class="prev"><a href="{{pagepointer[0].prev}}.html">&lt;</a></div>
+      {% endif %}
+      {%if pagepointer[0].next%}
+      <div class="next"><a href="{{pagepointer[0].next}}.html">&gt;</a></div>
+      {% endif %}
     </div>
   </article>
 

@@ -4,7 +4,7 @@
   sections:
     - title: General
       short: General
-      url: 01-general
+      url: index
 
     - title: What is Architecture
       short: What is Architecture
@@ -63,7 +63,7 @@
   sections:
     - title: Foreword
       short: Foreword
-      url: 01-foreword
+      url: index
     - title: Scope
       short: Scope
       url: 02-scope
@@ -101,6 +101,7 @@
       short: Architecting Styles
       url: xf-arch-styles
 - title: Viewpoints
+  location: "/naf/viewpoints/"
   id: Viewpoint
   sections: []
 - title: NAF Meta Model
@@ -109,7 +110,7 @@
   sections:
     - title: Introduction
       short: Introduction
-      url: 01-introduction
+      url: index
     - title: Concepts Layer
       short: Concepts Viewpoint
       url: 02-concepts
@@ -131,7 +132,7 @@
   sections:
     - title: Objectives of the examples
       short: Objectives
-      url: 01-objectives
+      url: index
     - title: Overall use case description
       short: Use Case
       url: 02-usecase

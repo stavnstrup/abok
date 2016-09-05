@@ -118,6 +118,7 @@ Enterprise-level are:
 
 3.  The NISP which provides the most current baseline of
     interoperability profiles and technical standards.
+{: type="a"}
 
 ## Architectures at the Capability Level
 
@@ -136,6 +137,7 @@ packages). They are used to:
 
 4.  Direct, monitor and evaluate the execution of a set of
     related projects.
+{: type="a"}
 
 ## Architectures at the Project Level
 
@@ -161,6 +163,7 @@ the project aims to implement. They are used to:
 
 8.  Provide the basis for service transition and service
     operation activities.
+{: type="a"}
 
 ## Types of Architectures
 

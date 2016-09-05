@@ -38,34 +38,34 @@ title: The purpose and Scope of Architectures and Architecture Frameworks
    Some of the key types of analyses that can be supported by an architectural
    approach include:
 
-   1. **Static Analyses** – can include capability audit, interoperability analysis
-      or functional analysis. These analyses are often ‘paper-based’ using
-      simple analysis tools such as database queries and comparisons.
+     1. **Static Analyses** – can include capability audit, interoperability analysis
+        or functional analysis. These analyses are often ‘paper-based’ using
+        simple analysis tools such as database queries and comparisons.
 
-   2. **Dynamic Analyses** – sometimes referred to as executabes.
-      these anayses typically examine the temporal, spatial, or other
-      performance aspects of a system through dynamic simulations. For
-      example, these analyses might be used to assess the latency of time
-      sensitive targeting systems or conduct traffic analyses on deployed
-      tactical networks under a variety of loading scenarios.
+     2. **Dynamic Analyses** – sometimes referred to as executabes.
+        these anayses typically examine the temporal, spatial, or other
+        performance aspects of a system through dynamic simulations. For
+        example, these analyses might be used to assess the latency of time
+        sensitive targeting systems or conduct traffic analyses on deployed
+        tactical networks under a variety of loading scenarios.
 
-  3. **Experimentation** – where differing degrees of live versus simulated  
-      systems can be deployed during experimentation and there is a high
-      degree of control over the experiment variables. These can be used for
-      a variety of purposes across the acquisition cycle from analysing
-      intervention options to validating new capability prior to  For
-      example the use of events within NATO such as the Coalition Warrior
-      Interoperability Exercise (CWIX) and experiments held at various battle
-      labs to provide the ability to conduct human-in-the-loop simulations of
-      operational activities can provide venues for experimentation.
+    3. **Experimentation** – where differing degrees of live versus simulated
+       systems can be deployed during experimentation and there is a high
+       degree of control over the experiment variables. These can be used for
+       a variety of purposes across the acquisition cycle from analysing
+       intervention options to validating new capability prior to  For
+       example the use of events within NATO such as the Coalition Warrior
+       Interoperability Exercise (CWIX) and experiments held at various battle
+       labs to provide the ability to conduct human-in-the-loop simulations of
+       operational activities can provide venues for experimentation.
 
-   4. **Trials** – medium to large scale exercises involving fully functional
-      systems and large numbers of personnel, usually conducted in an
-      operational environment as realistic as possible. Such trials are
-      inevitably expensive and are usually only utilized for formal system
-      acceptance or assessment of operational readiness. (Note: Trials can
-      be independently executed or be part of an
-   {: type="a"}
+    4. **Trials** – medium to large scale exercises involving fully functional
+       systems and large numbers of personnel, usually conducted in an
+       operational environment as realistic as possible. Such trials are
+       inevitably expensive and are usually only utilized for formal system
+       acceptance or assessment of operational readiness. (Note: Trials can
+       be independently executed or be part of an
+    {: type="a"}
 
 # What is the value of an Architecture?
 
@@ -89,7 +89,6 @@ usage at two different levels[^value]:
        assignment of functional responsibility, and
 
     5. structuring the functional activities in terms of projects.
-    {: type="a"}
 
 2. Project level – architectures are used at the project level to identify
   capability requirements and operational resource needs that meet

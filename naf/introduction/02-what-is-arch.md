@@ -5,7 +5,7 @@ xpermalink: /:path/what-is-arch/
 
 ISO/IEC 42010 describes Architecture as:
 
-> “THE fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution*”.
+> "THE fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution".
 
 In the case of the NAF, a *system* is anything that can be considered with a: systemic approach, that is a:
 

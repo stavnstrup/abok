@@ -136,7 +136,7 @@ candidate target architectures, and govern implementation projects in
 consistency with enterprise portfolios (e.g. product portfolios and
 libraries of standards).
 
-{%include figure.html url="dodaf-6-steps.svg" description="6-steps architecture process \[DoDAF v2.0\]"%}
+{%include figure.html url="dodaf-6-steps.svg" description="6-steps architecture process in DoDAF v2.0"%}
 
 # Architecting dynamics and tailoring principles
 

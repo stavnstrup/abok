@@ -109,7 +109,7 @@ viewpoints as being the way to express concerns.
 Several dimensions can be considered for development of architectures.
 For example:
 
--   Architecture life cycle with phases, from creation to closed out.\
+-   Architecture life cycle with phases, from creation to closed out.
     The NAF v4 methodology does not specify the number and names
     of phases.
 
@@ -184,39 +184,11 @@ frameworks like TOGAF:
 </tbody>
 </table>
 
-|--------------------------------------+--------------------------------------|
-| TOGAF architectures                  | Usages                               |
-+======================================+======================================+
-| Capability Architecture              | An overview of current capabilities, |
-|                                      | target capabilities, and capability  |
-|                                      | increments to be fulfilled by one or |
-|                                      | several systems / projects.          |
-+--------------------------------------+--------------------------------------+
-| Business architecture                | A description of the structure and   |
-|                                      | interaction between the business     |
-|                                      | strategy, organisation, functions,   |
-|                                      | business processes, and information  |
-|                                      | needs.                               |
-+--------------------------------------+--------------------------------------+
-| Information Systems Architecture     | Describing how the enterprise’s      |
-|                                      | Information Systems will enable the  |
-|                                      | Business                             |
-|                                      |                                      |
-|                                      | Architecture and the Architecture    |
-|                                      | Vision.                              |
-|                                      |                                      |
-|                                      | Note: An Information system can be   |
-|                                      | seen as a subset of a system.        |
-+--------------------------------------+--------------------------------------+
-| Technology Architecture              | Description of technology assets and |
-|                                      | standards that are used to implement |
-|                                      | and realise solutions.               |
-+--------------------------------------+--------------------------------------+
 
 Note: These kinds of architecture are here quite similar to architecture
 viewpoints. But this wording is common practice.
 
-See ‎Annex A – - ‎A.1 for more explanation about how to consider kinds
+See ‎Annex ‎A.1 for more explanation about how to consider kinds
 of architecture in the NATO context.
 
 # Architecting Styles
@@ -671,7 +643,7 @@ The reference libraries may include:
     foundations to build the vocabulary of the projects. They can be
     updated and augmented by projects-specific terms and concepts.
 
--   Customisable architecture motivation data.\
+-   Customisable architecture motivation data.
     Architecture motivation data could cover the concepts defined in the
     Open Management Group Business Motivation Model with:
 

@@ -1,5 +1,5 @@
 ---
-title:  Styles of Architecting[^styles-of-architecting]
+title:  Styles of Architecting
 ---
 
 It is widely recognised that the development of an architecting approach is not
@@ -14,7 +14,7 @@ and, help to understand how value is delivered to the enterprise. The styles are
 driven by the purpose or reason for the architecture and reflect currently observed
 best practice.
 
-Four styles of architecting have been identified by architecture practitioners (Reference STO-MP-SCI-254-11 UK MOD’s ‘Perfect Storm’ – and the Need for Architectural Styles). They are as follows:
+Four styles of architecting[^styles-of-architecting] have been identified by architecture practitioners (Reference STO-MP-SCI-254-11 UK MOD’s ‘Perfect Storm’ – and the Need for Architectural Styles). They are as follows:
 
 1.  Authoritative
 
@@ -27,5 +27,4 @@ Four styles of architecting have been identified by architecture practitioners (
 
 Further details can be found in Chapter 2.
 
-[^styles-of-architecting]: Styles of Architecting should not be confused with the term ‘Architecture Styles’ which is used and
-defined in Engineering/Architecture.
+[^styles-of-architecting]: Styles of Architecting should not be confused with the term ‘Architecture Styles’ which is used and defined in Engineering/Architecture.

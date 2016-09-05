@@ -10,10 +10,6 @@ baseurl: "/naf4-publication"
 
 defaults:
   - scope:
-      path: "naf/"
-    values:
-      layout: "specification"
-  - scope:
       path: "naf/introduction"
     values:
       layout: "specification"
@@ -31,6 +27,12 @@ defaults:
       layout: "specification"
       rasterimages: "http://stavnstrup.github.io/naf4-raster/meta-model/"
       svgimages: "/images/metamodel/"
+  - scope:
+      path: "naf/examples"
+    values:
+      layout: "specification"
+      rasterimages: "http://stavnstrup.github.io/naf4-raster/examples/"
+      svgimages: "/images/examples/"
 
 #sass:
 #  style: compressed

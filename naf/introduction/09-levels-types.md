@@ -44,15 +44,15 @@ kinds can be considered. Among them:
 
 TOGAF describes 3 main types of architectures which were initially aimed at developing information management systems:
 
-  -   Business Architecture,
+  *   Business Architecture,
 
-  -   Information Architecture which includes;
+  *   Information Architecture which includes;
 
-      -   Application Architecture,
+      *   Application Architecture,
 
-      -   Data Architecture.
+      *   Data Architecture.
 
-  -   Technology Architecture.
+  *   Technology Architecture.
 
 Note: According to ISO/IEC/IEEE 42010, it is better to talk about Business, Information System and Technological viewpoints.
 

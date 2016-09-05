@@ -26,6 +26,14 @@ defaults:
       rasterimages: "http://stavnstrup.github.io/naf4-raster/methodology/"
       svgimages: "/images/methodology/"
   - scope:
+      path: "naf/viewpoints"
+    values:
+      docid: "viewpoints"
+      fullpath: "/naf/viewpoints/"
+      layout: "specification"
+      rasterimages: "http://stavnstrup.github.io/naf4-raster/viewpoints/"
+      svgimages: "/images/viewpoints/"
+  - scope:
       path: "naf/metamodel"
     values:
       docid: "meta"

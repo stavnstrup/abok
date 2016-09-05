@@ -102,8 +102,11 @@
       url: xf-arch-styles
 - title: Viewpoints
   location: "/naf/viewpoints/"
-  id: Viewpoint
-  sections: []
+  id: viewpoints
+  sections:
+    - title: index
+      short: index
+      url: index
 - title: NAF Meta Model
   location: "/naf/metamodel/"
   id: meta

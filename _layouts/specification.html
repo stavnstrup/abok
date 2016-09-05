@@ -10,7 +10,7 @@ layout: default
   <aside class="spec-nav">
     {% for group in site.data.naf4 %}
     <nav class="bookgroup">
-      <div class="book">{{ group.title }}</div>
+      <div class="book"><a href="{{site.baseurl}}{{group.location}}">{{ group.title }}</a></div>
       <ul>
         {% for section in group.sections %}
         <li><a href="{{site.baseurl}}{{group.location}}{{section.url}}.html" title="{{section.title}}">{{section.short}}</a></li>

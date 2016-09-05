@@ -101,6 +101,7 @@
       short: Architecting Styles
       url: xf-arch-styles
 - title: Viewpoints
+  location: "/naf/viewpoints/"
   id: Viewpoint
   sections: []
 - title: NAF Meta Model

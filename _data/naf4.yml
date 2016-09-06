@@ -154,3 +154,7 @@
     - title: Structure of the Architecture Management Plan
       short: Management Plan
       url: xa-amp
+- title: Glossary
+  location: "/naf/glossary"
+  id: glossary
+  sections: []

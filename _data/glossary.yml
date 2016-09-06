@@ -1,0 +1,394 @@
+- term: (Architecture) Evaluation
+  def: >
+    Judgment of the value, worth, significance, importance, or quality of one or
+    more architectures.
+  source: ISO/IEC 42030 (Draft 2016)
+
+- term: Architecting
+  def: >
+    Process of conceiving, defining, expressing, documenting, communicating,
+    assessing proper implementation of, maintaining and improving
+    an architecture of an entity throughout its life cycle.
+  source: Adapted from ISO/IEC/IEEE 42010:2011
+
+- term: Architecting Principle
+  def: >
+    Declarative statement that prescribes a property of something. They reflect
+    a level of consensus across the enterprise, and embody the spirit and
+    thinking of the enterprise architecture.
+  source: Adopted from TOGAF 9.1
+
+- term: Architecture
+  def: >
+    Fundamental concepts or properties of an entity of interest in its
+    environment embodied in its elements, relationships, and in the principles
+    of its design and evolution.
+  source: Adapted from ISO/IEC/IEEE 42010:2011
+
+- term: Architecture Description
+  def: Work product used to express an architecture.
+  source: ISO/IEC/IEEE 42010:2011
+
+- term: Architecture Governance
+  def: >
+    Strategic activities allowing mastering architecture according to the
+    enterprise directions and objectives.
+  source: ISO/IEC 42020 (draft)
+
+- term: Architecture Framework
+  def: >
+    Foundational structure, or set of structures, which can be used for
+    developing a broad range of different architectures. It should describe a
+    method for designing a target state of the enterprise in terms of a set of
+    building blocks, and for showing how the building blocks ﬁt together. It
+    should contain a set of tools and provide a common vocabulary. It should
+    also include a list of recommended standards and compliant products that can
+    be used to implement the building blocks.
+  source: TOGAF V9.1
+
+- term: Architecture Principle
+  def: >
+    Declarative statement that prescribes a property of something. They reflect
+    a level of consensus across the enterprise, and embody the spirit and
+    thinking of the enterprise architecture.
+  source: Adopted from TOGAF 9.1
+
+- term: Architecture Repository
+  def: >
+    Architecture Repository holds information concerning the enterprise
+    architecture and associated artefacts.
+  source: TOGAF V9.1
+
+- term: Architecture Style
+  def: >
+    Definition of a family of systems in terms of a pattern of structural
+    organization. Characterization of a family of systems that are related
+    by sharing structural and semantic properties.
+  source: ISO/IEC/IEEE 24765
+
+- term: Architecture Vision
+  def: >
+    The Architecture Vision is created early on in the project lifecycle and
+    provides a high-level, aspirational view of the end architecture
+    product. The purpose of the vision is to agree at the outset what the
+    desired outcome should be for the architecture, so that architects can
+    then focus on the critical areas to validate feasibility. Providing an
+    Architecture Vision also supports stakeholder communication by providing
+    an executive summary version of the full Architecture Definition.
+  source: TOGAF 9.1
+
+- term: Architecture View
+  def: >
+    Work product expressing the architecture from the perspective of
+    specific concerns. Architecting outcome expressing the architecture from
+    a given architecture viewpoint.
+  source: Adapted from ISO/IEC 42010:2011
+
+- term: Architecture Viewpoint
+  def: >
+    Work product establishing the conventions for the construction,
+    interpretation and use of architecture views to frame specific
+    concerns.
+  source: Adapted from ISO/IEC/IEEE 42010:2011
+
+- term: Artefact
+  def: >
+    An artefact is an architectural work product that describes an aspect of
+    the architecture. Artefacts are generally classified as catalogues
+    (lists of things), matrices (showing relationships between things), and
+    diagrams (pictures of things). Examples include a requirements
+    catalogues, business interaction matrix, and a use-case diagram. An
+    architectural deliverable may contain many artefacts and artefacts will
+    form the content of the Architecture Repository.
+  source: TOGAF 9.1
+
+- term: Baseline
+  alternatives:
+    - def: >
+        Agreement or result designated and fixed at a given time, from which
+        changes require justification and approval.
+    - def: >
+        A speciﬁcation that has been formally reviewed and agreed upon, that
+        thereafter serves as the basis for further development or change and
+        that can be changed only through formal change control procedures or a
+        type of procedure such as conﬁguration management.
+  source: ISO 24765/TOGAF V9.1
+
+- term: Building Block
+  alternatives:
+    - def: >
+        An element of an entity that will be used to implement the required
+        entity.
+    - def: >
+        Building blocks can be deﬁned at various levels of detail, depending
+        on what stage of architecture development has been reached. For
+        instance, at an early stage, a building block can simply consist of a
+        name or an outline description. Later on, a building block may be
+        decomposed into multiple supporting building blocks and may be
+        accompanied by a full speciﬁcation. Building blocks can relate to
+        ‘‘architectures’’ or ‘‘solutions’’.
+  source: TOGAF V9.1
+
+- term: Capability
+  def: >
+    A capability is the ability to achieve a desired effect under specified
+    standards and conditions. A capability is realized through combinations
+    of ways and means. The ability of one or more resources to deliver a
+    specified type of effect or a specified course of action.
+  note: >
+    The term “capability” has a number of different interpretations
+    (especially in the military community). In NAF, the term is reserved for
+    the specification of an ability to achieve an outcome. In that sense, it
+    is dispositional – i.e. resources may possess a Capability even if they
+    have never manifested that capability. The MODEM definition of
+    Capability expresses this dispositional aspect from a set-theoretic
+    point of view; “A Dispositional Property that is the set of all things
+    that are capable of achieving a particular outcome.”
+  source: Adapted from CJCSM 3170.01B
+
+- term: Catalogue
+  def: >
+   A structured list of architectural outputs of a similar kind, used for
+   reference. For example, a technology standards catalogue or an
+   application portfolio.
+  source: TOGAF V9.1
+
+- term: Concept
+  def: >
+   An idea or mental image which corresponds to some distinct entity or
+   class of entities, or to its essential features, or determines the
+   application of a term (especially a predicate), and thus plays a part in
+   the use of reason or language.
+  source: Oxford Dictionary
+
+- term: Concern
+  def: >
+    Interest or impact in an entity relevant to one or more of its
+    *stakeholders*
+  note: >
+    When the word concern is used without any qualifier it
+    refers to the general case. When a qualifier is prepended to the word
+    concern, this indicates that the concern applies to the particular kind
+    of thing, such as in the following examples: stakeholder concern,
+    architecture concern, system concern.
+  source: ISO/IEC/IEEE 4202à (draft)
+
+- term: Configuration Management
+  def: >
+    A discipline applying technical and administrative direction and
+    surveillance to:
+  list:
+    - def: >
+       Identify and document the functional and physical characteristics of
+       a conﬁguration item
+    - def: Control changes to those characteristics
+    - def: >
+        Record and report changes to processing and implementation status.
+        Also, the management of the conﬁguration of enterprise architecture
+        practice (intellectual property) assets and baselines and the
+        control of change over of those assets.
+  source: TOGAF V9.1
+
+- term: Deliverable
+  def: >
+    An work product that is contractually speciﬁed and in turn formally
+    reviewed, agreed, and signed off by the stakeholders.
+  source: Adapted from TOGAF V9.1
+
+- term: Driver
+  def: >
+    (Architecting / Engineering) An external or internal condition that
+    motivates the organization to deﬁne its goals. An example of an external
+    driver is a change in regulation or compliance rules which, for example,
+    require changes to the way an organization operates; i.e.,
+    Sarbanes-Oxley in the US.
+  source: TOGAF V9.1
+
+- term: Enterprise
+  def: >
+    Project or undertaking, especially a bold or complex one.
+  note: >
+    One or more organizations will participate in an enterprise. Each
+    of these organizations brings various resources forward for use in the
+    enterprise and they participate to the extent that they benefit from
+    their involvement. The purpose of the enterprise is to address some
+    challenges that these participating organizations cannot readily address
+    on their own. (See definition of *organization* below.
+  source: Oxford English Dictionary, downloaded 28th July 2016
+
+- term: Enterprise Architecture
+  def: >
+    The formal description of the structure and function of the components
+    of an enterprise, their interrelationships, and the principles and
+    guidelines governing their design and evolution over time.
+  source: MODAF V1.1
+
+- term: Gap
+  def: A statement of difference between two references.
+  source: NATO IST-130
+
+- term: Goal
+  def: >
+    A high-level statement of intent or direction for an organization.
+    Typically used to measure success of an organization.
+  source: TOGAF 9.1
+
+- term: Lifecycle
+  def: >
+    Set of distinguishable phases or stages that an entity goes through from
+    its conceptualization until it ceases to exist.
+  note: >
+    The architecture life cycle starts with the identification of a
+    need for the architecture and ends with its decommissioning/discarding.
+    The life cycle applies either to the architecture or to the architecture
+    entity.
+  source: ISO/IEC 42020 (draft)
+
+- term: Model
+  def: >
+    A representation of a subject of interest. A model provides a smaller
+    scale, simpliﬁed, and/or abstract representation of the subject matter.
+    A model is constructed as a ‘‘means to an end’’. In the context of
+    enterprise architecture, the subject matter is a whole or part of the
+    enterprise and the end is the ability to construct ‘‘views’’ that
+    address the concerns of particular stakeholders; i.e., their
+    ‘‘viewpoints’’ in relation to the subject matter.
+  source: TOGAF V9.1
+
+- term: Objective
+  def: >
+    An increase for an organization used to demonstrate progress towards a
+    goal; for example, ‘‘Increase Capacity Utilization by 30% to support the
+    planned increase in market share’’.
+  source: Adapted for TOGAF
+
+- term: Organization
+  def: >
+    Group of people and facilities with an arrangement of responsibilities,
+    authorities and relationships.
+  source: ISO/IEC 42020 (draft)
+
+- term: Pattern
+  def: >
+    A technique for putting building blocks into context; for example, to
+    describe a re-usable solution to a problem. Building blocks are what you
+    use: patterns can tell you how you use them, when, why, and what
+    trade-offs you have to make in doing so.
+  source: TOGAF V9.1
+
+- term: Programme
+  def: >
+    A group of related projects managed in a coordinated way to obtain
+    benefits and control not available from managing them individually.
+    Programs may include elements of related work outside of the scope of
+    the discrete projects in the program.
+  source: ISO 24765
+
+- term: Project
+  def: >
+    Endeavour with defined start and finish dates undertaken to create a
+    product or service in accordance with specified resources and
+    requirements.
+  source: ISO 24765
+
+- term: Repository
+  def: >
+    Place where work products and the associated information items are or
+    can be stored for preservation and retrieval.
+  source: ISO/IEC 42020 (draft)
+
+- term: Requirement
+  def: >
+    A condition or capability needed by a user to solve a problem or achieve
+    an objective. 2. a condition or capability that must be met or possessed
+    by a system, system component, product, or service to satisfy an
+    agreement, standard, specification, or other formally imposed documents
+    3. a documented representation of a condition or capability as in (1) or
+    (2) 4. a condition or capability that must be met or possessed by a
+    system, product, service, result, or component to satisfy a contract,
+    standard, specification, or other formally imposed document.
+    Requirements include the quantified and documented needs, wants, and
+    expectations of the sponsor, customer, and other stakeholders.
+  source: ISO 24765
+
+- term: Role
+  def: >
+    The usual or expected function of an actor, or the part somebody or
+    something plays in a particular action or event. An Actor may have a
+    number of roles.
+    The part an individual plays in an organization and the contribution
+    they make through the application of their skills, knowledge,
+    experience, and abilities.
+  source: TOGAF V9.1
+
+- term: Solution
+  def: >
+    Result from the development, to meet the Customer, end user and the
+    company business needs, and taking into account all applicable
+    constraints, consisting of the System-of-Interest and its enabling
+    systems.
+  source: IST-130
+
+- term: Stakeholder
+  def: >
+    Individual or organization having an interest in an entity or a course
+    of action.
+  source: Adapted from ISO 15288
+
+- term: Standard
+  alternatives:
+    - def: >
+        Set of mandatory requirements established by consensus and maintained
+        by a recognized body to prescribe a disciplined uniform approach or
+        specify a product, that is, mandatory conventions and practices.
+    - def: >
+        A document that provides, for common and repeated use, rules,
+        guidelines or characteristics for activities or their results, aimed at
+        the achievement of the optimum degree of order in a given context.
+  source: ISO 24765
+
+- term: Strategy
+  def: >
+    An organization's overall plan of development, describing the
+    effective use of resources in support of the organization in its future
+    activities.
+  source: ISO/IEC/IEEE 24765:2010
+
+- term: System
+  def: >
+    A system is an integrated set of elements, subsystems, or assemblies
+    that accomplish a defined objective. These elements include products
+    (hardware, software, firmware), processes, people, information,
+    techniques, facilities, services, and other support elements.
+    Combination of interacting elements organized to achieve one or more
+    stated purposes.
+  note: >
+    Individual System: A complete system includes all of the
+    associated equipment, facilities, material, computer programs, firmware,
+    technical documentation, services, and personnel required for operations
+    and support to the degree necessary for self-sufficient use in its
+    intended environment.
+    A man-made configuration with one or more of the following: hardware,
+    software, data, humans, processes (e.g. processes for providing service
+    to users), procedures (e.g. operator instructions), facilities,
+    materials and naturally occurring entities”.
+  source: INCOSE SE Handbook, v3.2, 2010, ISO/IEC 15288/ISO 24765
+
+- term: System of Interest
+  def: >
+    (Architecting) Refers to the system whose architecture is under
+    consideration in the preparation of an architecture description.
+  source: IST-130
+
+- term: Traceability
+  def: >
+    A discernible association among two or more logical entities such as
+    requirements, system elements, verifications, or tasks.
+  source: SEI Glossary CMMI
+
+- term: Trade off Analyses
+  def: >
+    Analyses for decision-making actions that select from various
+    requirements and alternative solutions on the basis of net benefit to
+    the stakeholders.
+  source: Adopted from ISO 24765

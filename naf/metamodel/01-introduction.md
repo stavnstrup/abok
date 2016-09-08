@@ -19,10 +19,10 @@ concepts. MODEM, therefore, provides semantic rigour for the NAF.
 
 A high-level view of the NAF Meta-Model (MODEM) is shown below:
 
-{% include rasterfigure.html url="image1.emf" description="High-Level View of MODEM" %}
+{% include rasterfigure.html url="image1.png" description="High-Level View of MODEM" %}
 
 
-{% include rasterfigure.html url="image1.emf" description="High Level View with Deployed layer removed" %}
+{% include rasterfigure.html url="image1.png" description="High Level View with Deployed layer removed" %}
 
 
 

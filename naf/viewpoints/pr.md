@@ -1,6 +1,6 @@
 ---
 title: PR – Configuration Management
-layout: NAF v3: NSV-8; MODAF: SV-8
+legacy: "NAF v3: NSV-8; MODAF: SV-8"
 ---
 
 The Pr Configuration Management View depicts the whole lifecycle view of a

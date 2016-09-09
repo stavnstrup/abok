@@ -26,7 +26,7 @@ The aim of the NATO Architecture Framework Version 4 (NAF v4) is to
 provide a standard for developing and describing architectures for both
 military and business use.
 
-### Objectives
+# Objectives
 
 The objectives of the framework are:
 

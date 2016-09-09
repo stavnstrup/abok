@@ -1,5 +1,5 @@
 ---
-title: Architecture Concept Diagram (NAF V3: NOV-1; MODAF: OV-1) Concerns Addressed
+title: "Architecture Concept Diagram (NAF V3: NOV-1; MODAF: OV-1) Concerns Addressed"
 ---
 
 ## Concerns Addressed

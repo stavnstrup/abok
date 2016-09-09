@@ -1,5 +1,6 @@
 ---
 title: NAF Grid Representation
+permalink: /:path/index.html
 ---
 
 The NAF is a two-dimensional classification scheme for descriptive representations

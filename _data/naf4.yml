@@ -104,9 +104,27 @@
   location: "/naf/viewpoints/"
   id: viewpoints
   sections:
-    - title: index
-      short: index
+    - title: NAF Grid Representation
+      short: NAF Grid Representation
       url: index
+    - title: "Architecture Concept Diagram (NAF V3: NOV-1; MODAF: OV-1) Concerns Addresse"
+      short: Architecture Concept Diagram
+      url: 02-arch.concept
+    - title: Concepts Layer
+      short: Concepts Layer
+      url: 03-concepts
+    - title: Service Specifications Layer
+      short: Service Layer
+      url: 04-service
+    - title: Logical Specifications Layer
+      short: Logical Layer
+      url: 05-logical
+    - title: Physical Resource Specifications Layer
+      short: Physical Resource Layer
+      url: 06-physical
+    - title: Architecture Metadata Layer
+      short: Architecture Layer
+      url: 07-architecture
 - title: NAF Meta Model
   location: "/naf/metamodel/"
   id: metamodel

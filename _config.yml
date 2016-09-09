@@ -12,7 +12,7 @@ defaults:
   - scope:
       path: "naf/introduction"
     values:
-      docid: "intro"
+      docid: "introduction"
       fullpath: "/naf/introduction/"
       layout: "specification"
       rasterimages: "http://stavnstrup.github.io/naf4-raster/introduction/"
@@ -20,7 +20,7 @@ defaults:
   - scope:
       path: "naf/methodology"
     values:
-      docid: "meth"
+      docid: "methodology"
       fullpath: "/naf/methodology/"
       layout: "specification"
       rasterimages: "http://stavnstrup.github.io/naf4-raster/methodology/"
@@ -36,7 +36,7 @@ defaults:
   - scope:
       path: "naf/metamodel"
     values:
-      docid: "meta"
+      docid: "metamodel"
       fullpath: "/naf/metamodel/"
       layout: "specification"
       rasterimages: "http://stavnstrup.github.io/naf4-raster/meta-model/"
@@ -44,7 +44,7 @@ defaults:
   - scope:
       path: "naf/examples"
     values:
-      docid: "exam"
+      docid: "examples"
       fullpath: "/naf/examples/"
       layout: "specification"
       rasterimages: "http://stavnstrup.github.io/naf4-raster/examples/"

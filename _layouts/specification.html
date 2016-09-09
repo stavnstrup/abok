@@ -4,7 +4,7 @@ layout: default
 
 {%assign pagename = page.url | remove: page.fullpath | remove: ".html"%}
 
-{%assign pagepointer = site.data.pointers | where: "chapter",page.docid | where: "section",pagename%}
+{%assign pagepointer = site.data.pointers | where: "chapter",page.docid | where: "sectionname",pagename%}
 
 <section class="specification-wrap">
   <aside class="spec-nav">

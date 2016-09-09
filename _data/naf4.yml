@@ -1,5 +1,5 @@
 - title: Introduction
-  id: intro
+  id: introduction
   location: "/naf/introduction/"
   sections:
     - title: General
@@ -58,7 +58,7 @@
       short: Use of NAF in NATO
       url: xc-naf-in-nato
 - title: Methodology
-  id: meth
+  id: methodology
   location: "/naf/methodology/"
   sections:
     - title: Foreword
@@ -109,7 +109,7 @@
       url: index
 - title: NAF Meta Model
   location: "/naf/metamodel/"
-  id: meta
+  id: metamodel
   sections:
     - title: Introduction
       short: Introduction
@@ -131,7 +131,7 @@
       url: 06-architecture
 - title: Examples
   location: "/naf/examples/"
-  id: exam
+  id: examples
   sections:
     - title: Objectives of the examples
       short: Objectives

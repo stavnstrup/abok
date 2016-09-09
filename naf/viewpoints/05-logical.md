@@ -1,5 +1,5 @@
 ---
-title: LOGICAL SPECIFICATIONS LAYER
+title: Logical Specifications Layer
 viewpoint: logical
 ---
 

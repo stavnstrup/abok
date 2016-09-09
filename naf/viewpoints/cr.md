@@ -1,6 +1,7 @@
 ---
 title: Cr - Capability Roadmap
 legacy: "NAF v3: NCV-3; MODAF: StV-3"
+viewpoint: concepts
 ---
 
 The Cr Capability Roadmap View provides a representation of the actual or

@@ -1,5 +1,6 @@
 ---
 title: LOGICAL SPECIFICATIONS LAYER
+viewpoint: logical
 ---
 
 The Logical Specifications layer is a solution-independent description of the

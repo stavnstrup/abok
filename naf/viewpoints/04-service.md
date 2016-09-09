@@ -1,5 +1,6 @@
 ---
 title: Service Specifications Layer
+viewpoint: service
 ---
 
 The Service Specifications layer describes Services independently of how they are

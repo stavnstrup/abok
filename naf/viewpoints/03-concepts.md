@@ -1,5 +1,6 @@
 ---
 title: Concepts Layer
+viewpoint: concepts
 ---
 
 The Concepts layer supports the process of analysing and optimizing the delivery

@@ -1,5 +1,6 @@
 ---
 title: Architecture Metadata Layer
+viewpoint: architecture
 ---
 
 The Architecture Meta-Data layer covers the administrative aspects of the

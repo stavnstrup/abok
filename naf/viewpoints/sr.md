@@ -1,5 +1,6 @@
 ---
 title: SR – Service Roadmap
+viewpoint: service
 ---
 
 The purpose of the Sr Service Roadmap View is to show versions (and version

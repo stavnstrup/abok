@@ -1,6 +1,7 @@
 ---
 title: LR – Lines of Development
 legacy: "NAF v3: NPV-2; MODAF: AcV-2"
+viewpoint: logical
 ---
 
 The Lr Lines of Development View specifies the logical threads (lines of

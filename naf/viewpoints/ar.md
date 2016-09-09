@@ -1,6 +1,7 @@
 ---
 title: AR – Architecture Roadmap
 legacy: "NAF v3: NAV-1; MODAF: AV-1"
+viewpoint: architecture
 ---
 
 The Ar Architecture Roadmap View shows the project timeline for the architecture,

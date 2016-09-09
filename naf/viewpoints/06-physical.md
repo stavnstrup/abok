@@ -1,5 +1,6 @@
 ---
 title: Physical Resource Specifications Layer
+viewpoint: physical
 ---
 
 The Physical Resource Specifications Layer is a set of graphical and textual views

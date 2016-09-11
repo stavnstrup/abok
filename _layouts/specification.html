@@ -22,16 +22,25 @@ layout: default
     {% endfor %}
   </aside>
   <article class="spec-content">
-    <h1>{{ page.title }}</h1>
+    <h1 class="page-title">{{ page.title }}</h1>
+    <div class="pager">
+      {%if pagepointer[0].prev%}
+      <div class="prev"><a href="{{pagepointer[0].prev}}.html"><i class="fa fa-arrow-left" aria-hidden="true"></i></a></div>
+      {% endif %}
+      {%if pagepointer[0].next%}
+      <div class="next"><a href="{{pagepointer[0].next}}.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
+      {% endif %}
+    </div>
     {{ content }}
     <div class="pager">
       {%if pagepointer[0].prev%}
-      <div class="prev"><a href="{{pagepointer[0].prev}}.html">&lt;</a></div>
+      <div class="prev"><a href="{{pagepointer[0].prev}}.html"><i class="fa fa-arrow-left" aria-hidden="true"></i></a></div>
       {% endif %}
       {%if pagepointer[0].next%}
-      <div class="next"><a href="{{pagepointer[0].next}}.html">&gt;</a></div>
+      <div class="next"><a href="{{pagepointer[0].next}}.html"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
       {% endif %}
     </div>
   </article>
 
 </section>
+<script src="https://use.fontawesome.com/82ec2366dc.js"></script>

@@ -1,6 +1,6 @@
 ---
 title: Training
-layout: default
+layout: page
 ---
 
 

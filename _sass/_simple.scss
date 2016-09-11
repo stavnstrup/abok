@@ -14,10 +14,19 @@ $susy: (
   box-sizing: border-box;
 }
 
+
+.page-wrapper {
+  @include container;
+  max-width: 1000px;
+  padding: 0 20px;
+  margin-top: 40px;
+}
+
 .specification-wrap {
   @include container;
   max-width: 1000px;
   padding: 0 20px;
+  margin-top: 40px;
 
   .spec-nav {
 //    background-color: pink;
@@ -56,10 +65,23 @@ $susy: (
   }
 }
 
+.page-title {
+  font-weight: bold;
+  font-size: 3.2em;
+  margin-top: 0;
+}
+
+h1 {
+  margin-top: 1.4em;
+  margin-bottom: .8em;
+}
+
+h2 {
+
+}
 
 .pager {
   @include clearfix;
-  background-color: black;
   color: white;
   font-weight: 700;
   padding: .5em;
@@ -91,12 +113,11 @@ nav.bookgroup, nav.bookgroup li {
 }
 
 
-
 header {
 //  display: none;
   padding: 2rem 0;
   width: 100%;
-  border-bottom: 2px solid gray;
+  //border-bottom: 2px solid gray;
   .header-logo {
     img {
       float: left;

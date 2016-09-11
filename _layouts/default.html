@@ -13,11 +13,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" media="screen" title="no title" />
 
     <!-- Custom CSS -->
-    {% if site.environment == 'development' %}
-    <link rel="stylesheet" href="/css/styles.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
-    {% else %}
     <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css?{{ site.time | date: "%Y%m%j%H%M%S" }}">
-    {% endif%}
   </head>
   <body>
     {% include header.html %}

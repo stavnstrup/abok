@@ -115,51 +115,49 @@ The context of the Yellow country is as follows:
     {: type="i"}
 
 3.  Maritime surveillance objectives :
+
+    1.  Strategic
+
+        1. Development of an effective maritime surveillance system
+           including search and rescue capability.
+
+        2. Need to ensure control on the movement of people goods and
+           material
+
+        3. Better linkage with neighbours and with multinational Level.
+        {: type="i"}
+
+    2.  Economic
+
+        1. Reduce the costs of maritime surveillance.
+
+        2. Re-use of the legacies (radio systems, radars).
+        {: type="i" start="4"}
+
+    3.  Technical
+
+        1. Describe the capability of the maritime surveillance to develop
+           in the yellow country for the 5 to 10 coming years.
+
+        2. Integrate the capabilities of maritime surveillance of the
+           Rainbow community.
+
+        3. Increase interoperability between yellow forces and with
+           Rainbow member states.
+        {: type="i" start="6"}
+
+    4.  Operational
+
+        1. Common operational procedures exist at Rainbow level
+
+        2. Interaction is in place between coast guards and civilian
+           security actors (Heli-OC- Hospitals).
+
+        3. Interaction is in place with other actors.
+        {: type="i" start="9"}
+    {: type="a"}
 {: type="a"}
 
-
-
-
-1.  Strategic
-
-    1.  Development of an effective maritime surveillance system
-        including search and rescue capability.
-
-    2. Need to ensure control on the movement of people goods and
-       material
-
-    3. Better linkage with neighbours and with multinational Level.
-    {: type="i"}
-
-2.  Economic
-
-    1.  Reduce the costs of maritime surveillance.
-
-    2. Re-use of the legacies (radio systems, radars).
-    {: type="i"}
-
-3.  Technical
-
-    1. Describe the capability of the maritime surveillance to develop
-      in the yellow country for the 5 to 10 coming years.
-
-    2. Integrate the capabilities of maritime surveillance of the
-       Rainbow community.
-
-    3. Increase interoperability between yellow forces and with
-       Rainbow member states.
-    {: type="i"}
-
-4.  Operational
-
-    1. Common operational procedures exist at Rainbow level
-
-    2. Interaction is in place between coast guards and civilian
-       security actors (Heli-OC- Hospitals).
-
-    3. Interaction is in place with other actors.
-    {: type="i"}
-{: type="i"}
 
 The following architecture elements already exist:
 

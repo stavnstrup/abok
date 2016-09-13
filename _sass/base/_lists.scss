@@ -34,9 +34,15 @@ ul {
 
 }
 
+*  [type=i] {
+  list-style-type: lower-roman;
+
+}
+
+
 .spec-nav ul {
   list-style-type: none;
-  padding-left: 0;  
+  padding-left: 0;
 }
 
 .footnotes {

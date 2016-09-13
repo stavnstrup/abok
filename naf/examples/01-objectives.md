@@ -57,7 +57,7 @@ denomination and the precedent one will be made. The EA efforts
 conducted in the different bodies of NATO can be sorted according to
 **levels**:
 
-1.  **Enterprise architecture at Level: **
+1.  **Architecture at Enterprise  Level:**
 
     “They provide the architecture content that forms the foundation for
     architectural coherence across the entire NATO Enterprise, and beyond.
